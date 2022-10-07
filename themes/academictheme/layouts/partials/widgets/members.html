@@ -1,0 +1,133 @@
+{{/* People Widget */}}
+
+{{/* Initialise */}}
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $show_social := $page.Params.design.show_social | default false }}
+{{ $show_interests := $page.Params.design.show_interests | default true }}
+{{ $show_bio := $page.Params.design.show_bio | default true }}
+{{ $show_organizations := $page.Params.design.show_organizations | default false }}
+{{ $show_role := $page.Params.design.show_role | default true }}
+{{ $view := $page.Params.design.view | default "profile_card" }}
+
+<div class="row justify-content-center people-widget">
+  {{ with $page.Title }}
+  <div class="col-md-12 section-heading">
+    <h1>{{ . | markdownify | emojify }}</h1>
+    {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
+  </div>
+  {{ end }}
+
+  {{ with $page.Content }}
+  <div class="col-md-12">
+    {{ . }}
+  </div>
+  {{ end }}
+
+
+
+  {{ with $page.Params.content }}{{ . }}{{ end }}
+
+  {{ if $page.Params.Params.content.filter_button }}
+
+    {{ $filter_default := default (int $page.Params.Params.content.filter_default) 0 }}
+
+    {{/* Parse default filter tag from front matter in the form of either tag name or CSS class name. */}}
+    {{ $default_filter_item := (index $page.Params.Params.content.filter_button ($filter_default)) }}
+    {{ $default_data_filter := "" }}
+    {{ with $default_filter_item.filter }}
+      {{ $default_data_filter = . }}
+    {{ else }}
+      {{ $default_filter_tag := $default_filter_item.tag }}
+      {{ if or (eq (substr $default_filter_tag 0 1) "*") (eq (substr $default_filter_tag 0 1) ".") }}
+        {{ $default_data_filter = $default_filter_tag }}
+      {{ else }}
+        {{ $default_data_filter = printf ".js-id-%s" (lower (replace $default_filter_tag " " "-")) }}
+      {{ end }}
+    {{end}}
+
+    <span class="d-none default-project-filter">{{ $default_data_filter }}</span>
+
+    {{/* Only show filter buttons if there are multiple filters. */}}
+    {{ if gt (len $page.Params.Params.content.filter_button) 1 }}
+    <div class="project-toolbar">
+      <div class="project-filters">
+        <div class="btn-toolbar">
+          <div class="btn-group flex-wrap">
+            {{ range $idx, $item := $page.Params.Params.content.filter_button }}
+              {{/* Parse filter tag from front matter in the form of either tag name or CSS class name. */}}
+              {{ $data_filter := "" }}
+              {{ with .filter }}
+                {{ $data_filter = . }}
+              {{ else }}
+                {{ if or (eq (substr .tag 0 1) "*") (eq (substr .tag 0 1) ".") }}
+                  {{ $data_filter = .tag }}
+                {{ else }}
+                  {{ $data_filter = printf ".js-id-%s" (lower (replace .tag " " "-")) }}
+                {{ end }}
+              {{ end }}
+              <a href="#" data-filter="{{ $data_filter | safeHTMLAttr }}" class="btn btn-primary btn-lg{{ if eq $idx $filter_default }} active{{ end }}">{{ .name }}</a>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  {{ end }}
+
+
+
+
+  {{ range $page.Params.content.user_groups }}
+  {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
+  {{if $query | and (gt (len $page.Params.content.user_groups) 1) }}
+  <div class="col-md-12">
+    <h2 class="mb-4">{{ . | markdownify }}</h2>
+  </div>
+  {{end}}
+
+  {{ range $index, $item := $query }}
+  {{ $avatar := (.Resources.ByType "image").GetMatch "*featured*" }}
+  {{/* Get link to user's profile page. */}}
+  {{ $link := "" }}
+  {{ if .Params.external_link }}
+    {{ $link = $item.Params.external_link }}
+  {{ else }}
+  {{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}
+    {{ $link = $item.RelPermalink }}
+  {{ end }}
+  {{ end }}
+  {{ $js_tag_classes := delimit (apply (apply (apply $item.Params.tags "replace" "." " " "-") "printf" "js-id-%s" ".") "lower" ".") " " }}
+    {{ if in (slice "masonry" 3) $view }}
+      <div class="project-card project-item isotope-item {{ $js_tag_classes | safeHTMLAttr }}">
+    {{else}}
+      <div class="col-12 isotope-item {{ $js_tag_classes | safeHTMLAttr }}">
+    {{end}}
+    {{ partial "functions/render_view" (dict "page" $page "item" . "view" $view "index" $index) }}
+  </div>
+
+  <!-- <div class="col-12 col-sm-auto people-person">
+    {{ $src := "" }}
+    {{ if site.Params.features.avatar.gravatar }}
+      {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
+    {{ else if $avatar }}
+      {{ $avatar_image := $avatar.Fill "270x270 Center" }}
+      {{ $src = $avatar_image.RelPermalink }}
+    {{ end }}
+    {{ if $src }}
+      {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
+      {{with $link}}<a href="{{.}}">{{end}}<img width="270" height="270" loading="lazy" class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">{{if $link}}</a>{{end}}
+    {{ end }}
+
+    <div class="portrait-title">
+      <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
+      {{ if and $show_organizations .Params.organizations }}{{ range .Params.organizations }}<h3>{{ .name }}</h3>{{ end }}{{ end }}
+      {{ if and $show_role .Params.role }}<h3>{{ .Params.role | markdownify | emojify }}</h3>{{ end }}
+      {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
+      {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
+      {{ if and $show_bio .Params.bio }}<h3>{{ .Params.bio }}</h3>{{ end }}
+    </div>
+  </div> -->
+  {{ end }}
+  {{ end }}
+</div>
