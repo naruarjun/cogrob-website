@@ -8,7 +8,7 @@ title: Latest News
 subtitle: Latest Cogrob news
 
 content:
-  count: 20
+  count: 5
   filters:
     author: ''
     category: ''

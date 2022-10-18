@@ -1,9 +1,7 @@
 {{/* Display author list. */}}
 
-{{- $taxonomy := "authors" }}
+{{- $taxonomy := "projects" }}
 {{ if .Param $taxonomy }}
-  <i class="fa fa-user" aria-hidden="true"></i>
-
   {{ range $index, $value := (.GetTerms $taxonomy) }}
     {{- /* Highlight the author's name? */ -}}
     {{- $highlight_name := .Page.Params.highlight_name | default false -}}
@@ -13,8 +11,8 @@
       {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
       {{- if .RelPermalink -}}
       {{ $page_path := (print .RelPermalink "index.html") }}
-        {{ $name_id := printf "/people#%s" (.LinkTitle)}}
-        <a class="badge badge-light" href="{{$name_id}}" style="font-size: 1.1em;">{{(site.GetPage $page_path).Title}}</a>
+        {{ $name_id := printf "/project#%s" (.LinkTitle)}}
+        <a class="badge badge-light" href="{{$name_id}}">{{(site.GetPage $page_path).Title}}</a>
       {{- else -}}
         {{ .LinkTitle }}
       {{- end -}}

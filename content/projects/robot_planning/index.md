@@ -1,6 +1,6 @@
 ---
-title: AVL
-summary: A summary describing the activities of the AVL
+title: Robot Planning
+summary: A summary describing the activities Robot planning. Ask Andi and Frank to write some stuff here. A summary describing the activities Robot planning. Ask Andi and Frank to write some stuff here. A summary describing the activities Robot planning. Ask Andi and Frank to write some stuff here. A summary describing the activities Robot planning. Ask Andi and Frank to write some stuff here. A summary describing the activities Robot planning. Ask Andi and Frank to write some stuff here. A summary describing the activities Robot planning. Ask Andi and Frank to write some stuff here. A summary describing the activities Robot planning. Ask Andi and Frank to write some stuff here. 
 tags:
   - AVL
 # date: '2022-04-27T00:00:00Z'
@@ -28,9 +28,12 @@ image:
 # url_slides: ''
 # url_video: ''
 
-members: 
-  - David
-  - Henry
+authors: 
+  - jiaming
+  - andi
+  - cassie
+  - sanmi
+  - ajlangley
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

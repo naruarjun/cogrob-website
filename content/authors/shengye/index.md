@@ -1,11 +1,11 @@
 ---
 # Display name
-title:    Yiding (Cassie) Qiu   
+title: Shengye Wang     
 subtitle: PhD in CSE.
 
 # Username (this should match the folder name)
 authors:
-  - yiding
+  - shengye
 
 # Is this the primary user of the site?
 superuser: false
@@ -34,16 +34,11 @@ show_interests: true
 
 education:
   courses:
-    - course: Master of Science (M.S.) 
-      institution: University of California San Diego
-      country: USA
-      degree: Computer Science and Engineering
-      year: 2020
     - course: Bachelor of Science (B.S.)
-      institution: University of California San Diego
+      institution: New York University
       country: USA
-      degree: Cognitive Science & Physics
-      year: 2017
+      degree: Mathematics
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -71,10 +66,10 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Alumni
 
 projects: ['AVL']
 
 ---
 
-I'm Cassie!
+I'm Henry!

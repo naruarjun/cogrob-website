@@ -1,18 +1,19 @@
 ---
-title: AVL
-summary: A summary describing the activities of the AVL
+title: Human Robot Interaction
+summary: A summary for human robot interaction. Get chris to have something here. A summary for human robot interaction. Get chris to have something here. A summary for human robot interaction. Get chris to have something here. A summary for human robot interaction. Get chris to have something here. A summary for human robot interaction. Get chris to have something here. A summary for human robot interaction. Get chris to have something here. A summary for human robot interaction. Get chris to have something here.
 tags:
-  - AVL
+  - Service
 # date: '2022-04-27T00:00:00Z'
 weight: 2
 location:
-# authors: 
-#   - david
-#   - henry
+authors: 
+  - david
+  - ajlangley
+
 show_date: False
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'http://avl.ucsd.edu/'
+external_link: ''
 
 image:
   caption: something
@@ -28,9 +29,9 @@ image:
 # url_slides: ''
 # url_video: ''
 
-members: 
-  - David
-  - Henry
+authors: 
+  - chris
+  - sanmi
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

@@ -31,6 +31,7 @@ interests:
 show_education: true
 show_project: true
 show_interests: true
+show_summary: false
 
 education:
   courses:

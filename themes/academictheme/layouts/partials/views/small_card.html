@@ -21,53 +21,53 @@
 {{ end }}
 
 
-    <div class="card card-simple view-card card-body" style="margin-right:20px!important;min-width:250px!important">
-        {{ if eq $item.Type "event" }}
-        <div class="article-metadata">
-          {{ if $item.Params.authors }}
-          <div>
-            {{ partial "page_metadata_authors" $item }}
-          </div>
-          {{ end }}
-          <span>
-            {{ partial "functions/get_event_dates" $item }}
-          </span>
-          {{ with $item.Params.location }}
-          <span class="middot-divider"></span>
-          <span>{{ . }}</span>
-          {{ end }}
-        </div>
-        {{ else }}
-          {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
-        {{ end }}
-
-
-        {{ $resource := partial "functions/get_featured_image.html" $item }}
-        {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
-        {{ with $resource }}
-          {{ $image := .Fill (printf "808x455 webp %s" $anchor) }}
-          <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
-            <div class="img-hover-zoom">
-              <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-                  class="article-banner" alt="{{ $item.Title }}" loading="lazy">
-            </div>
-          </a>
-        {{end}}
-        <div class="section-subheading article-title mb-1 mt-3" style="font-size: 1em;">
-            <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
-          </div>
-          {{ if $item.Params.location }}
-          <div class="article-subtitle">
-            <i>{{$item.Params.location}}</i>
-          </div>
-          {{ end }}
-        
-          {{ with $summary }}
-          <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
-            <div class="article-style">
-              <p>{{.}}</p>
-            </div>
-          </a>
-          {{ end }}
-              
+<div class="card card-simple view-card card-body" style="margin-right:20px!important;min-width:250px!important">
+    {{ if eq $item.Type "event" }}
+    <div class="article-metadata">
+      {{ if $item.Params.authors }}
+      <div>
+        {{ partial "page_metadata_authors" $item }}
+      </div>
+      {{ end }}
+      <span>
+        {{ partial "functions/get_event_dates" $item }}
+      </span>
+      {{ with $item.Params.location }}
+      <span class="middot-divider"></span>
+      <span>{{ . }}</span>
+      {{ end }}
     </div>
+    {{ else }}
+      {{ partial "page_metadata" (dict "page" $item "is_list" 1) }}
+    {{ end }}
+
+
+    {{ $resource := partial "functions/get_featured_image.html" $item }}
+    {{ $anchor := $item.Params.image.focal_point | default "Smart" }}
+    {{ with $resource }}
+      {{ $image := .Fill (printf "808x455 webp %s" $anchor) }}
+      <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>
+        <div class="img-hover-zoom">
+          <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
+              class="article-banner" alt="{{ $item.Title }}" loading="lazy">
+        </div>
+      </a>
+    {{end}}
+    <div class="article-style article-title mb-1 mt-3" style="font-size: 0.75em;">
+        <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+      </div>
+      {{ if $item.Params.location }}
+      <div class="article-subtitle">
+        <i>{{$item.Params.location}}</i>
+      </div>
+      {{ end }}
+    
+      {{ with $summary }}
+      <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
+        <div class="article-style">
+          <p>{{.}}</p>
+        </div>
+      </a>
+      {{ end }}
+          
+</div>

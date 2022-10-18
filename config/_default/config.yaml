@@ -46,6 +46,7 @@ taxonomies:
   category: categories
   publication_type: publication_types
   author: authors
+  project: projects
 markup:
   _merge: deep
 related:

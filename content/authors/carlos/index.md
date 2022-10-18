@@ -1,11 +1,11 @@
 ---
 # Display name
-title: AJ Langley
+title: Carlos Nieto-Granda
 subtitle: PhD in CSE.
 
 # Username (this should match the folder name)
 authors:
-  - ajlangley
+  - carlos
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,28 +21,24 @@ organizations:
 external_link: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: AJ received his MS in CSE at UCSD in 2020 before joining Cogrob as a PhD student. He is primarily interested in multi-agent learning in competitive scenarios.
+bio: Some bio about me.
 
 interests:
-  - Multi-agent reinforcement learning, learning in adversarial scenarios
+  - Sensor Fusion
+  - Autonomous Driving
+  - Mobile Robotics
 
 show_education: true
 show_project: true
 show_interests: true
-show_summary: false
 
 education:
   courses:
-    - course: Master of Science (M.S) 
-      institution: University of California San Diego
+    - course: Bachelor of Science (B.S.)
+      institution: New York University
       country: USA
-      degree: Computer Science and Engineering
-      year: 2020
-    - course: Bachelor of Arts (B.A.)
-      institution: University of Kansas
-      country: USA
-      degree: English Literature & Anthropology
-      year: 2017
+      degree: Mathematics
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,11 +66,10 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Alumni
 
-projects:
-  - robot_planning
+projects: ['AVL']
 
 ---
 
-I'm AJ!
+I'm Henry!

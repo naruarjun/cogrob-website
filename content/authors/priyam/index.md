@@ -1,11 +1,11 @@
 ---
 # Display name
-title:  Akanimoh Adeleye 
+title:   Priyam Parashar      
 subtitle: PhD in CSE.
 
 # Username (this should match the folder name)
 authors:
-  - akanimoh
+  - priyam
 
 # Is this the primary user of the site?
 superuser: false
@@ -24,9 +24,9 @@ external_link: ''
 bio: Some bio about me.
 
 interests:
-  - Robotics Exploration
-  - Reinforcement Learning
-  - Human Robot Interaction
+  - Sensor Fusion
+  - Autonomous Driving
+  - Mobile Robotics
 
 show_education: true
 show_project: true
@@ -34,16 +34,11 @@ show_interests: true
 
 education:
   courses:
-    - course: Master of Science (M.S) 
-      institution: University of California San Diego
+    - course: Bachelor of Science (B.S.)
+      institution: New York University
       country: USA
-      degree: Computer Science and Engineering
-      year: 2020
-    - course: Bachelor of Arts (B.A.)
-      institution: University of Oklahoma, Norman
-      country: USA
-      degree: Computer Engineering
-      year: 2017
+      degree: Mathematics
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -71,10 +66,10 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Alumni
 
-projects: ['Semantic Mapping']
+projects: ['AVL']
 
 ---
 
-I'm Sanmi!
+I'm Henry!

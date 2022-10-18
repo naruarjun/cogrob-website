@@ -1,11 +1,11 @@
 ---
 # Display name
-title: AJ Langley
+title:    Yiding (Cassie) Qiu   
 subtitle: PhD in CSE.
 
 # Username (this should match the folder name)
 authors:
-  - ajlangley
+  - yiding
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,10 +21,12 @@ organizations:
 external_link: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: AJ received his MS in CSE at UCSD in 2020 before joining Cogrob as a PhD student. He is primarily interested in multi-agent learning in competitive scenarios.
+bio: Some bio about me.
 
 interests:
-  - Multi-agent reinforcement learning, learning in adversarial scenarios
+  - Sensor Fusion
+  - Autonomous Driving
+  - Mobile Robotics
 
 show_education: true
 show_project: true
@@ -33,15 +35,15 @@ show_summary: false
 
 education:
   courses:
-    - course: Master of Science (M.S) 
+    - course: Master of Science (M.S.) 
       institution: University of California San Diego
       country: USA
       degree: Computer Science and Engineering
       year: 2020
-    - course: Bachelor of Arts (B.A.)
-      institution: University of Kansas
+    - course: Bachelor of Science (B.S.)
+      institution: University of California San Diego
       country: USA
-      degree: English Literature & Anthropology
+      degree: Cognitive Science & Physics
       year: 2017
 
 # Social/Academic Networking
@@ -74,7 +76,6 @@ user_groups:
 
 projects:
   - robot_planning
-
 ---
 
-I'm AJ!
+I'm Cassie!

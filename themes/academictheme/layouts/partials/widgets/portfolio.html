@@ -88,13 +88,14 @@
     {{ $sort_ascending := $st.Params.content.sort_ascending | default (eq $st.Params.content.order "asc") | default false }}
     {{ $sort_order := cond $sort_ascending "asc" "desc" }}
     {{ $query = sort $query $sort_by $sort_order }}
-
+    
     {{ range $index, $item := $query }}
+      {{ $name_id := printf "%s" (lower (replace (path.Base .File.Dir) " " "-")) }}
       {{ $js_tag_classes := delimit (apply (apply (apply $item.Params.tags "replace" "." " " "-") "printf" "js-id-%s" ".") "lower" ".") " " }}
         {{ if in (slice "masonry" 3) $view }}
           <div class="project-card project-item isotope-item {{ $js_tag_classes | safeHTMLAttr }}">
         {{else}}
-          <div class="col-12 isotope-item {{ $js_tag_classes | safeHTMLAttr }}">
+          <div class="col-12 isotope-item {{ $js_tag_classes | safeHTMLAttr }}" id="{{ $name_id }}">
         {{end}}
         {{ partial "functions/render_view" (dict "page" $st "item" . "view" $view "index" $index) }}
       </div>

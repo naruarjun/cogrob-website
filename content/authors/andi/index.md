@@ -34,14 +34,15 @@ interests:
 show_education: true
 show_project: true
 show_interests: true
+show_summary: false
 
 education:
   courses:
-    - course: Doctor of Philosophy (Ph.D.) 
-      institution: University of California, San Diego
-      country: USA
-      degree: Computer Science and Engineering
-      year: ongoing
+    # - course: Doctor of Philosophy (Ph.D.) 
+    #   institution: University of California, San Diego
+    #   country: USA
+    #   degree: Computer Science and Engineering
+    #   year: ongoing
     - course: Master of Science (M.S.) 
       institution: University of California, San Diego
       country: USA
@@ -81,7 +82,9 @@ email: 'a2frank@eng.ucsd.edu'
 user_groups:
   - PhD Students
 
-projects: ['MacGyver']
+projects:
+  - robot_planning
+  - hri
 
 ---
 

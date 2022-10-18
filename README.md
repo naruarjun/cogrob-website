@@ -20,3 +20,4 @@ To test locally, run `` hugo server -D ``
 |   +-- assets - to change the css
 |   +-- data - to change the fonts
 |   +-- layout - to change the html here
+```

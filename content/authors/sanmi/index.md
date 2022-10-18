@@ -1,11 +1,11 @@
 ---
 # Display name
-title: AJ Langley
+title:  Akanimoh Adeleye 
 subtitle: PhD in CSE.
 
 # Username (this should match the folder name)
 authors:
-  - ajlangley
+  - akanimoh
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,10 +21,12 @@ organizations:
 external_link: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: AJ received his MS in CSE at UCSD in 2020 before joining Cogrob as a PhD student. He is primarily interested in multi-agent learning in competitive scenarios.
+bio: Some bio about me.
 
 interests:
-  - Multi-agent reinforcement learning, learning in adversarial scenarios
+  - Robotics Exploration
+  - Reinforcement Learning
+  - Human Robot Interaction
 
 show_education: true
 show_project: true
@@ -39,9 +41,9 @@ education:
       degree: Computer Science and Engineering
       year: 2020
     - course: Bachelor of Arts (B.A.)
-      institution: University of Kansas
+      institution: University of Oklahoma, Norman
       country: USA
-      degree: English Literature & Anthropology
+      degree: Computer Engineering
       year: 2017
 
 # Social/Academic Networking
@@ -74,7 +76,6 @@ user_groups:
 
 projects:
   - robot_planning
-
 ---
 
-I'm AJ!
+I'm Sanmi!

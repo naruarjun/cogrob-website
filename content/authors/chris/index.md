@@ -30,6 +30,7 @@ interests:
 show_education: false
 show_project: true
 show_interests: true
+show_summary: false
 
 education:
   courses:
@@ -67,8 +68,8 @@ email: ''
 user_groups:
   - PhD Students
 
-projects: ['Multi-Robot semantic mapping']
-
+projects:
+  - hri
 ---
 
 I'm Anwesan!
