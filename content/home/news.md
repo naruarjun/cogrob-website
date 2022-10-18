@@ -20,5 +20,5 @@ content:
   page_type: post
 design:
   view: 'small_card'
-  columns: '5'
+  columns: '2'
 ---
