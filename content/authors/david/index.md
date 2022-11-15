@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: PhD
 
 # Organizations/Affiliations
 organizations:
@@ -75,7 +75,8 @@ user_groups:
   - PhD Students
 
 projects:
-  - avl
+  - dynamic_scene_modelling
+  - semantic_modelling
 ---
 
 I'm David!

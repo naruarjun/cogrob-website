@@ -2,7 +2,6 @@
 
 {{- $taxonomy := "authors" }}
 {{ if .Param $taxonomy }}
-  <i class="fa fa-user" aria-hidden="true"></i>
 
   {{ range $index, $value := (.GetTerms $taxonomy) }}
     {{- /* Highlight the author's name? */ -}}
@@ -14,7 +13,11 @@
       {{- if .RelPermalink -}}
       {{ $page_path := (print .RelPermalink "index.html") }}
         {{ $name_id := printf "/people#%s" (.LinkTitle)}}
+        {{if (site.GetPage $page_path) }}
         <a class="badge badge-light" href="{{$name_id}}" style="font-size: 1.1em;">{{(site.GetPage $page_path).Title}}</a>
+        {{ else }}
+        {{ .Params.title }}
+        {{ end }}
       {{- else -}}
         {{ .LinkTitle }}
       {{- end -}}

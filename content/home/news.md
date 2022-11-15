@@ -19,6 +19,6 @@ content:
   order: desc
   page_type: post
 design:
-  view: 'small_card'
+  view: 'list'
   columns: '2'
 ---

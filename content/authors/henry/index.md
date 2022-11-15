@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: PhD
 
 # Organizations/Affiliations
 organizations:
@@ -75,7 +75,7 @@ user_groups:
   - PhD Students
 
 projects:
-  - dynamic_scene
+  - dynamic_scene_modelling
 ---
 
 I'm Henry!

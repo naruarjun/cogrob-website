@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Carlos Nieto-Granda
-subtitle: PhD in CSE.
+subtitle: PhD in CSE
 
 # Username (this should match the folder name)
 authors:
@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: PhD
 
 # Organizations/Affiliations
 organizations:
@@ -23,10 +23,6 @@ external_link: ''
 # Short bio (displayed in user profile at end of posts)
 bio: Some bio about me.
 
-interests:
-  - Sensor Fusion
-  - Autonomous Driving
-  - Mobile Robotics
 
 show_education: true
 show_project: true
@@ -68,8 +64,9 @@ email: ''
 user_groups:
   - Alumni
 
-projects: ['AVL']
+thesis_title: ''
+graduation_date: 2019-12-01
 
 ---
 
-I'm Henry!
+I'm Carlos!

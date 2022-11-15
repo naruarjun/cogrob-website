@@ -77,3 +77,35 @@
 .isotope-item:hover {
   z-index: 3;
 }
+
+
+.alumni-card {
+  position: relative;
+  width: calc(
+    50% - 15px
+  ); /* Fluid 3 columns ($gutter * ($number_of_cols - 1) / $number_of_cols; following https://stackoverflow.com/a/51290967) */
+}
+@media screen and (max-width: 1199px) {
+  .alumni-card {
+    width: calc(
+      50% - 10px
+    ); /* Fluid 2 columns ($gutter * ($number_of_cols - 1) / $number_of_cols; following https://stackoverflow.com/a/51290967) */
+  }
+}
+@media screen and (max-width: 768px) {
+  .alumni-card {
+    width: 100%; /* 1 column */
+  }
+}
+
+.alumni-item {
+  margin-bottom: 1.5rem;
+}
+
+.alumni-card.alumni-item {
+  margin: 0 0 0px; /* Set to Isotope's gutter size */
+}
+
+.alumni-card .card {
+  margin: 0; /* Remove default card margin and use Isotope gutter */
+}
