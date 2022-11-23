@@ -1,6 +1,6 @@
 ---
 title: Dynamic Scene Modelling
-summary: A summary describing dynamic scene modelling. Some content that can span for multiple lines. A summary describing dynamic scene modelling. Some content that can span for multiple lines. A summary describing dynamic scene modelling. Some content that can span for multiple lines. A summary describing dynamic scene modelling. Some content that can span for multiple lines. A summary describing dynamic scene modelling. Some content that can span for multiple lines. A summary describing dynamic scene modelling. Some content that can span for multiple lines. A summary describing dynamic scene modelling. Some content that can span for multiple lines.
+summary: For robot interaction in dynamic environments such as a home or a campus setting there is a need to not only perform mapping and localization but also to detection, track and estimate intent of all the other dynamic objects moving about. We perform Semantic SLAM, but also detection and tracking of people, cars, robots and other entities to allow flexible interaction.
 
 tags:
   - AVL

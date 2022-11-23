@@ -27,12 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Vehicle
+    - name: Autonomous Vehicle Laboratory
       tag: AVL
     - name: Service
       tag: service
-    - name: Something
-      tag: something
 
 
 design:

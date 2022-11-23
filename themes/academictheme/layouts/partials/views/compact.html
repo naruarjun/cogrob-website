@@ -64,7 +64,7 @@
       </div>
       {{ else if not $show_authors_only }}
         <i class="fa fa-user" aria-hidden="true"></i>
-      {{ partial "page_metadata_authors" $item }}
+      {{ partial "page_metadata_authors" $item "true"}}
       {{ end }}
     </div>
 

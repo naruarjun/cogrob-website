@@ -1,8 +1,8 @@
 ---
 title: Semantic Modelling
-summary: Some description of semantic modelling. Ask Anwesan to write something here. Some description of semantic modelling. Ask Anwesan to write something here. Some description of semantic modelling. Ask Anwesan to write something here. Some description of semantic modelling. Ask Anwesan to write something here. Some description of semantic modelling. Ask Anwesan to write something here. Some description of semantic modelling. Ask Anwesan to write something here. Some description of semantic modelling. Ask Anwesan to write something here. 
+summary: A key topic of intelligent interaction with the environment is an estimate of the layout of the scene and also associating semantics with scene components to allow for contextual interaction. Both in- and out-door settings require interpretation of the environment to facilitate interaction and planning. The research includes use of basic recognition, use of context and scene knowledge to build semantic models.
 tags:
-  - Service
+  - AVL
 # date: '2022-04-27T00:00:00Z'
 weight: 2
 location:
@@ -12,7 +12,6 @@ location:
 show_date: False
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'http://avl.ucsd.edu/'
 
 image:
   caption: something

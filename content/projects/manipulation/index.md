@@ -1,6 +1,7 @@
 ---
 title: Manipulation
-summary: Some manipulation summary, ask frank to write something. Some manipulation summary, ask frank to write something. Some manipulation summary, ask frank to write something. Some manipulation summary, ask frank to write something. Some manipulation summary, ask frank to write something. Some manipulation summary, ask frank to write something. Some manipulation summary, ask frank to write something. Some manipulation summary, ask frank to write something. Some manipulation summary, ask frank to write something. Some manipulation summary, ask frank to write something. Some manipulation summary, ask frank to write something. 
+summary: Dynamic interaction with the environment not only includes basic mobility but also the ability to modify the environment through manipulation for assembly, logistics and simple clean-up. The research includes both basic physical interaction and mobile manipulation.
+
 tags:
   - Service
 # date: '2022-04-27T00:00:00Z'

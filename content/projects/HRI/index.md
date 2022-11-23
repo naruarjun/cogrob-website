@@ -1,14 +1,11 @@
 ---
 title: Human Robot Interaction
-summary: A summary for human robot interaction. Get chris to have something here. A summary for human robot interaction. Get chris to have something here. A summary for human robot interaction. Get chris to have something here. A summary for human robot interaction. Get chris to have something here. A summary for human robot interaction. Get chris to have something here. A summary for human robot interaction. Get chris to have something here. A summary for human robot interaction. Get chris to have something here.
+summary: Modern day robots have natural interaction with humans both in terms of social interaction and in terms of physical engagement with people. Fluent interaction with people in terms of ad-hoc interaction and structured learning is a key part of our research
 tags:
   - Service
 # date: '2022-04-27T00:00:00Z'
 weight: 2
 location:
-authors: 
-  - david
-  - ajlangley
 
 show_date: False
 
