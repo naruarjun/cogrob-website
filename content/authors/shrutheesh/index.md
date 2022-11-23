@@ -24,8 +24,9 @@ external_link: 'https://shrutheeshir.github.io'
 bio: Some bio about me.
 
 interests:
-  - Robotics
-  - Planning
+  - Manipulation
+  - Robot Cognition
+  - Context aware planning
 
 show_education: true
 show_project: true
@@ -68,7 +69,8 @@ email: ''
 user_groups:
   - Masters Students
 
-projects: ['Macgyver']
+projects:
+  - robot_planning
 
 ---
 

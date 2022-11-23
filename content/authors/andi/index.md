@@ -15,8 +15,8 @@ role: PhD
 
 # Organizations/Affiliations
 organizations:
-  - name: Contextual Robotics Institute, UC San Diego
-    url: https://contextualrobotics.ucsd.edu/
+  # - name: Contextual Robotics Institute, UC San Diego
+  #   url: https://contextualrobotics.ucsd.edu/
   - name: CSE, UC San Diego
     url: 'https://www.cse.ucsd.edu'
 

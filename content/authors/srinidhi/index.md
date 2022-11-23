@@ -1,22 +1,22 @@
 ---
 # Display name
-title:    Yiding (Cassie) Qiu   
-subtitle: PhD in CSE.
+title:  Srinidhi Bharadwaj 
+subtitle: MS in ECE.
 
 # Username (this should match the folder name)
 authors:
-  - yiding
+  - srinidhi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
   - name: CSE, UC San Diego
-    url: 'https://www.cse.ucsd.edu'
+    url: 'https://www.ece.ucsd.edu'
 
 external_link: ''
 
@@ -24,9 +24,9 @@ external_link: ''
 bio: Some bio about me.
 
 interests:
-  - Knowledge graph
-  - SLAM
-  - Reinforcement learning
+  - Robotics
+  - Planning
+
 show_education: true
 show_project: true
 show_interests: true
@@ -34,16 +34,11 @@ show_summary: false
 
 education:
   courses:
-    - course: Master of Science (M.S.) 
-      institution: University of California San Diego
-      country: USA
+    - course: Bachelor of Engineering (B.E.)
+      institution: RV College of Engineering, Bangalore
+      country: RV
       degree: Computer Science and Engineering
       year: 2020
-    - course: Bachelor of Science (B.S.)
-      institution: University of California San Diego
-      country: USA
-      degree: Cognitive Science & Physics
-      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -71,11 +66,11 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Masters Students
 
 projects:
-  - robot_planning
-  - semantic_modelling
+  - 'semantic_modelling'
+
 ---
 
-I'm Cassie!
+Something

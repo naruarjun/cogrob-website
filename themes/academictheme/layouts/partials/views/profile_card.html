@@ -24,14 +24,16 @@
 
 
   {{ $resource := partial "functions/get_featured_image.html" $item }}
+  {{ $resource := $resource.Fill "200x200" }}
+
     {{ if $item.Params.external_link }}
     <div class="card-img-left example-card-img-responsive my-auto img-hover-zoom">
       <a href="{{ $link }}" {{$target | safeHTMLAttr}}>
-  <img style="padding:10px" src="{{$resource.RelPermalink}}" width="250px" height="250px"/>
+  <img style="padding:10px" src="{{$resource.RelPermalink}}" />
   </a>
   {{ else }}
     <div class="card-img-left example-card-img-responsive my-auto">
-    <img style="padding:10px" src="{{$resource.RelPermalink}}" width="250px" height="250px"/>
+    <img style="padding:10px" src="{{$resource.RelPermalink}}" />
   {{ end }}
   </div>
   <div class="card-body text-left">
@@ -70,10 +72,7 @@
   
   <div>
   {{ if $item.Params.show_interests }}
-    <b> Interests - </b> 
-    {{range $e_item := $item.Params.interests }}
-         {{$e_item}}
-    {{ end }}
+    <p>Interests - {{ delimit .item.Params.interests ", " }}</p>
   {{ end }}
 </div>
   <div style="line-height:50%;">
