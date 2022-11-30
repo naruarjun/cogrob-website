@@ -29,9 +29,9 @@ image:
 # url_video: ''
 
 authors: 
-  - david
   - anwesan
   - cassie
+  - david
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

@@ -70,7 +70,7 @@ user_groups:
   - Masters Students
 
 projects:
-  - robot_planning
+  - semantic_modelling
 
 ---
 
