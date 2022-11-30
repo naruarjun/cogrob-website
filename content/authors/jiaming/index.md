@@ -1,8 +1,8 @@
 ---
 # Display name
-title:  Jiaming (Frank) Hu 
+title:  Jiaming Hu 
 subtitle: PhD in CSE.
-
+alias_name: Frank
 # Username (this should match the folder name)
 authors:
   - jiaming

@@ -4,7 +4,7 @@ To test locally, run `` hugo server -D ``
 
 ### Requirements.
 
-`hugo-extended` and `go` (>1.15) are required to compile. [https://github.com/klakegg/docker-hugo](hugo-docker) is a good start for this. Use the `hugo-extended` image.
+`hugo-extended` and `go` (>1.15) are required to compile. [https://github.com/klakegg/docker-hugo](hugodocker) is a good start for this. Use the `hugo-extended` image.
 
 
 ### General structure.

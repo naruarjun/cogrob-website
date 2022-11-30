@@ -1,30 +1,32 @@
 ---
 # Display name
-title: Alexander Langley
-subtitle: PhD in CSE.
-alias_name: AJ
+title:  Srirangan Madhavan
+subtitle: MS in CSE.
+
 # Username (this should match the folder name)
 authors:
-  - ajlangley
+  - srirangan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
   - name: CSE, UC San Diego
     url: 'https://www.cse.ucsd.edu'
 
-external_link: ''
+# external_link: 'https://shrutheeshir.github.io'
 
 # Short bio (displayed in user profile at end of posts)
-bio: AJ received his MS in CSE at UCSD in 2020 before joining Cogrob as a PhD student. He is primarily interested in multi-agent learning in competitive scenarios.
+bio: Some bio about me.
 
 interests:
-  - Multi-agent reinforcement learning, learning in adversarial scenarios
+  - Visual Scene Representation
+  - Embodied AI
+
 
 show_education: true
 show_project: true
@@ -33,16 +35,11 @@ show_summary: false
 
 education:
   courses:
-    - course: Master of Science (M.S) 
-      institution: University of California San Diego
-      country: USA
-      degree: Computer Science and Engineering
-      year: 2020
-    - course: Bachelor of Arts (B.A.)
-      institution: University of Kansas
-      country: USA
-      degree: English Literature & Anthropology
-      year: 2017
+    - course: Bachelor of Engineering (B.E.)
+      institution: BITS Pilani
+      country: India
+      degree: Electrical and Computer Engineering
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,11 +67,11 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD Students
+  - Masters Students
 
 projects:
   - robot_planning
 
 ---
 
-I'm AJ!
+Something

@@ -1,8 +1,8 @@
 ---
 # Display name
-title:  Andi Frank 
+title:  Andrea Frank 
 subtitle: PhD in CSE.
-
+alias_name: Andi
 # Username (this should match the folder name)
 authors:
   - andi

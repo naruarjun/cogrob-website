@@ -18,14 +18,14 @@ organizations:
   - name: CSE, UC San Diego
     url: 'https://www.ece.ucsd.edu'
 
-external_link: ''
+external_link: 'http://srinidhibharadwaj.github.io/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Some bio about me.
 
 interests:
-  - Robotics
-  - Planning
+  - Perception
+  - Artificial Intelligence with Robotics
 
 show_education: true
 show_project: true
@@ -35,10 +35,10 @@ show_summary: false
 education:
   courses:
     - course: Bachelor of Engineering (B.E.)
-      institution: RV College of Engineering, Bangalore
-      country: RV
-      degree: Computer Science and Engineering
-      year: 2020
+      institution: PES Institute of Technology, Bangalore
+      country: India
+      degree: Electronics and Telecommunication Engineering
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

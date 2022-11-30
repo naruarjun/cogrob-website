@@ -1,7 +1,8 @@
 ---
 # Display name
-title:    Yiding (Cassie) Qiu   
+title:    Yiding Qiu   
 subtitle: PhD in CSE.
+alias_name: Cassie
 
 # Username (this should match the folder name)
 authors:

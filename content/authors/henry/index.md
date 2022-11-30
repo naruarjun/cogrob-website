@@ -1,7 +1,8 @@
 ---
 # Display name
-title:   Hengyuan (Henry) Zhang  
+title:   Hengyuan Zhang  
 subtitle: PhD in CSE.
+alias_name: Henry
 
 # Username (this should match the folder name)
 authors:

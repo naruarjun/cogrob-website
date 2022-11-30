@@ -23,7 +23,7 @@ external_link: ''
 user_groups:
   - Alumni
 
-thesis_title: 'Recovery'
+thesis_title: ''
 graduation_date: 2020-12-01
 
 ---

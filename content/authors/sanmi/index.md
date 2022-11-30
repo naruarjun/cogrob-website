@@ -2,6 +2,7 @@
 # Display name
 title:  Akanimoh Adeleye 
 subtitle: PhD in CSE.
+alias_name: Sanmi
 
 # Username (this should match the folder name)
 authors:

@@ -37,7 +37,7 @@ education:
   courses:
     - course: Bachelor of Engineering (B.E.)
       institution: RV College of Engineering, Bangalore
-      country: RV
+      country: India
       degree: Computer Science and Engineering
       year: 2020
 
