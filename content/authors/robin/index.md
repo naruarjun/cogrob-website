@@ -1,6 +1,9 @@
 ---
 # Display name
 title:  Luobin Wang 
+first_name: Luobin
+middle_name:
+last_name: Wang
 subtitle: MS in CSE.
 
 # Username (this should match the folder name)

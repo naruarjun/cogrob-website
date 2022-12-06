@@ -1,6 +1,9 @@
 ---
 # Display name
-title:  Christopher D'Ambrosia 
+title:  Christopher D'Ambrosia
+first_name: Christopher
+middle_name: 
+last_name: D'Ambrosia
 subtitle: PhD in CSE.
 
 # Username (this should match the folder name)

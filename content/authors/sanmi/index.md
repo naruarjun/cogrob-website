@@ -1,6 +1,9 @@
 ---
 # Display name
 title:  Akanimoh Adeleye 
+first_name: Akanimoh
+middle_name: 
+last_name: Adeleye
 subtitle: PhD in CSE.
 alias_name: Sanmi
 

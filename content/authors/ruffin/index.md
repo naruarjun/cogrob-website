@@ -1,6 +1,9 @@
 ---
 # Display name
 title:  Ruffin White  
+first_name: Ruffin
+middle_name: 
+last_name: White
 subtitle: PhD in CSE.
 
 # Username (this should match the folder name)

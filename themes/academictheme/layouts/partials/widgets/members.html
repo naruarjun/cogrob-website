@@ -85,7 +85,7 @@
   </div>
   {{end}}
 
-  {{ range $index, $item := $query }}
+  {{ range $index, $item := ($query.ByParam "last_name") }}
     
   {{ $name_id := printf "%s" (lower (replace (path.Base .File.Dir) " " "-")) }}
   {{ $js_tag_classes := delimit (apply (apply (apply $item.Params.tags "replace" "." " " "-") "printf" "js-id-%s" ".") "lower" ".") " " }}

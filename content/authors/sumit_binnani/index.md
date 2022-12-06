@@ -1,6 +1,9 @@
 ---
 # Display name
 title:  Sumit Binnani  
+first_name: Sumit
+middle_name:
+last_name: Binnani
 subtitle: MS in CSE.
 
 # Username (this should match the folder name)

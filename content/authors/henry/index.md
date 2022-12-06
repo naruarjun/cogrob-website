@@ -1,6 +1,9 @@
 ---
 # Display name
 title:   Hengyuan Zhang  
+first_name: Hengyuan
+middle_name:
+last_name: Zhang
 subtitle: PhD in CSE.
 alias_name: Henry
 

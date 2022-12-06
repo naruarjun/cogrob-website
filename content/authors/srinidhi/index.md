@@ -1,6 +1,9 @@
 ---
 # Display name
 title:  Srinidhi Bharadwaj 
+first_name: Srinidhi
+middle_name: 
+last_name: Bharadwaj
 subtitle: MS in ECE.
 
 # Username (this should match the folder name)

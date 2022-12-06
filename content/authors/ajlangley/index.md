@@ -1,6 +1,9 @@
 ---
 # Display name
 title: Alexander Langley
+first_name: Alexander
+middle_name: J
+last_name: Langley
 subtitle: PhD in CSE.
 alias_name: AJ
 # Username (this should match the folder name)

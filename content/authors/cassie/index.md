@@ -1,6 +1,9 @@
 ---
 # Display name
-title:    Yiding Qiu   
+title:    Yiding Qiu
+first_name: Yiding
+middle_name:
+last_name: Qiu
 subtitle: PhD in CSE.
 alias_name: Cassie
 

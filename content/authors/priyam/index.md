@@ -1,6 +1,9 @@
 ---
 # Display name
 title:   Priyam Parashar      
+first_name: Priyam
+middle_name:
+last_name: Parashar
 subtitle: PhD in CSE.
 
 # Username (this should match the folder name)

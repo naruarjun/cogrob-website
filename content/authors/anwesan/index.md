@@ -1,6 +1,9 @@
 ---
 # Display name
-title:  Anwesan Pal 
+title:  Anwesan Pal
+first_name: Anwesan
+middle_name:
+last_name: Pal
 subtitle: PhD in CSE.
 
 # Username (this should match the folder name)

@@ -1,6 +1,9 @@
 ---
 # Display name
 title: Carlos Nieto-Granda
+first_name: Carlos
+middle_name:
+last_name: Nieto-Granda
 subtitle: PhD in CSE
 
 # Username (this should match the folder name)

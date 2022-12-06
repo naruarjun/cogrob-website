@@ -1,6 +1,9 @@
 ---
 # Display name
 title: Michelle Sit
+first_name: Michelle
+middle_name: 
+last_name: Sit
 subtitle: MS in CSE.
 
 # Username (this should match the folder name)

@@ -1,6 +1,9 @@
 ---
 # Display name
 title:  Quan Vuong    
+first_name: Quan
+middle_name: 
+last_name: Vuong
 subtitle: PhD in CSE.
 
 # Username (this should match the folder name)

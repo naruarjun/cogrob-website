@@ -1,6 +1,9 @@
 ---
 # Display name
 title:  Srirangan Madhavan
+first_name: Srirangan
+middle_name: 
+last_name: Madhavan
 subtitle: MS in CSE.
 
 # Username (this should match the folder name)

@@ -1,6 +1,9 @@
 ---
 # Display name
 title: Henrik I Christensen
+first_name: Henrik
+middle_name: I
+last_name: Christensen
 subtitle: Research Director
 # Username (this should match the folder name)
 authors:
