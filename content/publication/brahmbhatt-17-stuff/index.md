@@ -1,11 +1,37 @@
 ---
-title: "StuffNet: Using ``Stuff'' to Improve Object Detection"
-date: 2017-01-01
-publishDate: 2022-11-15T18:31:17.021036Z
-authors: ["Samarth Brahmbhatt", "Henrik Christensen", "James Hays"]
-publication_types: ["1"]
-abstract: ""
-featured: false
-publication: "*IEEE Winter Conference on Applications of Computer Vision (WACV)*"
----
+# Documentation: https://wowchemy.com/docs/managing-content/
 
+title: "StuffNet: Using ``Stuff'' to Improve Object Detection"
+subtitle: ''
+summary: ''
+authors:
+- Samarth Brahmbhatt
+- Henrik I. Christensen
+- James Hays
+tags: []
+categories: []
+date: '2017-01-01'
+lastmod: 2022-12-07T21:14:43Z
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-12-07T21:14:43.572744Z'
+publication_types:
+- '1'
+abstract: ''
+publication: '*IEEE Winter Conference on Applications of Computer Vision (WACV)*'
+---

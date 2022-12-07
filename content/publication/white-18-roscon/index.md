@@ -1,11 +1,38 @@
 ---
-title: "Procedurally Provisioned Access Control for Robotic Systems"
-date: 2018-10-01
-publishDate: 2022-11-15T18:31:17.020203Z
-authors: ["Ruffin White", "Gianluca Caiazza", "Henrik I. Christensen", "Agostino Cortesi"]
-publication_types: ["1"]
-abstract: ""
-featured: false
-publication: "*RosCon*"
----
+# Documentation: https://wowchemy.com/docs/managing-content/
 
+title: Procedurally Provisioned Access Control for Robotic Systems
+subtitle: ''
+summary: ''
+authors:
+- Ruffin White
+- Gianluca Caiazza
+- Henrik I. Christensen
+- Agostino Cortesi
+tags: []
+categories: []
+date: '2018-10-01'
+lastmod: 2022-12-07T21:14:43Z
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-12-07T21:14:43.128112Z'
+publication_types:
+- '1'
+abstract: ''
+publication: '*RosCon*'
+---

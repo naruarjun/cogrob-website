@@ -35,7 +35,7 @@ for filename in all_bibs:
 
 output_entries = []
 for entry in complete_entries:
-    if int(entry['year']) >= 2016:
+    if int(entry['year']) >= 2017:
         output_entries.append(entry)
 
 db = BibDatabase()

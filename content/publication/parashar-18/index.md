@@ -1,11 +1,38 @@
 ---
-title: "Using hierarchical expectations ground in percpetion for reasonign about failures during task execution"
-date: 2018-10-01
-publishDate: 2022-11-15T18:31:17.019866Z
-authors: ["P. Parashar", "A. Goel", "H. I. Christensen"]
-publication_types: ["1"]
-abstract: ""
-featured: false
-publication: "*AAAI 2018 Symposium - Real-World Systems for Long-Term Autonomy*"
----
+# Documentation: https://wowchemy.com/docs/managing-content/
 
+title: Using hierarchical expectations ground in percpetion for reasonign about failures
+  during task execution
+subtitle: ''
+summary: ''
+authors:
+- Priyam Parashar
+- Ashok Goel
+- Henrik I. Christensen
+tags: []
+categories: []
+date: '2018-10-01'
+lastmod: 2022-12-07T21:14:43Z
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-12-07T21:14:42.960582Z'
+publication_types:
+- '1'
+abstract: ''
+publication: '*AAAI 2018 Symposium - Real-World Systems for Long-Term Autonomy*'
+---

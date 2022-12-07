@@ -1,18 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Probabilistic Semantic Mapping for Urban Autonomous Driving Applications
+title: Learning hierarchical relationships for object-goal navigation
 subtitle: ''
 summary: ''
 authors:
-- David Paz
-- Hengyuan Zhang
-- Qinru Li
-- Hao Xiang
+- Yiding Qiu
+- Anwesan Pal
 - Henrik I. Christensen
 tags: []
 categories: []
-date: '2020-10-01'
+date: '2020-11-01'
 lastmod: 2022-12-07T21:14:41Z
 featured: false
 draft: false
@@ -31,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-07T21:14:41.906499Z'
+publishDate: '2022-12-07T21:14:41.733909Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*International Conference on Intelligent Robots and Systems (IROS)*'
+publication: '*The Conference on Robotic Learning, (CoRL)*'
 ---

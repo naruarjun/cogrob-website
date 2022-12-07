@@ -1,11 +1,38 @@
 ---
-title: "Rorg: Service Robot Software Management with Linux Containers"
-date: 2019-05-01
-publishDate: 2022-11-15T18:31:17.019535Z
-authors: ["Shengye Wang", "Xiao Liu", "Jishen Zhao", "Henrik Iskov Christensen"]
-publication_types: ["1"]
-abstract: ""
-featured: false
-publication: "*Intl. Conf. Robotics and Automation*"
----
+# Documentation: https://wowchemy.com/docs/managing-content/
 
+title: 'Rorg: Service Robot Software Management with Linux Containers'
+subtitle: ''
+summary: ''
+authors:
+- Shengye Wang
+- Xiao Liu
+- Jishen Zhao
+- Henrik I. Christensen
+tags: []
+categories: []
+date: '2019-05-01'
+lastmod: 2022-12-07T21:14:42Z
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-12-07T21:14:42.779414Z'
+publication_types:
+- '1'
+abstract: ''
+publication: '*International Conference on Robotics and Automation (ICRA)*'
+---
