@@ -1,6 +1,8 @@
 ---
 title: Congratulations Dr. Parashar!
 date: 2021-08-18
+summary: Priyam recently defended his PhD thesis titled "Using Meta-reasoning for Failure Detection and Recovery in Assembly Domain". She will be starting a new adventure in her life at Meta. Congratulations Priyam!
+
 reading_time: false
 
 ---

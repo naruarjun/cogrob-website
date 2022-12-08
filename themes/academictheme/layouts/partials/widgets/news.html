@@ -74,13 +74,11 @@
 
 {{ if in (slice "small_card" 3) $st.Params.design.view  }}
 <div class="container-fluid py-2">
-    <div class="d-flex flex-row flex-nowrap overflow-auto">
-  {{ else }}
-      <div>
-        <div class="col-12 isotope-item">
+  <div class="d-flex flex-row flex-nowrap overflow-auto">
+    {{ else }}
+        <div class="col-12 col-lg-8 isotope-item">
   {{ end }}
   {{ with $st.Content }}{{ . }}{{ end }}
-
   {{ range $index, $item := $query }}
     {{ partial "functions/render_view" (dict "page" $st "item" . "view" ($st.Params.design.view | default "compact") "index" $index) }}
 
