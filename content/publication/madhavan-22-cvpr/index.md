@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2022-06-01'
-lastmod: 2022-12-07T21:14:41Z
+lastmod: 2022-12-08T16:51:53Z
 featured: false
 draft: false
 
@@ -29,10 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-07T21:14:41.027653Z'
+publishDate: '2022-12-08T16:51:53.099594Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Workshop on Embodied AI, Conference on Computer Vision and Pattern
   Recognition (CVPR)*'
+url_pdf: https://arxiv.org/pdf/2207.08021.pdf
 ---

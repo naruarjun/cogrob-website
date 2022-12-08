@@ -6,13 +6,13 @@ title: 'Ruling In and Ruling Out COVID-19: Computing SARS-CoV-2 Infection Risk F
 subtitle: ''
 summary: ''
 authors:
-- C. D'Ambrosia
-- H. I. Christensen
-- E. Arnoff-Spenncer
+- Christopher D'Ambrosia
+- Henrik I. Christensen
+- Eliah Aronoff-Spencer
 tags: []
 categories: []
 date: '2020-11-01'
-lastmod: 2022-12-07T21:14:43Z
+lastmod: 2022-12-08T17:02:59Z
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-07T21:14:43.840693Z'
+publishDate: '2022-12-08T17:02:59.243528Z'
 publication_types:
 - '2'
 abstract: ''

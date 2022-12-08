@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2020-06-01'
-lastmod: 2022-12-07T21:14:42Z
+lastmod: 2022-12-08T16:51:54Z
 featured: false
 draft: false
 
@@ -29,9 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-07T21:14:41.993712Z'
+publishDate: '2022-12-08T16:51:54.094735Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Conference on Computer Vision and Pattern Recognition (CVPR)*'
+url_pdf: https://openaccess.thecvf.com/content_CVPR_2020/papers/Pal_Looking_at_the_Right_Stuff_-_Guided_Semantic-Gaze_for_Autonomous_CVPR_2020_paper.pdf
 ---

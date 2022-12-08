@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "StuffNet: Using ``Stuff'' to Improve Object Detection"
+title: "StuffNet: Using ''Stuff'' to Improve Object Detection"
 subtitle: ''
 summary: ''
 authors:
@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2022-12-07T21:14:43Z
+lastmod: 2022-12-08T16:51:55Z
 featured: false
 draft: false
 
@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-07T21:14:43.572744Z'
+publishDate: '2022-12-08T16:51:55.718867Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*IEEE Winter Conference on Applications of Computer Vision (WACV)*'
+publication: '*Winter Conference on Applications of Computer Vision (WACV)*'
 ---

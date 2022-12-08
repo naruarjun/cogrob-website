@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2022-12-07T21:14:43Z
+lastmod: 2022-12-08T16:51:55Z
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-07T21:14:43.211276Z'
+publishDate: '2022-12-08T16:51:55.361038Z'
 publication_types:
 - '6'
 abstract: 'This paper presents a taxonomy of benchmark manipulation tasks for service

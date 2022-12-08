@@ -5,11 +5,11 @@ title: From Internet to Robotics - A US National Robotics Roadmap - 4th edition
 subtitle: ''
 summary: ''
 authors:
-- H. I. Christensen (Ed.)
+- Henrik I. Christensen
 tags: []
 categories: []
 date: '2020-09-01'
-lastmod: 2022-12-07T21:14:44Z
+lastmod: 2022-12-08T17:01:15Z
 featured: false
 draft: false
 
@@ -27,7 +27,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-07T21:14:44.628342Z'
+publishDate: '2022-12-08T17:01:15.378008Z'
 publication_types:
 - '4'
 abstract: ''
