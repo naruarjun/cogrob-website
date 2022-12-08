@@ -9,6 +9,7 @@
   {{ end }}
 </ol>
 
+<div class="container">
 <!-- Carousel slides wrapper -->
 <div class="carousel-inner">
   {{ range $index, $item := $page.Params.content.slides }}
@@ -35,7 +36,7 @@
         {{ $style_filter = printf "%s-webkit-backdrop-filter: brightness(%s); backdrop-filter: brightness(%s);" $style_filter (string .) (string .) }}
       {{ end }}
    {{ end }}
-
+  
   <div class="carousel-item{{if eq $index 0}} active{{end}} {{with $page.Params.design.is_fullscreen}}fullscreen{{end}}" style="{{$style_bg | safeCSS}}">
     <div class="position-absolute d-flex w-100 h-100 justify-content-center align-items-center" style="{{$style_filter | safeCSS}}">
       {{/* To prevent control overlap, margins are based on $carousel-control-* in bootstrap-variables.scss */}}
@@ -78,3 +79,4 @@
   <span class="carousel-control-next-icon"></span>
   <span class="sr-only">Next</span>
 </a>
+</div>
