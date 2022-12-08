@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2018-08-01'
-lastmod: 2022-12-08T16:51:55Z
+lastmod: 2022-12-08T17:51:39Z
 featured: false
 draft: false
 
@@ -29,9 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-08T16:51:55.451968Z'
+publishDate: '2022-12-08T17:51:38.972974Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*RoMan*'
+publication: '*International Conference on Robot & Human Interactive Communication
+  (RO-MAN)*'
 ---

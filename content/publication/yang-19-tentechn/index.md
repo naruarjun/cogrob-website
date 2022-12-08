@@ -5,20 +5,20 @@ title: Ten Technologies of the year
 subtitle: ''
 summary: ''
 authors:
-- G. -Z. Yang
-- R. J. Full
-- N. Jacobstein
-- P. Fischer
-- J. Bellingham
-- H. Choset
-- H. Christensen
-- P. Dario
-- B. J. Nelson
-- R. Taylor
+- Guang-Zhong Yang
+- Robert J. Full
+- Neil Jacobstein
+- Peer Fischer
+- James Bellingham
+- Howie Choset
+- Henrik I. Christensen
+- Paolo Dario
+- Bradley J. Nelson
+- Russell Taylor
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-12-08T16:51:56Z
+lastmod: 2022-12-08T17:19:05Z
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-08T16:51:56.168683Z'
+publishDate: '2022-12-08T17:19:05.325290Z'
 publication_types:
 - '2'
 abstract: ''
