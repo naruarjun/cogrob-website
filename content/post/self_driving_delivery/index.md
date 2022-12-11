@@ -7,7 +7,8 @@ image:
     height: 380px
     width: 1080px
 
-reading_time: false
+open_link: true
+reading_time: true
 
 tags:
     - AVL

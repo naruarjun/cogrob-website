@@ -40,4 +40,6 @@ authors:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-Manipulation summary is here
+
+Interaction in dynamic environments requires planning of actions to allow for intelligent interaction for manipulation of objects. Dynamic interaction with the environment not only includes basic mobility but also the ability to modify the environment through manipulation for assembly, logistics and simple clean-up. The research primarily focuses on task and motion planning for realiable and efficient manipulation actions in dynamic environment for home robots. The research includes both basic physical interaction and mobile manipulation. 
+

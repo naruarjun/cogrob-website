@@ -19,7 +19,7 @@ content:
   order: desc
   page_type: post
 design:
-  view: 'compact'
+  view: 'descriptive_list'
   columns: 2
 show_authors_only: False
 ---
