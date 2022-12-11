@@ -24,7 +24,7 @@
 
 {{ $has_attachments := partial "functions/has_attachments" $item }}
 
-<div class="list-group">
+<div class="list-group" style="text-align:left">
   <!-- <i class="{{$icon_pack}} {{$icon}} pub-icon" aria-hidden="true"></i> -->
   {{ $item.Title }}
   ( {{ $item.Params.subtitle }}, {{(time $item.Params.graduation_date).Format "2006" }})
