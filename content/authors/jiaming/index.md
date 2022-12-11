@@ -78,8 +78,8 @@ user_groups:
   - PhD Students
 
 projects:
-  - manipulation
-  - robot_planning
+  - manipulation_planning
+
 ---
 
 I'm Frank!

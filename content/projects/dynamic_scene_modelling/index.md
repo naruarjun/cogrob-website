@@ -1,15 +1,13 @@
 ---
 title: Dynamic Scene Modelling
-summary: For robot interaction in dynamic environments such as a home or a campus setting there is a need to not only perform mapping and localization but also to detection, track and estimate intent of all the other dynamic objects moving about. We perform Semantic SLAM, but also detection and tracking of people, cars, robots and other entities to allow flexible interaction.
+summary: Autonomous vehicles have tremendous social and economic values for society. But before we can see large-scale deployment, its perception systems need to make significant progress in robustness and generalization capability. To address these challenges, we bring context, the semantic meaning into the robot perception. Our approach is to conduct research on our full-scale testing vehicles, our living laboratory. We evaluate the state-of-the-art algorithms, search for and address the challenges we found in real-world deployment. Such challenges include long term tracking and prediction of road users, dynamic scene modeling and dynamic planning.
 
-tags:
-  - AVL
+
+# tags:
+#   - AVL
 # date: '2022-04-27T00:00:00Z'
 weight: 2
 location:
-# authors: 
-#   - david
-#   - henry
 show_date: False
 
 # Optional external URL for project (replaces project detail page).
@@ -32,7 +30,6 @@ image:
 authors: 
   - david
   - henry
-  - anwesan
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

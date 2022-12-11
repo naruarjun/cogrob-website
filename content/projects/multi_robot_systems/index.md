@@ -1,15 +1,12 @@
 ---
-title: Robot Planning
-summary: Interaction in dynamic environments requires planning of actions to allow for intelligent interaction for manipulation of objects, dynamic interaction with other entities in the environment. For handling of unexpected objects and situations, there is also a need to consider ad-hoc planning to recover from surprises or un-modelled events.
+title: Multi-Robot Optimization
+summary: Many tasks in the real world require teams composed of multiple robots to work together. For example, in the security domain, multiple robots can continuously monitor a physical perimeter to detect intrusions. Solving multi-robot problems, however, introduces several key challenges, such as learning and acting in the presence of other actors who may introduce added complexity by altering their behaviors. This research area spans a large spectrum from traditional game-theoretic methods, to the application of multi-agent reinforcement learning, to develop solutions to multi-robot tasks such as multi-robot patrolling and pursuit-evasion.
 
-tags:
-  - Service
+
+# tags:
+#   - Service
 # date: '2022-04-27T00:00:00Z'
 weight: 2
-location:
-# authors: 
-#   - david
-#   - henry
 show_date: False
 
 # Optional external URL for project (replaces project detail page).
@@ -30,11 +27,7 @@ image:
 # url_video: ''
 
 authors: 
-  - ajlangley
-  - jiaming
-  - andi
-  - cassie
-  - sanmi
+    - ajlangley
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

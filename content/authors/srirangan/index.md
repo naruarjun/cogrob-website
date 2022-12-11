@@ -73,7 +73,7 @@ user_groups:
   - Masters Students
 
 projects:
-  - semantic_modelling
+  - semantic_perception
 
 ---
 

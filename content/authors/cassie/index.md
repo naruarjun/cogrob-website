@@ -78,8 +78,7 @@ user_groups:
   - PhD Students
 
 projects:
-  - robot_planning
-  - semantic_modelling
+  - semantic_perception
 ---
 
 I'm Cassie!

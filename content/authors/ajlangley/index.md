@@ -76,7 +76,7 @@ user_groups:
   - PhD Students
 
 projects:
-  - robot_planning
+  - multi_robot_systems
 
 ---
 

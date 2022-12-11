@@ -73,7 +73,7 @@ user_groups:
   - Masters Students
 
 projects:
-  - robot_planning
+  - manipulation_planning
 
 ---
 

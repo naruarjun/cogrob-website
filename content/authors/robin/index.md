@@ -72,7 +72,7 @@ user_groups:
   - Masters Students
 
 projects:
-  - 'semantic_modelling'
+  - dynamic_scene_modelling
 
 ---
 

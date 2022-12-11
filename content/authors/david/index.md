@@ -79,7 +79,7 @@ user_groups:
 
 projects:
   - dynamic_scene_modelling
-  - semantic_modelling
+  - semantic_perception
 ---
 
 I'm David!

@@ -72,7 +72,8 @@ email: ''
 user_groups:
   - Masters Students
 
-projects: ['AVL']
+projects:
+  - dynamic_scene_modelling
 
 ---
 

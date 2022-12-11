@@ -86,8 +86,7 @@ user_groups:
   - PhD Students
 
 projects:
-  - robot_planning
-  - hri
+  - manipulation_planning
 
 ---
 

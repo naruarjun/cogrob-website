@@ -75,6 +75,6 @@ email: ''
 user_groups:
   - Principal Investigator
 
-summary: "Henrik I. Christensen is the director of Robotics at UC San Diego and the Qualcomm Chancellor’s chair of robot systems. Dr. Christensen received his academic training (M.Sc and Ph.D.) from Aalborg University in Denmark. He has since then held positions at Aalborg University, University of Pennsylvania, and Georgia Tech before joining UC San Diego. Dr. Christensen does research on robotics, computer vision and AI with an emphasis on a systems approach to problems. He was also named Boeing Supplier of the Year and received an honorary doctorate (Dr. Techn. h.c.) from Aalborg University 2014. Dr. Christensen is the co-founder of multiple companies and serves as an advisor to companies, governments, and organizations across 4 continents."
+summary: "Henrik I. Christensen is the director of Robotics at UC San Diego and the Qualcomm Chancellor’s chair of robot systems. HIs main research is on a systems approach to robotics. Dr. Christensen is the editor of the US National Robotics Roadmap 2009, 2013, 2016 and 2020. He has published about 400 contributions across robotics, computer vision and AI."
 ---
 

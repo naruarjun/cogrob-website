@@ -78,8 +78,7 @@ user_groups:
   - PhD Students
 
 projects:
-  - semantic_modelling
-  - dynamic_scene_modelling
+  - semantic_perception
 ---
 
 I'm Anwesan!

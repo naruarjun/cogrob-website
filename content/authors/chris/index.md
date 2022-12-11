@@ -72,7 +72,7 @@ user_groups:
   - PhD Students
 
 projects:
-  - hri
+  - modelling_people
 ---
 
 I'm Anwesan!
