@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ashok Goel | Cognitive Robotics</title>
+    <link>https://cogrob.github.io/cogrob-website//authors/ashok-goel/</link>
+      <atom:link href="https://cogrob.github.io/cogrob-website//authors/ashok-goel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ashok Goel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Towards Lifelong Adaptive Agents: Using Meta- reasoning for Combining Task Planning and Situated Learning</title>
+      <link>https://cogrob.github.io/cogrob-website//publication/parashar-18-ker/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.github.io/cogrob-website//publication/parashar-18-ker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using hierarchical expectations ground in percpetion for reasonign about failures during task execution</title>
+      <link>https://cogrob.github.io/cogrob-website//publication/parashar-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.github.io/cogrob-website//publication/parashar-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samarth Brahmbhatt | Cognitive Robotics</title>
+    <link>https://cogrob.github.io/cogrob-website//authors/samarth-brahmbhatt/</link>
+      <atom:link href="https://cogrob.github.io/cogrob-website//authors/samarth-brahmbhatt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Samarth Brahmbhatt</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>StuffNet: Using &#39;&#39;Stuff&#39;&#39; to Improve Object Detection</title>
+      <link>https://cogrob.github.io/cogrob-website//publication/brahmbhatt-17-stuff/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.github.io/cogrob-website//publication/brahmbhatt-17-stuff/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

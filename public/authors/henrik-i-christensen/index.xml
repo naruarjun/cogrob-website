@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Henrik I Christensen | Cognitive Robotics</title>
+    <link>https://cogrob.github.io/cogrob-website//authors/henrik-i-christensen/</link>
+      <atom:link href="https://cogrob.github.io/cogrob-website//authors/henrik-i-christensen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Henrik I Christensen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>TridentNet: A Conditional Generative Model for Dynamic Trajectory Generation</title>
+      <link>https://cogrob.github.io/cogrob-website//publication/paz-21-tridentnet/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.github.io/cogrob-website//publication/paz-21-tridentnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Lifelong Adaptive Agents: Using Meta- reasoning for Combining Task Planning and Situated Learning</title>
+      <link>https://cogrob.github.io/cogrob-website//publication/parashar-18-ker/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.github.io/cogrob-website//publication/parashar-18-ker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed mapping with privacy and communication constraints: Lightweight algorithms and object-based models</title>
+      <link>https://cogrob.github.io/cogrob-website//publication/doi-10-1177-0278364917732640/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.github.io/cogrob-website//publication/doi-10-1177-0278364917732640/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

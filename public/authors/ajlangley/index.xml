@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ajlangley | Cognitive Robotics</title>
+    <link>https://cogrob.github.io/cogrob-website//authors/ajlangley/</link>
+      <atom:link href="https://cogrob.github.io/cogrob-website//authors/ajlangley/index.xml" rel="self" type="application/rss+xml" />
+    <description>ajlangley</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <item>
+      <title>Multi-Robot Optimization</title>
+      <link>https://cogrob.github.io/cogrob-website//projects/multi_robot_systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.github.io/cogrob-website//projects/multi_robot_systems/</guid>
+      <description>&lt;p&gt;Some good content here. Followed by some other content&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alexander Langley</title>
+      <link>https://cogrob.github.io/cogrob-website//authors/ajlangley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.github.io/cogrob-website//authors/ajlangley/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m AJ!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

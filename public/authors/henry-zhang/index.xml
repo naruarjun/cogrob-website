@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Henry Zhang | Cognitive Robotics</title>
+    <link>https://cogrob.github.io/cogrob-website//authors/henry-zhang/</link>
+      <atom:link href="https://cogrob.github.io/cogrob-website//authors/henry-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Henry Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>TridentNet: A Conditional Generative Model for Dynamic Trajectory Generation</title>
+      <link>https://cogrob.github.io/cogrob-website//publication/paz-21-tridentnet/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.github.io/cogrob-website//publication/paz-21-tridentnet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
