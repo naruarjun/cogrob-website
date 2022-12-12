@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiaming Hu | Cognitive Robotics</title>
-    <link>/authors/jiaming-hu/</link>
-      <atom:link href="/authors/jiaming-hu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.github.io/cogrob-website/authors/jiaming-hu/</link>
+      <atom:link href="https://cogrob.github.io/cogrob-website/authors/jiaming-hu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiaming Hu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Place-And-Pick-Based Re-Grasping Using Unstable Placement</title>
-      <link>/publication/isrr-22-cogrob/</link>
+      <link>https://cogrob.github.io/cogrob-website/publication/isrr-22-cogrob/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/isrr-22-cogrob/</guid>
+      <guid>https://cogrob.github.io/cogrob-website/publication/isrr-22-cogrob/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Putting away the Groceries with Precise Semantic Placements</title>
-      <link>/publication/adeleye-23-putaway/</link>
+      <link>https://cogrob.github.io/cogrob-website/publication/adeleye-23-putaway/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/adeleye-23-putaway/</guid>
+      <guid>https://cogrob.github.io/cogrob-website/publication/adeleye-23-putaway/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rotational Slippage Minimization in Object Manipulation</title>
-      <link>/publication/hu-22-slippage/</link>
+      <link>https://cogrob.github.io/cogrob-website/publication/hu-22-slippage/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/hu-22-slippage/</guid>
+      <guid>https://cogrob.github.io/cogrob-website/publication/hu-22-slippage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Hierarchical Model to Enable Plan Reuse and Repair in Assembly Domains</title>
-      <link>/publication/parashar-2021-case/</link>
+      <link>https://cogrob.github.io/cogrob-website/publication/parashar-2021-case/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/parashar-2021-case/</guid>
+      <guid>https://cogrob.github.io/cogrob-website/publication/parashar-2021-case/</guid>
       <description></description>
     </item>
     

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Julie A. Shah | Cognitive Robotics</title>
-    <link>/authors/julie-a.-shah/</link>
-      <atom:link href="/authors/julie-a.-shah/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.github.io/cogrob-website/authors/julie-a.-shah/</link>
+      <atom:link href="https://cogrob.github.io/cogrob-website/authors/julie-a.-shah/index.xml" rel="self" type="application/rss+xml" />
     <description>Julie A. Shah</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <item>
       <title>A Taxonomy for Characterizing Modes of Interactions in Goal-driven, Human-robot Teams</title>
-      <link>/publication/parashar-19-taxonomy/</link>
+      <link>https://cogrob.github.io/cogrob-website/publication/parashar-19-taxonomy/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/parashar-19-taxonomy/</guid>
+      <guid>https://cogrob.github.io/cogrob-website/publication/parashar-19-taxonomy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enabling Efficient Team Cooperation by Understanding Modes of Human-robot Interactions</title>
-      <link>/publication/parashar-19/</link>
+      <link>https://cogrob.github.io/cogrob-website/publication/parashar-19/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/parashar-19/</guid>
+      <guid>https://cogrob.github.io/cogrob-website/publication/parashar-19/</guid>
       <description></description>
     </item>
     

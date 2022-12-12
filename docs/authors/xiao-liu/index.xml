@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiao Liu | Cognitive Robotics</title>
-    <link>/authors/xiao-liu/</link>
-      <atom:link href="/authors/xiao-liu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.github.io/cogrob-website/authors/xiao-liu/</link>
+      <atom:link href="https://cogrob.github.io/cogrob-website/authors/xiao-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiao Liu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Robotic Reliability Engineering: A Story of Long-term TritonBot Development</title>
-      <link>/publication/fsr-19-robustness/</link>
+      <link>https://cogrob.github.io/cogrob-website/publication/fsr-19-robustness/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/fsr-19-robustness/</guid>
+      <guid>https://cogrob.github.io/cogrob-website/publication/fsr-19-robustness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rorg: Service Robot Software Management with Linux Containers</title>
-      <link>/publication/wang-19-rorg/</link>
+      <link>https://cogrob.github.io/cogrob-website/publication/wang-19-rorg/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/wang-19-rorg/</guid>
+      <guid>https://cogrob.github.io/cogrob-website/publication/wang-19-rorg/</guid>
       <description></description>
     </item>
     
