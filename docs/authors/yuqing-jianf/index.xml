@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuqing Jianf | Cognitive Robotics</title>
-    <link>https://cogrob.github.io/cogrob-website/authors/yuqing-jianf/</link>
-      <atom:link href="https://cogrob.github.io/cogrob-website/authors/yuqing-jianf/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/yuqing-jianf/</link>
+      <atom:link href="/authors/yuqing-jianf/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuqing Jianf</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Autonomous Vehicle Benchmarking Using Unbiased Metrics</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/paz-20-metrics/</link>
+      <link>/publication/paz-20-metrics/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/paz-20-metrics/</guid>
+      <guid>/publication/paz-20-metrics/</guid>
       <description></description>
     </item>
     

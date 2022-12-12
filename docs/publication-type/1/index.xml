@@ -2,271 +2,271 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Cognitive Robotics</title>
-    <link>https://cogrob.github.io/cogrob-website/publication-type/1/</link>
-      <atom:link href="https://cogrob.github.io/cogrob-website/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Place-And-Pick-Based Re-Grasping Using Unstable Placement</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/isrr-22-cogrob/</link>
+      <link>/publication/isrr-22-cogrob/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/isrr-22-cogrob/</guid>
+      <guid>/publication/isrr-22-cogrob/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Putting away the Groceries with Precise Semantic Placements</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/adeleye-23-putaway/</link>
+      <link>/publication/adeleye-23-putaway/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/adeleye-23-putaway/</guid>
+      <guid>/publication/adeleye-23-putaway/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust Human Identity Anonymization using Pose Estimation</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/zhang-22-anonymization/</link>
+      <link>/publication/zhang-22-anonymization/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/zhang-22-anonymization/</guid>
+      <guid>/publication/zhang-22-anonymization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rotational Slippage Minimization in Object Manipulation</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/hu-22-slippage/</link>
+      <link>/publication/hu-22-slippage/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/hu-22-slippage/</guid>
+      <guid>/publication/hu-22-slippage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scan Matching and Probabilistic Stationary Global Localization in an Airport Environment</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/hoj-22-case/</link>
+      <link>/publication/hoj-22-case/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/hoj-22-case/</guid>
+      <guid>/publication/hoj-22-case/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Role of reward shaping in object-goal navigation</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/madhavan-22-cvpr/</link>
+      <link>/publication/madhavan-22-cvpr/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/madhavan-22-cvpr/</guid>
+      <guid>/publication/madhavan-22-cvpr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TridentNetV2: Lightweight Graphical Global Plan Representations for Dynamic Trajectory Generation</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/paz-22-tridentv-2/</link>
+      <link>/publication/paz-22-tridentv-2/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/paz-22-tridentv-2/</guid>
+      <guid>/publication/paz-22-tridentv-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributed Heterogeneous Multi-robot Source Seeking Using Information Based Sampling with Visual Recognition</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/nieto-granda-21-iser/</link>
+      <link>/publication/nieto-granda-21-iser/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/nieto-granda-21-iser/</guid>
+      <guid>/publication/nieto-granda-21-iser/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Hierarchical Model to Enable Plan Reuse and Repair in Assembly Domains</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/parashar-2021-case/</link>
+      <link>/publication/parashar-2021-case/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/parashar-2021-case/</guid>
+      <guid>/publication/parashar-2021-case/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TridentNet: A Conditional Generative Model for Dynamic Trajectory Generation</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/paz-21-tridentnet/</link>
+      <link>/publication/paz-21-tridentnet/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/paz-21-tridentnet/</guid>
+      <guid>/publication/paz-21-tridentnet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Auto-calibration Method Using Stop Signs for Urban Autonomous Driving Applications</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/han-21/</link>
+      <link>/publication/han-21/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/han-21/</guid>
+      <guid>/publication/han-21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heterogeneous Multi-robot Adversarial Patrolling Using Polymatrix Games</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/langley-21-icrai/</link>
+      <link>/publication/langley-21-icrai/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/langley-21-icrai/</guid>
+      <guid>/publication/langley-21-icrai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning hierarchical relationships for object-goal navigation</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/qiu-20-corl/</link>
+      <link>/publication/qiu-20-corl/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/qiu-20-corl/</guid>
+      <guid>/publication/qiu-20-corl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Autonomous Vehicle Benchmarking Using Unbiased Metrics</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/paz-20-metrics/</link>
+      <link>/publication/paz-20-metrics/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/paz-20-metrics/</guid>
+      <guid>/publication/paz-20-metrics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probabilistic Semantic Mapping for Urban Autonomous Driving Applications</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/paz-20-mapping/</link>
+      <link>/publication/paz-20-mapping/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/paz-20-mapping/</guid>
+      <guid>/publication/paz-20-mapping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>&#39;&#39;Looking at the right stuff&#39;&#39; - guided semantic-gaze for autonomous driving</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/pal-20-lookin/</link>
+      <link>/publication/pal-20-lookin/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/pal-20-lookin/</guid>
+      <guid>/publication/pal-20-lookin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Taxonomy for Characterizing Modes of Interactions in Goal-driven, Human-robot Teams</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/parashar-19-taxonomy/</link>
+      <link>/publication/parashar-19-taxonomy/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/parashar-19-taxonomy/</guid>
+      <guid>/publication/parashar-19-taxonomy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Black Block Recorder: Immutable Black Box Logging for Robots via Blockchain </title>
-      <link>https://cogrob.github.io/cogrob-website/publication/white-19-black-block-recorder/</link>
+      <link>/publication/white-19-black-block-recorder/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/white-19-black-block-recorder/</guid>
+      <guid>/publication/white-19-black-block-recorder/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DEDUCE: Diverse scEne Detection methods in Unseen Challenging Environments</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/pal-19-deduc/</link>
+      <link>/publication/pal-19-deduc/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/pal-19-deduc/</guid>
+      <guid>/publication/pal-19-deduc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lessons Learned From Deploying Autonomous Vehicles at UC San Diego</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/fsr-19-avl/</link>
+      <link>/publication/fsr-19-avl/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/fsr-19-avl/</guid>
+      <guid>/publication/fsr-19-avl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robotic Reliability Engineering: A Story of Long-term TritonBot Development</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/fsr-19-robustness/</link>
+      <link>/publication/fsr-19-robustness/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/fsr-19-robustness/</guid>
+      <guid>/publication/fsr-19-robustness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network Reconnaissance and Vulnerability Excavation of Secure DDS Systems</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/white-19/</link>
+      <link>/publication/white-19/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/white-19/</guid>
+      <guid>/publication/white-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coordinating multi-robot systems through environment partitioning for adaptive informative sampling</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/fung-19-coord/</link>
+      <link>/publication/fung-19-coord/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/fung-19-coord/</guid>
+      <guid>/publication/fung-19-coord/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enabling Efficient Team Cooperation by Understanding Modes of Human-robot Interactions</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/parashar-19/</link>
+      <link>/publication/parashar-19/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/parashar-19/</guid>
+      <guid>/publication/parashar-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rorg: Service Robot Software Management with Linux Containers</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/wang-19-rorg/</link>
+      <link>/publication/wang-19-rorg/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/wang-19-rorg/</guid>
+      <guid>/publication/wang-19-rorg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WaveToFly: WaveToFly: Control a UAV using Body Gestures</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/li-19-wavet/</link>
+      <link>/publication/li-19-wavet/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/li-19-wavet/</guid>
+      <guid>/publication/li-19-wavet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On-line Coordination Task for Multi-robot Systemsusing Adaptive Informative Sampling</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/nieto-18-iser-18/</link>
+      <link>/publication/nieto-18-iser-18/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/nieto-18-iser-18/</guid>
+      <guid>/publication/nieto-18-iser-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Procedurally Provisioned Access Control for Robotic Systems</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/white-18-roscon/</link>
+      <link>/publication/white-18-roscon/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/white-18-roscon/</guid>
+      <guid>/publication/white-18-roscon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using hierarchical expectations ground in percpetion for reasonign about failures during task execution</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/parashar-18/</link>
+      <link>/publication/parashar-18/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/parashar-18/</guid>
+      <guid>/publication/parashar-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TritonBot: First Lessons Learned from Deployment of A Long-term Autonomy Tour Guide Robot</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/wang-18-triton/</link>
+      <link>/publication/wang-18-triton/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/wang-18-triton/</guid>
+      <guid>/publication/wang-18-triton/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Purely Geometric Scene Association and Retrieval - A case for macro-scale 3D geometry</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/sawhney-18-purel-geomet-scene-assoc-retriev/</link>
+      <link>/publication/sawhney-18-purel-geomet-scene-assoc-retriev/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/sawhney-18-purel-geomet-scene-assoc-retriev/</guid>
+      <guid>/publication/sawhney-18-purel-geomet-scene-assoc-retriev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Custom soft robotic gripper sensor skins for haptic object visualization</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/shih-2017-custom/</link>
+      <link>/publication/shih-2017-custom/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/shih-2017-custom/</guid>
+      <guid>/publication/shih-2017-custom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>StuffNet: Using &#39;&#39;Stuff&#39;&#39; to Improve Object Detection</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/brahmbhatt-17-stuff/</link>
+      <link>/publication/brahmbhatt-17-stuff/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/brahmbhatt-17-stuff/</guid>
+      <guid>/publication/brahmbhatt-17-stuff/</guid>
       <description></description>
     </item>
     
