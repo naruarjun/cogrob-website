@@ -16,7 +16,7 @@ hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
-publishDir: "public"
+publishDir: "docs"
 ############################
 ## ADVANCED
 ############################
