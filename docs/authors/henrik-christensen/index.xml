@@ -23,22 +23,6 @@
     </item>
     
     <item>
-      <title>Heterogeneous Multi-robot Adversarial Patrolling Using Polymatrix Games</title>
-      <link>https://cogrob.com/publication/langley-21-icrai/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/publication/langley-21-icrai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Single RGB-D Camera Teleoperation for General Robotic Manipulation</title>
-      <link>https://cogrob.com/publication/vuong-2021-single/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/publication/vuong-2021-single/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Combating COVID-19 -- the role of robotics in managing public health and infectious diseases</title>
       <link>https://cogrob.com/publication/yang-20-comba-covid/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
@@ -47,50 +31,10 @@
     </item>
     
     <item>
-      <title>Lessons Learned From Deploying Autonomous Vehicles at UC San Diego</title>
-      <link>https://cogrob.com/publication/fsr-19-avl/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/publication/fsr-19-avl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robotic Reliability Engineering: A Story of Long-term TritonBot Development</title>
-      <link>https://cogrob.com/publication/fsr-19-robustness/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/publication/fsr-19-robustness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Network Reconnaissance and Vulnerability Excavation of Secure DDS Systems</title>
-      <link>https://cogrob.com/publication/white-19/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/publication/white-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Realizing the Potential of Data Science</title>
       <link>https://cogrob.com/publication/berman-18-realizpotendatascien/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://cogrob.com/publication/berman-18-realizpotendatascien/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robust grasp preimages under unknown mass and friction distributions </title>
-      <link>https://cogrob.com/publication/price-18-icae/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/publication/price-18-icae/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>StuffNet: Using ``Stuff&#39;&#39; to Improve Object Detection</title>
-      <link>https://cogrob.com/publication/brahmbhatt-17-stuff/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/publication/brahmbhatt-17-stuff/</guid>
       <description></description>
     </item>
     

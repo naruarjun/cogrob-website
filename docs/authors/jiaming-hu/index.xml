@@ -5,7 +5,31 @@
     <link>https://cogrob.com/authors/jiaming-hu/</link>
       <atom:link href="https://cogrob.com/authors/jiaming-hu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiaming Hu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Place-And-Pick-Based Re-Grasping Using Unstable Placement</title>
+      <link>https://cogrob.com/publication/isrr-22-cogrob/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/isrr-22-cogrob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Putting away the Groceries with Precise Semantic Placements</title>
+      <link>https://cogrob.com/publication/adeleye-23-putaway/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/adeleye-23-putaway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rotational Slippage Minimization in Object Manipulation</title>
+      <link>https://cogrob.com/publication/hu-22-slippage/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/hu-22-slippage/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>A Hierarchical Model to Enable Plan Reuse and Repair in Assembly Domains</title>
       <link>https://cogrob.com/publication/parashar-2021-case/</link>

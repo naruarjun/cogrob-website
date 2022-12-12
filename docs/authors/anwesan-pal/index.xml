@@ -5,17 +5,25 @@
     <link>https://cogrob.com/authors/anwesan-pal/</link>
       <atom:link href="https://cogrob.com/authors/anwesan-pal/index.xml" rel="self" type="application/rss+xml" />
     <description>Anwesan Pal</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <item>
-      <title>Target Driven visual navigation exploiting object relationships</title>
-      <link>https://cogrob.com/publication/qui-20-corl/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/publication/qui-20-corl/</guid>
+      <title>Role of reward shaping in object-goal navigation</title>
+      <link>https://cogrob.com/publication/madhavan-22-cvpr/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/madhavan-22-cvpr/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>``Looking at the right stuff&#39;&#39; - guided semantic-gaze for autonomous driving</title>
+      <title>Learning hierarchical relationships for object-goal navigation</title>
+      <link>https://cogrob.com/publication/qiu-20-corl/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/qiu-20-corl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#39;&#39;Looking at the right stuff&#39;&#39; - guided semantic-gaze for autonomous driving</title>
       <link>https://cogrob.com/publication/pal-20-lookin/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://cogrob.com/publication/pal-20-lookin/</guid>

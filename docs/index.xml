@@ -5,7 +5,7 @@
     <link>https://cogrob.com/</link>
       <atom:link href="https://cogrob.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Cognitive Robotics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Nov 2022 18:31:17 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Dynamic Scene Modelling</title>
       <link>https://cogrob.com/projects/dynamic_scene_modelling/</link>
@@ -16,46 +16,37 @@
     </item>
     
     <item>
-      <title>Human Robot Interaction</title>
-      <link>https://cogrob.com/projects/hri/</link>
+      <title>Environment-aware Manipulation and Planning</title>
+      <link>https://cogrob.com/projects/manipulation_planning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/projects/hri/</guid>
+      <guid>https://cogrob.com/projects/manipulation_planning/</guid>
       <description>&lt;p&gt;Some good content here. Followed by some other content&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Manipulation</title>
-      <link>https://cogrob.com/projects/manipulation/</link>
+      <title>Modelling People</title>
+      <link>https://cogrob.com/projects/modelling_people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/projects/manipulation/</guid>
-      <description>&lt;p&gt;Manipulation summary is here&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Robot Planning</title>
-      <link>https://cogrob.com/projects/robot_planning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/projects/robot_planning/</guid>
+      <guid>https://cogrob.com/projects/modelling_people/</guid>
       <description>&lt;p&gt;Some good content here. Followed by some other content&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Semantic Modelling</title>
-      <link>https://cogrob.com/projects/semantic_modelling/</link>
+      <title>Multi-Robot Optimization</title>
+      <link>https://cogrob.com/projects/multi_robot_systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/projects/semantic_modelling/</guid>
+      <guid>https://cogrob.com/projects/multi_robot_systems/</guid>
       <description>&lt;p&gt;Some good content here. Followed by some other content&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Context Aware Robot Navigation using Interactively Built Semantic Maps</title>
-      <link>https://cogrob.com/publication/cosgun-18-jbr/</link>
-      <pubDate>Tue, 15 Nov 2022 18:31:17 +0000</pubDate>
-      <guid>https://cogrob.com/publication/cosgun-18-jbr/</guid>
+      <title>Semantic Perception</title>
+      <link>https://cogrob.com/projects/semantic_perception/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/projects/semantic_perception/</guid>
       <description></description>
     </item>
     
@@ -72,7 +63,7 @@
       <link>https://cogrob.com/post/grad_quan/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://cogrob.com/post/grad_quan/</guid>
-      <description>&lt;p&gt;Quan Vuong recently defended his PhD thesis titled &amp;ldquo;Robot learning through Reinforcement Learning, Teleoperation and Scene Reconstruction&amp;rdquo;. He will be starting a new adventure in his life at Waymo. Congratulations Shengye!&lt;/p&gt;</description>
+      <description>&lt;p&gt;Quan Vuong recently defended his PhD thesis titled &amp;ldquo;Robot learning through Reinforcement Learning, Teleoperation and Scene Reconstruction&amp;rdquo;. He will be starting a new adventure in his life at Google Brain. Congratulations Quan!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -116,19 +107,11 @@
     </item>
     
     <item>
-      <title>TridentNetV2: Lightweight Graphical Global Plan Representations for Dynamic Trajectory Generation </title>
+      <title>TridentNetV2: Lightweight Graphical Global Plan Representations for Dynamic Trajectory Generation</title>
       <link>https://cogrob.com/publication/paz-22-tridentv-2/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>https://cogrob.com/publication/paz-22-tridentv-2/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Congratulations Graduates!</title>
-      <link>https://cogrob.com/post/grad_2020/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/post/grad_2020/</guid>
-      <description>&lt;p&gt;David Paz, Cassie Qiu, Jiaming Hu, Henry Zhang, and Michelle Sit completed their respective Master of Science degrees. David, Cassie, Jiaming and Henry will be continuing for their PhD, while Michelle will be starting a new career in the industry. Congratulations everyone!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -137,22 +120,6 @@
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://cogrob.com/publication/christensen-21-avl/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Congratulations Dr. Wang!</title>
-      <link>https://cogrob.com/post/grad_shengye/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/post/grad_shengye/</guid>
-      <description>&lt;p&gt;Shengye Wang recently defended his PhD thesis titled &amp;ldquo;Reliability Engineering for Long-term Autonomous Service Robots&amp;rdquo;. He will be starting a new adventure in his life at Waymo. Congratulations Shengye!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Congratulations Dr. White-Magner!</title>
-      <link>https://cogrob.com/post/grad_ruffin/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/post/grad_ruffin/</guid>
-      <description>&lt;p&gt;Ruffin White-Magner recently defended his PhD thesis titled &amp;ldquo;Usable Security and Verification for Distributed Robotic Systems&amp;rdquo;. He will be starting a new adventure in his life at &amp;lt;&amp;gt;. Congratulations Ruffin!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -177,6 +144,14 @@
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://cogrob.com/publication/parashar-2021-case/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Congratulations Dr. White-Magner!</title>
+      <link>https://cogrob.com/post/grad_ruffin/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/post/grad_ruffin/</guid>
+      <description>&lt;p&gt;Ruffin White-Magner recently defended his PhD thesis titled &amp;ldquo;Usable Security and Verification for Distributed Robotic Systems&amp;rdquo;. He will be starting a new adventure in his life at Università Ca&amp;rsquo;​ Foscari Venezia. Congratulations Ruffin!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -220,11 +195,11 @@
     </item>
     
     <item>
-      <title>Papers Accepted at CVPR 2020!</title>
-      <link>https://cogrob.com/post/cvpr_2020/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/post/cvpr_2020/</guid>
-      <description>&lt;p&gt;Our paper titled “Looking at the Right Stuff – Guided Semantic-Gaze for Autonomous Driving” has been accepted for publication at IEEE/CVF Conference on Computer Vision and Pattern Recognition 2020, Seattle, USA. [paper][website]&lt;/p&gt;</description>
+      <title>Learning hierarchical relationships for object-goal navigation</title>
+      <link>https://cogrob.com/publication/qiu-20-corl/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/qiu-20-corl/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -232,14 +207,6 @@
       <link>https://cogrob.com/publication/dambrosia-20-covid/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://cogrob.com/publication/dambrosia-20-covid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Target Driven visual navigation exploiting object relationships</title>
-      <link>https://cogrob.com/publication/qui-20-corl/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/publication/qui-20-corl/</guid>
       <description></description>
     </item>
     
@@ -268,11 +235,35 @@
     </item>
     
     <item>
-      <title>``Looking at the right stuff&#39;&#39; - guided semantic-gaze for autonomous driving</title>
+      <title>Congratulations Graduates!</title>
+      <link>https://cogrob.com/post/grad_2020/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/post/grad_2020/</guid>
+      <description>&lt;p&gt;David Paz, Cassie Qiu, Jiaming Hu, Henry Zhang, and Michelle Sit completed their respective Master of Science degrees. David, Cassie, Jiaming and Henry will be continuing for their PhD, while Michelle will be starting a new career in the industry. Congratulations everyone!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Papers Accepted at CVPR 2020!</title>
+      <link>https://cogrob.com/post/cvpr_2020/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/post/cvpr_2020/</guid>
+      <description>&lt;p&gt;Our paper titled “Looking at the Right Stuff – Guided Semantic-Gaze for Autonomous Driving” has been accepted for publication at IEEE/CVF Conference on Computer Vision and Pattern Recognition 2020, Seattle, USA. [paper][website]&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>&#39;&#39;Looking at the right stuff&#39;&#39; - guided semantic-gaze for autonomous driving</title>
       <link>https://cogrob.com/publication/pal-20-lookin/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://cogrob.com/publication/pal-20-lookin/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Congratulations Dr. Wang!</title>
+      <link>https://cogrob.com/post/grad_shengye/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/post/grad_shengye/</guid>
+      <description>&lt;p&gt;Shengye Wang recently defended his PhD thesis titled &amp;ldquo;Reliability Engineering for Long-term Autonomous Service Robots&amp;rdquo;. He will be starting a new adventure in his life at Waymo. Congratulations Shengye!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -430,6 +421,14 @@
     </item>
     
     <item>
+      <title>Context Aware Robot Navigation using Interactively Built Semantic Maps</title>
+      <link>https://cogrob.com/publication/cosgun-18-jbr/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/cosgun-18-jbr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>TritonBot: First Lessons Learned from Deployment of A Long-term Autonomy Tour Guide Robot</title>
       <link>https://cogrob.com/publication/wang-18-triton/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
@@ -494,114 +493,10 @@
     </item>
     
     <item>
-      <title>StuffNet: Using ``Stuff&#39;&#39; to Improve Object Detection</title>
+      <title>StuffNet: Using &#39;&#39;Stuff&#39;&#39; to Improve Object Detection</title>
       <link>https://cogrob.com/publication/brahmbhatt-17-stuff/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://cogrob.com/publication/brahmbhatt-17-stuff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SROS: Securing ROS over the wire, in the graph and through the kernel</title>
-      <link>https://cogrob.com/publication/white-16-sros/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/publication/white-16-sros/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Whole Body Control of Wheeled Inverted Pendulum Humanoids</title>
-      <link>https://cogrob.com/publication/zafar-16-wholebodycontrwheelinverpendulhuman/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/publication/zafar-16-wholebodycontrwheelinverpendulhuman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Active Planning based Extrinsic Calibration of Exteroceptive Sensors in Unkown Environments</title>
-      <link>https://cogrob.com/publication/murali-16-activplannextrincalibexter/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/publication/murali-16-activplannextrincalibexter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Assembly Sequence Generation of a Product Family for Robot Programming </title>
-      <link>https://cogrob.com/publication/lee-16-assemsequengenerproducfamilrobotprogr/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/publication/lee-16-assemsequengenerproducfamilrobotprogr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi Robot Object-based SLAM</title>
-      <link>https://cogrob.com/publication/choudhary-16-multirobotobjecslam/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/publication/choudhary-16-multirobotobjecslam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Navigation among Movable Obstacles with Learned Dynamic Constraints</title>
-      <link>https://cogrob.com/publication/scholz-16-navigmovabobstaclearndynamconst/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/publication/scholz-16-navigmovabobstaclearndynamconst/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anticipatory Robot Path Planning in Human Environments</title>
-      <link>https://cogrob.com/publication/cosgun-16-anticrobotpathplannhumanenvir/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/publication/cosgun-16-anticrobotpathplannhumanenvir/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Combining Arm and Hand Metrics for Sensible Grasp Modeling</title>
-      <link>https://cogrob.com/publication/huaman-16-combinarmhandmetricsensibgraspmodel/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/publication/huaman-16-combinarmhandmetricsensibgraspmodel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Next Generation Robotics</title>
-      <link>https://cogrob.com/publication/christensen-16-nextgenerrobot/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/publication/christensen-16-nextgenerrobot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Affordance-Feasible Planning with Manipulator Wrench Spaces</title>
-      <link>https://cogrob.com/publication/price-16-afforfeasibplannmanipwrencspaces/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/publication/price-16-afforfeasibplannmanipwrencspaces/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distributed Trajectory Estimation with Privacy and Communication Constraints: a Two-Stage Distributed Gauss-Seidel Approach</title>
-      <link>https://cogrob.com/publication/choudhary-16-distrtrajecestimprivaccommunconst/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/publication/choudhary-16-distrtrajecestimprivaccommunconst/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hierarchical Rejection Sampling for Informed Kinodynamic Planning in High-Dimensional Spaces </title>
-      <link>https://cogrob.com/publication/kunz-16-hierarrejecsamplinforkinod/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/publication/kunz-16-hierarrejecsamplinforkinod/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RGB-D object pose estimation in unstructured environments</title>
-      <link>https://cogrob.com/publication/choi-16-rgbd/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/publication/choi-16-rgbd/</guid>
       <description></description>
     </item>
     
@@ -622,15 +517,6 @@
     </item>
     
     <item>
-      <title>AJ Langley</title>
-      <link>https://cogrob.com/authors/ajlangley/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.com/authors/ajlangley/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m AJ!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Akanimoh Adeleye</title>
       <link>https://cogrob.com/authors/sanmi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -640,7 +526,16 @@
     </item>
     
     <item>
-      <title>Andi Frank</title>
+      <title>Alexander Langley</title>
+      <link>https://cogrob.com/authors/ajlangley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/authors/ajlangley/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m AJ!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Andrea Frank</title>
       <link>https://cogrob.com/authors/andi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://cogrob.com/authors/andi/</guid>
@@ -685,7 +580,7 @@
     </item>
     
     <item>
-      <title>Hengyuan (Henry) Zhang</title>
+      <title>Hengyuan Zhang</title>
       <link>https://cogrob.com/authors/henry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://cogrob.com/authors/henry/</guid>
@@ -711,11 +606,20 @@
     </item>
     
     <item>
-      <title>Jiaming (Frank) Hu</title>
+      <title>Jiaming Hu</title>
       <link>https://cogrob.com/authors/jiaming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://cogrob.com/authors/jiaming/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Frank!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Luobin Wang</title>
+      <link>https://cogrob.com/authors/robin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/authors/robin/</guid>
+      <description>&lt;p&gt;Something&lt;/p&gt;
 </description>
     </item>
     
@@ -743,6 +647,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://cogrob.com/authors/quan/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Quan!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rohan Patil</title>
+      <link>https://cogrob.com/authors/rohan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/authors/rohan/</guid>
+      <description>&lt;p&gt;Something&lt;/p&gt;
 </description>
     </item>
     
@@ -792,6 +705,15 @@
     </item>
     
     <item>
+      <title>Srirangan Madhavan</title>
+      <link>https://cogrob.com/authors/srirangan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/authors/srirangan/</guid>
+      <description>&lt;p&gt;Something&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Sumit Binnani</title>
       <link>https://cogrob.com/authors/sumit_binnani/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -801,7 +723,7 @@
     </item>
     
     <item>
-      <title>Yiding (Cassie) Qiu</title>
+      <title>Yiding Qiu</title>
       <link>https://cogrob.com/authors/cassie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://cogrob.com/authors/cassie/</guid>
