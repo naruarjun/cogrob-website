@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>seth | Cognitive Robotics</title>
-    <link>https://cogrob.github.io/cogrob-website//authors/seth/</link>
-      <atom:link href="https://cogrob.github.io/cogrob-website//authors/seth/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/seth/</link>
+      <atom:link href="/authors/seth/index.xml" rel="self" type="application/rss+xml" />
     <description>seth</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <item>
       <title>Seth Farell</title>
-      <link>https://cogrob.github.io/cogrob-website//authors/seth/</link>
+      <link>/authors/seth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website//authors/seth/</guid>
+      <guid>/authors/seth/</guid>
       <description>&lt;p&gt;Seth is a graduate student in the Electrical and Computer Engineering department&lt;/p&gt;
 </description>
     </item>

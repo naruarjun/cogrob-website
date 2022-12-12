@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ruffin | Cognitive Robotics</title>
-    <link>https://cogrob.github.io/cogrob-website//authors/ruffin/</link>
-      <atom:link href="https://cogrob.github.io/cogrob-website//authors/ruffin/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/ruffin/</link>
+      <atom:link href="/authors/ruffin/index.xml" rel="self" type="application/rss+xml" />
     <description>ruffin</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <item>
       <title>Ruffin White</title>
-      <link>https://cogrob.github.io/cogrob-website//authors/ruffin/</link>
+      <link>/authors/ruffin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website//authors/ruffin/</guid>
+      <guid>/authors/ruffin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Ruffin!&lt;/p&gt;
 </description>
     </item>

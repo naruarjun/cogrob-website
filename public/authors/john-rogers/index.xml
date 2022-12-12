@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>John Rogers | Cognitive Robotics</title>
-    <link>https://cogrob.github.io/cogrob-website//authors/john-rogers/</link>
-      <atom:link href="https://cogrob.github.io/cogrob-website//authors/john-rogers/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/john-rogers/</link>
+      <atom:link href="/authors/john-rogers/index.xml" rel="self" type="application/rss+xml" />
     <description>John Rogers</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     <item>
       <title>On-line Coordination Task for Multi-robot Systemsusing Adaptive Informative Sampling</title>
-      <link>https://cogrob.github.io/cogrob-website//publication/nieto-18-iser-18/</link>
+      <link>/publication/nieto-18-iser-18/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website//publication/nieto-18-iser-18/</guid>
+      <guid>/publication/nieto-18-iser-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributed mapping with privacy and communication constraints: Lightweight algorithms and object-based models</title>
-      <link>https://cogrob.github.io/cogrob-website//publication/doi-10-1177-0278364917732640/</link>
+      <link>/publication/doi-10-1177-0278364917732640/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website//publication/doi-10-1177-0278364917732640/</guid>
+      <guid>/publication/doi-10-1177-0278364917732640/</guid>
       <description></description>
     </item>
     

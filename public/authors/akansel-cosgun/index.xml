@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Akansel Cosgun | Cognitive Robotics</title>
-    <link>https://cogrob.github.io/cogrob-website//authors/akansel-cosgun/</link>
-      <atom:link href="https://cogrob.github.io/cogrob-website//authors/akansel-cosgun/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/akansel-cosgun/</link>
+      <atom:link href="/authors/akansel-cosgun/index.xml" rel="self" type="application/rss+xml" />
     <description>Akansel Cosgun</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Context Aware Robot Navigation using Interactively Built Semantic Maps</title>
-      <link>https://cogrob.github.io/cogrob-website//publication/cosgun-18-jbr/</link>
+      <link>/publication/cosgun-18-jbr/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website//publication/cosgun-18-jbr/</guid>
+      <guid>/publication/cosgun-18-jbr/</guid>
       <description></description>
     </item>
     
