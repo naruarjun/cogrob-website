@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>manipulation | Cognitive Robotics</title>
+    <link>https://cogrob.com/projects/manipulation/</link>
+      <atom:link href="https://cogrob.com/projects/manipulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>manipulation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <item>
+      <title>Jiaming (Frank) Hu</title>
+      <link>https://cogrob.com/authors/jiaming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/authors/jiaming/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Frank!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

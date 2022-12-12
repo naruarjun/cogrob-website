@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Sisbot | Cognitive Robotics</title>
+    <link>https://cogrob.com/authors/a.-sisbot/</link>
+      <atom:link href="https://cogrob.com/authors/a.-sisbot/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Sisbot</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Anticipatory Robot Path Planning in Human Environments</title>
+      <link>https://cogrob.com/publication/cosgun-16-anticrobotpathplannhumanenvir/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/cosgun-16-anticrobotpathplannhumanenvir/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

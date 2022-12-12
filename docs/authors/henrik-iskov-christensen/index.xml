@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Henrik Iskov Christensen | Cognitive Robotics</title>
+    <link>https://cogrob.com/authors/henrik-iskov-christensen/</link>
+      <atom:link href="https://cogrob.com/authors/henrik-iskov-christensen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Henrik Iskov Christensen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>TridentNetV2: Lightweight Graphical Global Plan Representations for Dynamic Trajectory Generation </title>
+      <link>https://cogrob.com/publication/paz-22-tridentv-2/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/paz-22-tridentv-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Heterogeneous Multi-robot Source Seeking Using Information Based Sampling with Visual Recognition</title>
+      <link>https://cogrob.com/publication/nieto-granda-21-iser/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/nieto-granda-21-iser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coordinating multi-robot systems through environment partitioning for adaptive informative sampling</title>
+      <link>https://cogrob.com/publication/fung-19-coord/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/fung-19-coord/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rorg: Service Robot Software Management with Linux Containers</title>
+      <link>https://cogrob.com/publication/wang-19-rorg/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/wang-19-rorg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

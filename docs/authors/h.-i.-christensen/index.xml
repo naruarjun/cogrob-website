@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. I. Christensen | Cognitive Robotics</title>
+    <link>https://cogrob.com/authors/h.-i.-christensen/</link>
+      <atom:link href="https://cogrob.com/authors/h.-i.-christensen/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. I. Christensen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Place-And-Pick-Based Re-Grasping Using Unstable Placement</title>
+      <link>https://cogrob.com/publication/isrr-22-cogrob/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/isrr-22-cogrob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rotational Slippage Minimization in Object Manipulation</title>
+      <link>https://cogrob.com/publication/hu-22-slippage/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/hu-22-slippage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scan Matching and Probabilistic Stationary Global Localization in an Airport Environment</title>
+      <link>https://cogrob.com/publication/hoj-22-case/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/hoj-22-case/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of reward shaping in object-goal navigation</title>
+      <link>https://cogrob.com/publication/madhavan-22-cvpr/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/madhavan-22-cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto-calibration Method Using Stop Signs for Urban Autonomous Driving Applications</title>
+      <link>https://cogrob.com/publication/han-21/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/han-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruling In and Ruling Out COVID-19: Computing SARS-CoV-2 Infection Risk From Symptoms, Imaging and Test Data</title>
+      <link>https://cogrob.com/publication/dambrosia-20-covid/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/dambrosia-20-covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Internet to Robotics - A US National Robotics Roadmap - 4th edition</title>
+      <link>https://cogrob.com/publication/christensen-20-roadmap/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/christensen-20-roadmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using hierarchical expectations ground in percpetion for reasonign about failures during task execution</title>
+      <link>https://cogrob.com/publication/parashar-18/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/parashar-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TritonBot: First Lessons Learned from Deployment of A Long-term Autonomy Tour Guide Robot</title>
+      <link>https://cogrob.com/publication/wang-18-triton/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/wang-18-triton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SROS: Securing ROS over the wire, in the graph and through the kernel</title>
+      <link>https://cogrob.com/publication/white-16-sros/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/white-16-sros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whole Body Control of Wheeled Inverted Pendulum Humanoids</title>
+      <link>https://cogrob.com/publication/zafar-16-wholebodycontrwheelinverpendulhuman/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/zafar-16-wholebodycontrwheelinverpendulhuman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Planning based Extrinsic Calibration of Exteroceptive Sensors in Unkown Environments</title>
+      <link>https://cogrob.com/publication/murali-16-activplannextrincalibexter/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/murali-16-activplannextrincalibexter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Assembly Sequence Generation of a Product Family for Robot Programming </title>
+      <link>https://cogrob.com/publication/lee-16-assemsequengenerproducfamilrobotprogr/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/lee-16-assemsequengenerproducfamilrobotprogr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi Robot Object-based SLAM</title>
+      <link>https://cogrob.com/publication/choudhary-16-multirobotobjecslam/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/choudhary-16-multirobotobjecslam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Navigation among Movable Obstacles with Learned Dynamic Constraints</title>
+      <link>https://cogrob.com/publication/scholz-16-navigmovabobstaclearndynamconst/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/scholz-16-navigmovabobstaclearndynamconst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anticipatory Robot Path Planning in Human Environments</title>
+      <link>https://cogrob.com/publication/cosgun-16-anticrobotpathplannhumanenvir/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/cosgun-16-anticrobotpathplannhumanenvir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining Arm and Hand Metrics for Sensible Grasp Modeling</title>
+      <link>https://cogrob.com/publication/huaman-16-combinarmhandmetricsensibgraspmodel/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/huaman-16-combinarmhandmetricsensibgraspmodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Next Generation Robotics</title>
+      <link>https://cogrob.com/publication/christensen-16-nextgenerrobot/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/christensen-16-nextgenerrobot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Affordance-Feasible Planning with Manipulator Wrench Spaces</title>
+      <link>https://cogrob.com/publication/price-16-afforfeasibplannmanipwrencspaces/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/price-16-afforfeasibplannmanipwrencspaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Trajectory Estimation with Privacy and Communication Constraints: a Two-Stage Distributed Gauss-Seidel Approach</title>
+      <link>https://cogrob.com/publication/choudhary-16-distrtrajecestimprivaccommunconst/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/choudhary-16-distrtrajecestimprivaccommunconst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Rejection Sampling for Informed Kinodynamic Planning in High-Dimensional Spaces </title>
+      <link>https://cogrob.com/publication/kunz-16-hierarrejecsamplinforkinod/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/kunz-16-hierarrejecsamplinforkinod/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

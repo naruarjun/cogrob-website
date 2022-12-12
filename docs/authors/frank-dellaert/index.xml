@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frank Dellaert | Cognitive Robotics</title>
+    <link>https://cogrob.com/authors/frank-dellaert/</link>
+      <atom:link href="https://cogrob.com/authors/frank-dellaert/index.xml" rel="self" type="application/rss+xml" />
+    <description>Frank Dellaert</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Distributed mapping with privacy and communication constraints: Lightweight algorithms and object-based models</title>
+      <link>https://cogrob.com/publication/doi-10-1177-0278364917732640/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/doi-10-1177-0278364917732640/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi Robot Object-based SLAM</title>
+      <link>https://cogrob.com/publication/choudhary-16-multirobotobjecslam/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/choudhary-16-multirobotobjecslam/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

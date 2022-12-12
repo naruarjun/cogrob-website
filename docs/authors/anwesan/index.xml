@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>anwesan | Cognitive Robotics</title>
+    <link>https://cogrob.com/authors/anwesan/</link>
+      <atom:link href="https://cogrob.com/authors/anwesan/index.xml" rel="self" type="application/rss+xml" />
+    <description>anwesan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <item>
+      <title>Dynamic Scene Modelling</title>
+      <link>https://cogrob.com/projects/dynamic_scene_modelling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/projects/dynamic_scene_modelling/</guid>
+      <description>&lt;p&gt;Some content about dynamic scene modelling&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Semantic Modelling</title>
+      <link>https://cogrob.com/projects/semantic_modelling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/projects/semantic_modelling/</guid>
+      <description>&lt;p&gt;Some good content here. Followed by some other content&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anwesan Pal</title>
+      <link>https://cogrob.com/authors/anwesan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/authors/anwesan/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Anwesan!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

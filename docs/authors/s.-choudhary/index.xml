@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Choudhary | Cognitive Robotics</title>
+    <link>https://cogrob.com/authors/s.-choudhary/</link>
+      <atom:link href="https://cogrob.com/authors/s.-choudhary/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Choudhary</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Active Planning based Extrinsic Calibration of Exteroceptive Sensors in Unkown Environments</title>
+      <link>https://cogrob.com/publication/murali-16-activplannextrincalibexter/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/murali-16-activplannextrincalibexter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi Robot Object-based SLAM</title>
+      <link>https://cogrob.com/publication/choudhary-16-multirobotobjecslam/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/choudhary-16-multirobotobjecslam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Trajectory Estimation with Privacy and Communication Constraints: a Two-Stage Distributed Gauss-Seidel Approach</title>
+      <link>https://cogrob.com/publication/choudhary-16-distrtrajecestimprivaccommunconst/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/choudhary-16-distrtrajecestimprivaccommunconst/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

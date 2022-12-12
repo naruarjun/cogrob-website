@@ -1,5 +1,4 @@
 resources/
-docs/
 public/
 .hugo_build.lock
 content/publications/*

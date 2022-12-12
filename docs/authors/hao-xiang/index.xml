@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hao Xiang | Cognitive Robotics</title>
+    <link>https://cogrob.com/authors/hao-xiang/</link>
+      <atom:link href="https://cogrob.com/authors/hao-xiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hao Xiang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>TridentNetV2: Lightweight Graphical Global Plan Representations for Dynamic Trajectory Generation </title>
+      <link>https://cogrob.com/publication/paz-22-tridentv-2/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/paz-22-tridentv-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous Vehicles for Micro-Mobility</title>
+      <link>https://cogrob.com/publication/christensen-21-avl/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/christensen-21-avl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Semantic Mapping for Urban Autonomous Driving Applications</title>
+      <link>https://cogrob.com/publication/paz-20-mapping/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/paz-20-mapping/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

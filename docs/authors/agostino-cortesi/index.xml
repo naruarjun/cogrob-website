@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agostino Cortesi | Cognitive Robotics</title>
+    <link>https://cogrob.com/authors/agostino-cortesi/</link>
+      <atom:link href="https://cogrob.com/authors/agostino-cortesi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Agostino Cortesi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Black Block Recorder: Immutable Black Box Logging for Robots via Blockchain </title>
+      <link>https://cogrob.com/publication/white-19-black-block-recorder/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/white-19-black-block-recorder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network Reconnaissance and Vulnerability Excavation of Secure DDS Systems</title>
+      <link>https://cogrob.com/publication/white-19/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/white-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procedurally Provisioned Access Control for Robotic Systems</title>
+      <link>https://cogrob.com/publication/white-18-roscon/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/white-18-roscon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

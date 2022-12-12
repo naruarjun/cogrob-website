@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlos Nieto-Granda | Cognitive Robotics</title>
+    <link>https://cogrob.com/authors/carlos-nieto-granda/</link>
+      <atom:link href="https://cogrob.com/authors/carlos-nieto-granda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carlos Nieto-Granda</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Distributed Heterogeneous Multi-robot Source Seeking Using Information Based Sampling with Visual Recognition</title>
+      <link>https://cogrob.com/publication/nieto-granda-21-iser/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/nieto-granda-21-iser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coordinating multi-robot systems through environment partitioning for adaptive informative sampling</title>
+      <link>https://cogrob.com/publication/fung-19-coord/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/fung-19-coord/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

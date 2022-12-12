@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Henrik I Christensen | Cognitive Robotics</title>
+    <link>https://cogrob.com/authors/henrik-i-christensen/</link>
+      <atom:link href="https://cogrob.com/authors/henrik-i-christensen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Henrik I Christensen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>TridentNet: A Conditional Generative Model for Dynamic Trajectory Generation</title>
+      <link>https://cogrob.com/publication/paz-21-tridentnet/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/paz-21-tridentnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Target Driven visual navigation exploiting object relationships</title>
+      <link>https://cogrob.com/publication/qui-20-corl/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/qui-20-corl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous Vehicle Benchmarking Using Unbiased Metrics</title>
+      <link>https://cogrob.com/publication/paz-20-metrics/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/paz-20-metrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Semantic Mapping for Urban Autonomous Driving Applications</title>
+      <link>https://cogrob.com/publication/paz-20-mapping/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/paz-20-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>``Looking at the right stuff&#39;&#39; - guided semantic-gaze for autonomous driving</title>
+      <link>https://cogrob.com/publication/pal-20-lookin/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/pal-20-lookin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Lifelong Adaptive Agents: Using Meta- reasoning for Combining Task Planning and Situated Learning</title>
+      <link>https://cogrob.com/publication/parashar-18-ker/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/parashar-18-ker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom soft robotic gripper sensor skins for haptic object visualization</title>
+      <link>https://cogrob.com/publication/shih-2017-custom/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/shih-2017-custom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed mapping with privacy and communication constraints: Lightweight algorithms and object-based models</title>
+      <link>https://cogrob.com/publication/doi-10-1177-0278364917732640/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/doi-10-1177-0278364917732640/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RGB-D object pose estimation in unstructured environments</title>
+      <link>https://cogrob.com/publication/choi-16-rgbd/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/choi-16-rgbd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

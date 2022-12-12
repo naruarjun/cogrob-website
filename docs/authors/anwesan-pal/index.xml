@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anwesan Pal | Cognitive Robotics</title>
+    <link>https://cogrob.com/authors/anwesan-pal/</link>
+      <atom:link href="https://cogrob.com/authors/anwesan-pal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anwesan Pal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Target Driven visual navigation exploiting object relationships</title>
+      <link>https://cogrob.com/publication/qui-20-corl/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/qui-20-corl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>``Looking at the right stuff&#39;&#39; - guided semantic-gaze for autonomous driving</title>
+      <link>https://cogrob.com/publication/pal-20-lookin/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/pal-20-lookin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DEDUCE: Diverse scEne Detection methods in Unseen Challenging Environments</title>
+      <link>https://cogrob.com/publication/pal-19-deduc/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/pal-19-deduc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lindsay M. Sanneman | Cognitive Robotics</title>
+    <link>https://cogrob.com/authors/lindsay-m.-sanneman/</link>
+      <atom:link href="https://cogrob.com/authors/lindsay-m.-sanneman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lindsay M. Sanneman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Enabling Efficient Team Cooperation by Understanding Modes of Human-robot Interactions</title>
+      <link>https://cogrob.com/publication/parashar-19/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/publication/parashar-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

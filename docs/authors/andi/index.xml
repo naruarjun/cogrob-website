@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>andi | Cognitive Robotics</title>
+    <link>https://cogrob.com/authors/andi/</link>
+      <atom:link href="https://cogrob.com/authors/andi/index.xml" rel="self" type="application/rss+xml" />
+    <description>andi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <item>
+      <title>Robot Planning</title>
+      <link>https://cogrob.com/projects/robot_planning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/projects/robot_planning/</guid>
+      <description>&lt;p&gt;Some good content here. Followed by some other content&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Andi Frank</title>
+      <link>https://cogrob.com/authors/andi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cogrob.com/authors/andi/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Andi!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
