@@ -18,7 +18,6 @@ design:
 
 <br>
 
-Welcome to Cogrob! Can we have some intro about cogrob here that spans for 2-3 lines. I can also add a list here
-- item1
-- item2
-- item3 
+Welcome to the Cognitive Robotics Laboratory! Directed by Prof. [Henrik I. Christensen](https://www.hichristensen.com/), we are a part of the [Contextual Robotics Institute](https://contextualrobotics.ucsd.edu/) at [University of California, San Diego](https://ucsd.edu/). Our lab conducts cross-disciplinary research across a number of topics spanning robotics, computer vision, and artificial intelligence. We primarily focus on fundamental research in the context of two main integration projects
+- Intelligent home robots: An intelligent home robot is exemplified by a robot that can "reset" your home or put away the groceries or go fetch the coffee from the kitchen. The robot is required to operate in a semi-structured setting, understand the semantic organization of the home and manipulate objects to solve its tasks. A key part of the project is natural interaction with human users and other agents in the environment.
+- Autonomous driving: Autonomous vehicles offers many possible use-cases from local area transportation to logistics and smart manufacturing. The autonomous vehicle laboratory is doing dynamic mapping, detection of other agents, intent recognition and dynamic planning to enable real-time task fulfillment.
