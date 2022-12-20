@@ -52,7 +52,12 @@
         {{.}}
       </div>
     {{ end }}
-    <!-- {{ partial "tags" $item }} -->
+    {{if $do_link}}
+    <div class="article-style">
+      <a href="{{ $link }}" {{ $target | safeHTMLAttr }}>Read More </a>
+    </div>
+    {{end}}
+<!-- {{ partial "tags" $item }} -->
 
     <div class="stream-meta article-metadata">
 
