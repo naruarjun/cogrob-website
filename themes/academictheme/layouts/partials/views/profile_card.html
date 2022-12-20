@@ -24,7 +24,7 @@
 
 
   {{ $resource := partial "functions/get_featured_image.html" $item }}
-  {{ $resource := $resource.Fill "175x175" }}
+  {{ $resource := $resource.Fill "100x100" }}
 
     {{ if $item.Params.external_link }}
     <div class="card-img-left example-card-img-responsive my-auto img-hover-zoom">
