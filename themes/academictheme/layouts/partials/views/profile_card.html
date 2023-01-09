@@ -58,9 +58,9 @@
 
   {{ if $item.Params.show_education }}
     {{range $e_item := $item.Params.education.courses }}
-      <li> 
+      <div>
         <b> {{$e_item.course}} - </b>  {{$e_item.degree}}, {{$e_item.institution}}, {{$e_item.country}}, {{$e_item.year}}
-      </li>
+      </div>
     {{ end }}
   {{ end }}
 

@@ -17,9 +17,6 @@
     {{ $style_bg := "" }}
     {{ $style_filter := "" }}
 
-    {{with $page.Params.design.slide_height}}
-      {{ $style_bg = printf "%s height: %s;" $style_bg . }}
-    {{end}}
 
     {{ with $item.background.color }}
       {{ $style_bg = printf "%s background-color: %s;" $style_bg (. | default "transparent") }}
@@ -28,7 +25,7 @@
     {{ if $item.background.media }}
       {{ $bg_img := resources.Get (printf "media/%s" $item.background.media) }}
       {{ if $bg_img }}
-        {{ $style_bg = printf "%sbackground-image: url('%s'); background-repeat: no-repeat; background-position: %s; background-size: %s; " $style_bg $bg_img ($item.background.position | default "center") ($item.background.fit | default "cover") }}
+        {{ $style_bg = printf "%sbackground-image: url('%s'); background-repeat: no-repeat; background-position: %s; background-size: %s; " $style_bg $bg_img.RelPermalink ($item.background.position | default "center") ($item.background.fit | default "cover") }}
       {{ else }}
         {{ errorf "Couldn't find `%s` in the `assets/media/` folder - please add it." $item.background.media }}
       {{ end }}

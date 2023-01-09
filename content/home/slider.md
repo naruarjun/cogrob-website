@@ -1,12 +1,12 @@
 ---
 widget: slider
-weight: 10
+weight: 2
 active: true
 headless: true
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
-  slide_height: '80vh'
+  slide_height: '100vh'
   is_fullscreen: false
   # Automatically transition through slides?
   loop: true

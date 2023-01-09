@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: news
 headless: true
-weight: 20
+weight: 3
 
 title: Latest News
 subtitle: Latest Cogrob news
