@@ -18,7 +18,10 @@ content:
 #   email: test@example.org
 #   phone: 888 888 88 88
   address:
-    street:  University of California San Diego,  Franklin Antonio Hall 3302
+    name: Cognitive Robotics Laboratory
+    location:  University of California San Diego
+    building: Franklin Antonio Hall (FAH) 3302
+    street: 9500 Gilman Drive
     city: La Jolla
     region: CA
     postcode: 92037

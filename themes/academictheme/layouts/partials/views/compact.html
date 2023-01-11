@@ -28,17 +28,17 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
+<div class="section-subheading article-title mb-0 mt-0">
+  {{ if $item.Params.full_title }}
+    {{ $item.Params.full_title}}
+  {{ else }}
+  {{ $item.Title }}
+  {{ end }}
+</div>
 <div class="media stream-item view-compact">
-  
+
   <div class="media-body">
     
-    <div class="section-subheading article-title mb-0 mt-0">
-      {{ if $item.Params.full_title }}
-        {{ $item.Params.full_title}}
-      {{ else }}
-      {{ $item.Title }}
-      {{ end }}
-    </div>
 
     {{ with $summary }}
     
