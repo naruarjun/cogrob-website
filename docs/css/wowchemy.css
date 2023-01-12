@@ -3877,7 +3877,8 @@ input[type="button"].btn-block {
   align-items: flex-start; }
 
 .media-body {
-  flex: 1; }
+  flex: 1;
+  padding-left: 15px; }
 
 .list-group {
   display: flex;
