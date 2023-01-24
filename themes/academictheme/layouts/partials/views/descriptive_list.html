@@ -93,6 +93,7 @@
     {{ $resource := partial "functions/get_featured_image.html" $item }}
     {{ with $resource }}
       {{ $image := .Resize "150x webp" }}
+      {{ $image.RelPermalink }}
         <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
             alt="{{ $item.Title }}" loading="lazy">
     {{end}}
