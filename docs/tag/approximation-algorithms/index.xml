@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Approximation algorithms | Cognitive Robotics</title>
-    <link>/tag/approximation-algorithms/</link>
-      <atom:link href="/tag/approximation-algorithms/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.github.io/tag/approximation-algorithms/</link>
+      <atom:link href="https://cogrob.github.io/tag/approximation-algorithms/index.xml" rel="self" type="application/rss+xml" />
     <description>Approximation algorithms</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Approximation and online algorithms for multidimensional bin packing: A survey </title>
-      <link>/publication/christensen-2017/</link>
+      <link>https://cogrob.github.io/publication/christensen-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/christensen-2017/</guid>
+      <guid>https://cogrob.github.io/publication/christensen-2017/</guid>
       <description></description>
     </item>
     

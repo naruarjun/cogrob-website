@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shengye Wang | Cognitive Robotics</title>
-    <link>/authors/shengye-wang/</link>
-      <atom:link href="/authors/shengye-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.github.io/authors/shengye-wang/</link>
+      <atom:link href="https://cogrob.github.io/authors/shengye-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Shengye Wang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Distributed Heterogeneous Multi-robot Source Seeking Using Information Based Sampling with Visual Recognition</title>
-      <link>/publication/nieto-granda-21-iser/</link>
+      <link>https://cogrob.github.io/publication/nieto-granda-21-iser/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/nieto-granda-21-iser/</guid>
+      <guid>https://cogrob.github.io/publication/nieto-granda-21-iser/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robotic Reliability Engineering: A Story of Long-term TritonBot Development</title>
-      <link>/publication/fsr-19-robustness/</link>
+      <link>https://cogrob.github.io/publication/fsr-19-robustness/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/fsr-19-robustness/</guid>
+      <guid>https://cogrob.github.io/publication/fsr-19-robustness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rorg: Service Robot Software Management with Linux Containers</title>
-      <link>/publication/wang-19-rorg/</link>
+      <link>https://cogrob.github.io/publication/wang-19-rorg/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/wang-19-rorg/</guid>
+      <guid>https://cogrob.github.io/publication/wang-19-rorg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TritonBot: First Lessons Learned from Deployment of A Long-term Autonomy Tour Guide Robot</title>
-      <link>/publication/wang-18-triton/</link>
+      <link>https://cogrob.github.io/publication/wang-18-triton/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/wang-18-triton/</guid>
+      <guid>https://cogrob.github.io/publication/wang-18-triton/</guid>
       <description></description>
     </item>
     

@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sayan Mondal | Cognitive Robotics</title>
-    <link>/authors/sayan-mondal/</link>
-      <atom:link href="/authors/sayan-mondal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.github.io/authors/sayan-mondal/</link>
+      <atom:link href="https://cogrob.github.io/authors/sayan-mondal/index.xml" rel="self" type="application/rss+xml" />
     <description>Sayan Mondal</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title>&#39;&#39;Looking at the right stuff&#39;&#39; - guided semantic-gaze for autonomous driving</title>
-      <link>/publication/pal-20-lookin/</link>
+      <link>https://cogrob.github.io/publication/pal-20-lookin/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/pal-20-lookin/</guid>
+      <guid>https://cogrob.github.io/publication/pal-20-lookin/</guid>
       <description></description>
     </item>
     

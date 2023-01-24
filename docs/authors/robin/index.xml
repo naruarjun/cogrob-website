@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>robin | Cognitive Robotics</title>
-    <link>/authors/robin/</link>
-      <atom:link href="/authors/robin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.github.io/authors/robin/</link>
+      <atom:link href="https://cogrob.github.io/authors/robin/index.xml" rel="self" type="application/rss+xml" />
     <description>robin</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <item>
       <title>Luobin Wang</title>
-      <link>/authors/robin/</link>
+      <link>https://cogrob.github.io/authors/robin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/robin/</guid>
+      <guid>https://cogrob.github.io/authors/robin/</guid>
       <description>&lt;p&gt;Something&lt;/p&gt;
 </description>
     </item>

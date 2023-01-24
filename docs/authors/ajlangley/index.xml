@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ajlangley | Cognitive Robotics</title>
-    <link>/authors/ajlangley/</link>
-      <atom:link href="/authors/ajlangley/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.github.io/authors/ajlangley/</link>
+      <atom:link href="https://cogrob.github.io/authors/ajlangley/index.xml" rel="self" type="application/rss+xml" />
     <description>ajlangley</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <item>
       <title>Multi-Robot Optimization</title>
-      <link>/projects/multi_robot_systems/</link>
+      <link>https://cogrob.github.io/projects/multi_robot_systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/projects/multi_robot_systems/</guid>
+      <guid>https://cogrob.github.io/projects/multi_robot_systems/</guid>
       <description>&lt;p&gt;Some good content here. Followed by some other content&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Alexander Langley</title>
-      <link>/authors/ajlangley/</link>
+      <link>https://cogrob.github.io/authors/ajlangley/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/ajlangley/</guid>
+      <guid>https://cogrob.github.io/authors/ajlangley/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m AJ!&lt;/p&gt;
 </description>
     </item>

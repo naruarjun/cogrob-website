@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>4 | Cognitive Robotics</title>
-    <link>/publication-type/4/</link>
-      <atom:link href="/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.github.io/publication-type/4/</link>
+      <atom:link href="https://cogrob.github.io/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title>From Internet to Robotics - A US National Robotics Roadmap - 4th edition</title>
-      <link>/publication/christensen-20-roadmap/</link>
+      <link>https://cogrob.github.io/publication/christensen-20-roadmap/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/christensen-20-roadmap/</guid>
+      <guid>https://cogrob.github.io/publication/christensen-20-roadmap/</guid>
       <description></description>
     </item>
     

@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>carlos | Cognitive Robotics</title>
-    <link>/authors/carlos/</link>
-      <atom:link href="/authors/carlos/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.github.io/authors/carlos/</link>
+      <atom:link href="https://cogrob.github.io/authors/carlos/index.xml" rel="self" type="application/rss+xml" />
     <description>carlos</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <item>
       <title>Carlos Nieto-Granda</title>
-      <link>/authors/carlos/</link>
+      <link>https://cogrob.github.io/authors/carlos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/carlos/</guid>
+      <guid>https://cogrob.github.io/authors/carlos/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Carlos!&lt;/p&gt;
 </description>
     </item>

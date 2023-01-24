@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hengyuan Zhang | Cognitive Robotics</title>
-    <link>/authors/hengyuan-zhang/</link>
-      <atom:link href="/authors/hengyuan-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.github.io/authors/hengyuan-zhang/</link>
+      <atom:link href="https://cogrob.github.io/authors/hengyuan-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Hengyuan Zhang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Robust Human Identity Anonymization using Pose Estimation</title>
-      <link>/publication/zhang-22-anonymization/</link>
+      <link>https://cogrob.github.io/publication/zhang-22-anonymization/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/zhang-22-anonymization/</guid>
+      <guid>https://cogrob.github.io/publication/zhang-22-anonymization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Autonomous Vehicles for Micro-Mobility</title>
-      <link>/publication/christensen-21-avl/</link>
+      <link>https://cogrob.github.io/publication/christensen-21-avl/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/christensen-21-avl/</guid>
+      <guid>https://cogrob.github.io/publication/christensen-21-avl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probabilistic Semantic Mapping for Urban Autonomous Driving Applications</title>
-      <link>/publication/paz-20-mapping/</link>
+      <link>https://cogrob.github.io/publication/paz-20-mapping/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/paz-20-mapping/</guid>
+      <guid>https://cogrob.github.io/publication/paz-20-mapping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lessons Learned From Deploying Autonomous Vehicles at UC San Diego</title>
-      <link>/publication/fsr-19-avl/</link>
+      <link>https://cogrob.github.io/publication/fsr-19-avl/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/fsr-19-avl/</guid>
+      <guid>https://cogrob.github.io/publication/fsr-19-avl/</guid>
       <description></description>
     </item>
     

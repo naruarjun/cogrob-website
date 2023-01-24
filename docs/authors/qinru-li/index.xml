@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qinru Li | Cognitive Robotics</title>
-    <link>/authors/qinru-li/</link>
-      <atom:link href="/authors/qinru-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.github.io/authors/qinru-li/</link>
+      <atom:link href="https://cogrob.github.io/authors/qinru-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Qinru Li</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Probabilistic Semantic Mapping for Urban Autonomous Driving Applications</title>
-      <link>/publication/paz-20-mapping/</link>
+      <link>https://cogrob.github.io/publication/paz-20-mapping/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/paz-20-mapping/</guid>
+      <guid>https://cogrob.github.io/publication/paz-20-mapping/</guid>
       <description></description>
     </item>
     

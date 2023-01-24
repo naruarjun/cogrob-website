@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anwesan Pal | Cognitive Robotics</title>
-    <link>/authors/anwesan-pal/</link>
-      <atom:link href="/authors/anwesan-pal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.github.io/authors/anwesan-pal/</link>
+      <atom:link href="https://cogrob.github.io/authors/anwesan-pal/index.xml" rel="self" type="application/rss+xml" />
     <description>Anwesan Pal</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Role of reward shaping in object-goal navigation</title>
-      <link>/publication/madhavan-22-cvpr/</link>
+      <link>https://cogrob.github.io/publication/madhavan-22-cvpr/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/madhavan-22-cvpr/</guid>
+      <guid>https://cogrob.github.io/publication/madhavan-22-cvpr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning hierarchical relationships for object-goal navigation</title>
-      <link>/publication/qiu-20-corl/</link>
+      <link>https://cogrob.github.io/publication/qiu-20-corl/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/qiu-20-corl/</guid>
+      <guid>https://cogrob.github.io/publication/qiu-20-corl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>&#39;&#39;Looking at the right stuff&#39;&#39; - guided semantic-gaze for autonomous driving</title>
-      <link>/publication/pal-20-lookin/</link>
+      <link>https://cogrob.github.io/publication/pal-20-lookin/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/pal-20-lookin/</guid>
+      <guid>https://cogrob.github.io/publication/pal-20-lookin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DEDUCE: Diverse scEne Detection methods in Unseen Challenging Environments</title>
-      <link>/publication/pal-19-deduc/</link>
+      <link>https://cogrob.github.io/publication/pal-19-deduc/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/pal-19-deduc/</guid>
+      <guid>https://cogrob.github.io/publication/pal-19-deduc/</guid>
       <description></description>
     </item>
     

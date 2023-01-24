@@ -2,291 +2,291 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cognitive Robotics</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.github.io/</link>
+      <atom:link href="https://cogrob.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Cognitive Robotics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Dynamic Scene Modelling</title>
-      <link>/projects/dynamic_scene_modelling/</link>
+      <link>https://cogrob.github.io/projects/dynamic_scene_modelling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/projects/dynamic_scene_modelling/</guid>
+      <guid>https://cogrob.github.io/projects/dynamic_scene_modelling/</guid>
       <description>&lt;p&gt;Some content about dynamic scene modelling&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Environment-aware Manipulation and Planning</title>
-      <link>/projects/manipulation_planning/</link>
+      <link>https://cogrob.github.io/projects/manipulation_planning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/projects/manipulation_planning/</guid>
+      <guid>https://cogrob.github.io/projects/manipulation_planning/</guid>
       <description>&lt;p&gt;Some good content here. Followed by some other content&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Modelling People</title>
-      <link>/projects/modelling_people/</link>
+      <link>https://cogrob.github.io/projects/modelling_people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/projects/modelling_people/</guid>
+      <guid>https://cogrob.github.io/projects/modelling_people/</guid>
       <description>&lt;p&gt;Some good content here. Followed by some other content&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Multi-Robot Optimization</title>
-      <link>/projects/multi_robot_systems/</link>
+      <link>https://cogrob.github.io/projects/multi_robot_systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/projects/multi_robot_systems/</guid>
+      <guid>https://cogrob.github.io/projects/multi_robot_systems/</guid>
       <description>&lt;p&gt;Some good content here. Followed by some other content&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Semantic Perception</title>
-      <link>/projects/semantic_perception/</link>
+      <link>https://cogrob.github.io/projects/semantic_perception/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/projects/semantic_perception/</guid>
+      <guid>https://cogrob.github.io/projects/semantic_perception/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Place-And-Pick-Based Re-Grasping Using Unstable Placement</title>
-      <link>/publication/isrr-22-cogrob/</link>
+      <link>https://cogrob.github.io/publication/isrr-22-cogrob/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/isrr-22-cogrob/</guid>
+      <guid>https://cogrob.github.io/publication/isrr-22-cogrob/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Congratulations Dr. Vuong!</title>
-      <link>/post/grad_quan/</link>
+      <link>https://cogrob.github.io/post/grad_quan/</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>/post/grad_quan/</guid>
+      <guid>https://cogrob.github.io/post/grad_quan/</guid>
       <description>&lt;p&gt;Quan Vuong recently defended his PhD thesis titled &amp;ldquo;Robot learning through Reinforcement Learning, Teleoperation and Scene Reconstruction&amp;rdquo;. He will be starting a new adventure in his life at Google Brain. Congratulations Quan!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Putting away the Groceries with Precise Semantic Placements</title>
-      <link>/publication/adeleye-23-putaway/</link>
+      <link>https://cogrob.github.io/publication/adeleye-23-putaway/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/adeleye-23-putaway/</guid>
+      <guid>https://cogrob.github.io/publication/adeleye-23-putaway/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust Human Identity Anonymization using Pose Estimation</title>
-      <link>/publication/zhang-22-anonymization/</link>
+      <link>https://cogrob.github.io/publication/zhang-22-anonymization/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/zhang-22-anonymization/</guid>
+      <guid>https://cogrob.github.io/publication/zhang-22-anonymization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rotational Slippage Minimization in Object Manipulation</title>
-      <link>/publication/hu-22-slippage/</link>
+      <link>https://cogrob.github.io/publication/hu-22-slippage/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/hu-22-slippage/</guid>
+      <guid>https://cogrob.github.io/publication/hu-22-slippage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scan Matching and Probabilistic Stationary Global Localization in an Airport Environment</title>
-      <link>/publication/hoj-22-case/</link>
+      <link>https://cogrob.github.io/publication/hoj-22-case/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/hoj-22-case/</guid>
+      <guid>https://cogrob.github.io/publication/hoj-22-case/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Role of reward shaping in object-goal navigation</title>
-      <link>/publication/madhavan-22-cvpr/</link>
+      <link>https://cogrob.github.io/publication/madhavan-22-cvpr/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/madhavan-22-cvpr/</guid>
+      <guid>https://cogrob.github.io/publication/madhavan-22-cvpr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TridentNetV2: Lightweight Graphical Global Plan Representations for Dynamic Trajectory Generation</title>
-      <link>/publication/paz-22-tridentv-2/</link>
+      <link>https://cogrob.github.io/publication/paz-22-tridentv-2/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/paz-22-tridentv-2/</guid>
+      <guid>https://cogrob.github.io/publication/paz-22-tridentv-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Autonomous Vehicles for Micro-Mobility</title>
-      <link>/publication/christensen-21-avl/</link>
+      <link>https://cogrob.github.io/publication/christensen-21-avl/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/christensen-21-avl/</guid>
+      <guid>https://cogrob.github.io/publication/christensen-21-avl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributed Heterogeneous Multi-robot Source Seeking Using Information Based Sampling with Visual Recognition</title>
-      <link>/publication/nieto-granda-21-iser/</link>
+      <link>https://cogrob.github.io/publication/nieto-granda-21-iser/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/nieto-granda-21-iser/</guid>
+      <guid>https://cogrob.github.io/publication/nieto-granda-21-iser/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Congratulations Dr. Parashar!</title>
-      <link>/post/grad_priyam/</link>
+      <link>https://cogrob.github.io/post/grad_priyam/</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>/post/grad_priyam/</guid>
+      <guid>https://cogrob.github.io/post/grad_priyam/</guid>
       <description>&lt;p&gt;Priyam recently defended his PhD thesis titled &amp;ldquo;Using Meta-reasoning for Failure Detection and Recovery in Assembly Domain&amp;rdquo;. She will be starting a new adventure in her life at Meta. Congratulations Priyam!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>A Hierarchical Model to Enable Plan Reuse and Repair in Assembly Domains</title>
-      <link>/publication/parashar-2021-case/</link>
+      <link>https://cogrob.github.io/publication/parashar-2021-case/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/parashar-2021-case/</guid>
+      <guid>https://cogrob.github.io/publication/parashar-2021-case/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Congratulations Dr. White-Magner!</title>
-      <link>/post/grad_ruffin/</link>
+      <link>https://cogrob.github.io/post/grad_ruffin/</link>
       <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/post/grad_ruffin/</guid>
+      <guid>https://cogrob.github.io/post/grad_ruffin/</guid>
       <description>&lt;p&gt;Ruffin White-Magner recently defended his PhD thesis titled &amp;ldquo;Usable Security and Verification for Distributed Robotic Systems&amp;rdquo;. He will be starting a new adventure in his life at Università Ca&amp;rsquo;​ Foscari Venezia. Congratulations Ruffin!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>TridentNet: A Conditional Generative Model for Dynamic Trajectory Generation</title>
-      <link>/publication/paz-21-tridentnet/</link>
+      <link>https://cogrob.github.io/publication/paz-21-tridentnet/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/paz-21-tridentnet/</guid>
+      <guid>https://cogrob.github.io/publication/paz-21-tridentnet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Auto-calibration Method Using Stop Signs for Urban Autonomous Driving Applications</title>
-      <link>/publication/han-21/</link>
+      <link>https://cogrob.github.io/publication/han-21/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/han-21/</guid>
+      <guid>https://cogrob.github.io/publication/han-21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Roadmap for US Robotics - From Internet to Robotics 2020 Edition</title>
-      <link>/publication/rob-066/</link>
+      <link>https://cogrob.github.io/publication/rob-066/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/rob-066/</guid>
+      <guid>https://cogrob.github.io/publication/rob-066/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heterogeneous Multi-robot Adversarial Patrolling Using Polymatrix Games</title>
-      <link>/publication/langley-21-icrai/</link>
+      <link>https://cogrob.github.io/publication/langley-21-icrai/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/langley-21-icrai/</guid>
+      <guid>https://cogrob.github.io/publication/langley-21-icrai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single RGB-D Camera Teleoperation for General Robotic Manipulation</title>
-      <link>/publication/vuong-2021-single/</link>
+      <link>https://cogrob.github.io/publication/vuong-2021-single/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/vuong-2021-single/</guid>
+      <guid>https://cogrob.github.io/publication/vuong-2021-single/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning hierarchical relationships for object-goal navigation</title>
-      <link>/publication/qiu-20-corl/</link>
+      <link>https://cogrob.github.io/publication/qiu-20-corl/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/qiu-20-corl/</guid>
+      <guid>https://cogrob.github.io/publication/qiu-20-corl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ruling In and Ruling Out COVID-19: Computing SARS-CoV-2 Infection Risk From Symptoms, Imaging and Test Data</title>
-      <link>/publication/dambrosia-20-covid/</link>
+      <link>https://cogrob.github.io/publication/dambrosia-20-covid/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/dambrosia-20-covid/</guid>
+      <guid>https://cogrob.github.io/publication/dambrosia-20-covid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Autonomous Vehicle Benchmarking Using Unbiased Metrics</title>
-      <link>/publication/paz-20-metrics/</link>
+      <link>https://cogrob.github.io/publication/paz-20-metrics/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/paz-20-metrics/</guid>
+      <guid>https://cogrob.github.io/publication/paz-20-metrics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probabilistic Semantic Mapping for Urban Autonomous Driving Applications</title>
-      <link>/publication/paz-20-mapping/</link>
+      <link>https://cogrob.github.io/publication/paz-20-mapping/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/paz-20-mapping/</guid>
+      <guid>https://cogrob.github.io/publication/paz-20-mapping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From Internet to Robotics - A US National Robotics Roadmap - 4th edition</title>
-      <link>/publication/christensen-20-roadmap/</link>
+      <link>https://cogrob.github.io/publication/christensen-20-roadmap/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/christensen-20-roadmap/</guid>
+      <guid>https://cogrob.github.io/publication/christensen-20-roadmap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Congratulations Graduates!</title>
-      <link>/post/grad_2020/</link>
+      <link>https://cogrob.github.io/post/grad_2020/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/grad_2020/</guid>
+      <guid>https://cogrob.github.io/post/grad_2020/</guid>
       <description>&lt;p&gt;David Paz, Cassie Qiu, Jiaming Hu, Henry Zhang, and Michelle Sit completed their respective Master of Science degrees. David, Cassie, Jiaming and Henry will be continuing for their PhD, while Michelle will be starting a new career in the industry. Congratulations everyone!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Papers Accepted at CVPR 2020!</title>
-      <link>/post/cvpr_2020/</link>
+      <link>https://cogrob.github.io/post/cvpr_2020/</link>
       <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/cvpr_2020/</guid>
+      <guid>https://cogrob.github.io/post/cvpr_2020/</guid>
       <description>&lt;p&gt;Our paper titled “Looking at the Right Stuff – Guided Semantic-Gaze for Autonomous Driving” has been accepted for publication at IEEE/CVF Conference on Computer Vision and Pattern Recognition 2020, Seattle, USA. [paper][website]&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>&#39;&#39;Looking at the right stuff&#39;&#39; - guided semantic-gaze for autonomous driving</title>
-      <link>/publication/pal-20-lookin/</link>
+      <link>https://cogrob.github.io/publication/pal-20-lookin/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/pal-20-lookin/</guid>
+      <guid>https://cogrob.github.io/publication/pal-20-lookin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Congratulations Dr. Wang!</title>
-      <link>/post/grad_shengye/</link>
+      <link>https://cogrob.github.io/post/grad_shengye/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/grad_shengye/</guid>
+      <guid>https://cogrob.github.io/post/grad_shengye/</guid>
       <description>&lt;p&gt;Shengye Wang recently defended his PhD thesis titled &amp;ldquo;Reliability Engineering for Long-term Autonomous Service Robots&amp;rdquo;. He will be starting a new adventure in his life at Waymo. Congratulations Shengye!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Combating COVID-19 -- the role of robotics in managing public health and infectious diseases</title>
-      <link>/publication/yang-20-comba-covid/</link>
+      <link>https://cogrob.github.io/publication/yang-20-comba-covid/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/yang-20-comba-covid/</guid>
+      <guid>https://cogrob.github.io/publication/yang-20-comba-covid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Congrats Dr. Nieto-Granda!</title>
-      <link>/post/grad_carlos/</link>
+      <link>https://cogrob.github.io/post/grad_carlos/</link>
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/post/grad_carlos/</guid>
+      <guid>https://cogrob.github.io/post/grad_carlos/</guid>
       <description>&lt;p&gt;Carlos Nieto-Granda recently defended his PhD thesis titled &amp;ldquo;Robust Distributed Multi-Robot Information Based Exploration and Sampling&amp;rdquo;. He will be starting a new adventure in his life at ARL. Congratulations Carlos!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Self-Driving Mail Delivery Begins on Campus!</title>
-      <link>/post/self_driving_delivery/</link>
+      <link>https://cogrob.github.io/post/self_driving_delivery/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/post/self_driving_delivery/</guid>
+      <guid>https://cogrob.github.io/post/self_driving_delivery/</guid>
       <description>&lt;p&gt;As part of a campus wide collaboration with UCSD’s Fleet Services, Logistics, Mailing Center, and Police Department, AVL has deployed two self-driving vehicles that are being actively used for research with applications for mail delivery. During summer 2019, AVL’s vehicles completed missions to multiple campus mailing center locations including Warren and Sixth colleges. Unlike current self-driving car applications, many of the routes tested consist of pedestrian and vehicle interactions in unstructured environments that are under constant construction. Given the complexity of campus topology and interaction scenarios, the data collected is being evaluated to benchmark performance and long term autonomy.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://ucsdnews.ucsd.edu/feature/self-driving-mail-delivery-begins-on-campus?_ga=2.49049893.2095787280.1574181467-704518755.1543349897&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full story&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://avl.ucsd.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AVL&lt;/a&gt;&lt;/p&gt;</description>
@@ -294,439 +294,439 @@
     
     <item>
       <title>Three papers at IROS 2019!</title>
-      <link>/post/iros_2019/</link>
+      <link>https://cogrob.github.io/post/iros_2019/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/post/iros_2019/</guid>
+      <guid>https://cogrob.github.io/post/iros_2019/</guid>
       <description>&lt;p&gt;Very excited to present THREE papers at IROS. The research covers topics from machine learning for place recognition, designing taxonomy for human-robot teams, and enabling robust logging mechanism for robots using blockchains. Check out Publications page for more information!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>A Taxonomy for Characterizing Modes of Interactions in Goal-driven, Human-robot Teams</title>
-      <link>/publication/parashar-19-taxonomy/</link>
+      <link>https://cogrob.github.io/publication/parashar-19-taxonomy/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/parashar-19-taxonomy/</guid>
+      <guid>https://cogrob.github.io/publication/parashar-19-taxonomy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Black Block Recorder: Immutable Black Box Logging for Robots via Blockchain </title>
-      <link>/publication/white-19-black-block-recorder/</link>
+      <link>https://cogrob.github.io/publication/white-19-black-block-recorder/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/white-19-black-block-recorder/</guid>
+      <guid>https://cogrob.github.io/publication/white-19-black-block-recorder/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DEDUCE: Diverse scEne Detection methods in Unseen Challenging Environments</title>
-      <link>/publication/pal-19-deduc/</link>
+      <link>https://cogrob.github.io/publication/pal-19-deduc/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/pal-19-deduc/</guid>
+      <guid>https://cogrob.github.io/publication/pal-19-deduc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lessons Learned From Deploying Autonomous Vehicles at UC San Diego</title>
-      <link>/publication/fsr-19-avl/</link>
+      <link>https://cogrob.github.io/publication/fsr-19-avl/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/fsr-19-avl/</guid>
+      <guid>https://cogrob.github.io/publication/fsr-19-avl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robotic Reliability Engineering: A Story of Long-term TritonBot Development</title>
-      <link>/publication/fsr-19-robustness/</link>
+      <link>https://cogrob.github.io/publication/fsr-19-robustness/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/fsr-19-robustness/</guid>
+      <guid>https://cogrob.github.io/publication/fsr-19-robustness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network Reconnaissance and Vulnerability Excavation of Secure DDS Systems</title>
-      <link>/publication/white-19/</link>
+      <link>https://cogrob.github.io/publication/white-19/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/white-19/</guid>
+      <guid>https://cogrob.github.io/publication/white-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coordinating multi-robot systems through environment partitioning for adaptive informative sampling</title>
-      <link>/publication/fung-19-coord/</link>
+      <link>https://cogrob.github.io/publication/fung-19-coord/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/fung-19-coord/</guid>
+      <guid>https://cogrob.github.io/publication/fung-19-coord/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enabling Efficient Team Cooperation by Understanding Modes of Human-robot Interactions</title>
-      <link>/publication/parashar-19/</link>
+      <link>https://cogrob.github.io/publication/parashar-19/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/parashar-19/</guid>
+      <guid>https://cogrob.github.io/publication/parashar-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rorg: Service Robot Software Management with Linux Containers</title>
-      <link>/publication/wang-19-rorg/</link>
+      <link>https://cogrob.github.io/publication/wang-19-rorg/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/wang-19-rorg/</guid>
+      <guid>https://cogrob.github.io/publication/wang-19-rorg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WaveToFly: WaveToFly: Control a UAV using Body Gestures</title>
-      <link>/publication/li-19-wavet/</link>
+      <link>https://cogrob.github.io/publication/li-19-wavet/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/li-19-wavet/</guid>
+      <guid>https://cogrob.github.io/publication/li-19-wavet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ten Technologies of the year</title>
-      <link>/publication/yang-19-tentechn/</link>
+      <link>https://cogrob.github.io/publication/yang-19-tentechn/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/yang-19-tentechn/</guid>
+      <guid>https://cogrob.github.io/publication/yang-19-tentechn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On-line Coordination Task for Multi-robot Systemsusing Adaptive Informative Sampling</title>
-      <link>/publication/nieto-18-iser-18/</link>
+      <link>https://cogrob.github.io/publication/nieto-18-iser-18/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/nieto-18-iser-18/</guid>
+      <guid>https://cogrob.github.io/publication/nieto-18-iser-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Procedurally Provisioned Access Control for Robotic Systems</title>
-      <link>/publication/white-18-roscon/</link>
+      <link>https://cogrob.github.io/publication/white-18-roscon/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/white-18-roscon/</guid>
+      <guid>https://cogrob.github.io/publication/white-18-roscon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Lifelong Adaptive Agents: Using Meta- reasoning for Combining Task Planning and Situated Learning</title>
-      <link>/publication/parashar-18-ker/</link>
+      <link>https://cogrob.github.io/publication/parashar-18-ker/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/parashar-18-ker/</guid>
+      <guid>https://cogrob.github.io/publication/parashar-18-ker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using hierarchical expectations ground in percpetion for reasonign about failures during task execution</title>
-      <link>/publication/parashar-18/</link>
+      <link>https://cogrob.github.io/publication/parashar-18/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/parashar-18/</guid>
+      <guid>https://cogrob.github.io/publication/parashar-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Context Aware Robot Navigation using Interactively Built Semantic Maps</title>
-      <link>/publication/cosgun-18-jbr/</link>
+      <link>https://cogrob.github.io/publication/cosgun-18-jbr/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/cosgun-18-jbr/</guid>
+      <guid>https://cogrob.github.io/publication/cosgun-18-jbr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TritonBot: First Lessons Learned from Deployment of A Long-term Autonomy Tour Guide Robot</title>
-      <link>/publication/wang-18-triton/</link>
+      <link>https://cogrob.github.io/publication/wang-18-triton/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/wang-18-triton/</guid>
+      <guid>https://cogrob.github.io/publication/wang-18-triton/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Purely Geometric Scene Association and Retrieval - A case for macro-scale 3D geometry</title>
-      <link>/publication/sawhney-18-purel-geomet-scene-assoc-retriev/</link>
+      <link>https://cogrob.github.io/publication/sawhney-18-purel-geomet-scene-assoc-retriev/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/sawhney-18-purel-geomet-scene-assoc-retriev/</guid>
+      <guid>https://cogrob.github.io/publication/sawhney-18-purel-geomet-scene-assoc-retriev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Realizing the Potential of Data Science</title>
-      <link>/publication/berman-18-realizpotendatascien/</link>
+      <link>https://cogrob.github.io/publication/berman-18-realizpotendatascien/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/berman-18-realizpotendatascien/</guid>
+      <guid>https://cogrob.github.io/publication/berman-18-realizpotendatascien/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust grasp preimages under unknown mass and friction distributions </title>
-      <link>/publication/price-18-icae/</link>
+      <link>https://cogrob.github.io/publication/price-18-icae/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/price-18-icae/</guid>
+      <guid>https://cogrob.github.io/publication/price-18-icae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Taxonomy of Benchmark Tasks for Robot Manipulation</title>
-      <link>/publication/huaman-quispe-2018/</link>
+      <link>https://cogrob.github.io/publication/huaman-quispe-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/huaman-quispe-2018/</guid>
+      <guid>https://cogrob.github.io/publication/huaman-quispe-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Approximation and online algorithms for multidimensional bin packing: A survey </title>
-      <link>/publication/christensen-2017/</link>
+      <link>https://cogrob.github.io/publication/christensen-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/christensen-2017/</guid>
+      <guid>https://cogrob.github.io/publication/christensen-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Custom soft robotic gripper sensor skins for haptic object visualization</title>
-      <link>/publication/shih-2017-custom/</link>
+      <link>https://cogrob.github.io/publication/shih-2017-custom/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/shih-2017-custom/</guid>
+      <guid>https://cogrob.github.io/publication/shih-2017-custom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributed mapping with privacy and communication constraints: Lightweight algorithms and object-based models</title>
-      <link>/publication/doi-10-1177-0278364917732640/</link>
+      <link>https://cogrob.github.io/publication/doi-10-1177-0278364917732640/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/doi-10-1177-0278364917732640/</guid>
+      <guid>https://cogrob.github.io/publication/doi-10-1177-0278364917732640/</guid>
       <description></description>
     </item>
     
     <item>
       <title>StuffNet: Using &#39;&#39;Stuff&#39;&#39; to Improve Object Detection</title>
-      <link>/publication/brahmbhatt-17-stuff/</link>
+      <link>https://cogrob.github.io/publication/brahmbhatt-17-stuff/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/brahmbhatt-17-stuff/</guid>
+      <guid>https://cogrob.github.io/publication/brahmbhatt-17-stuff/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/people/</link>
+      <link>https://cogrob.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/people/</guid>
+      <guid>https://cogrob.github.io/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/project/</link>
+      <link>https://cogrob.github.io/project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/</guid>
+      <guid>https://cogrob.github.io/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Akanimoh Adeleye</title>
-      <link>/authors/sanmi/</link>
+      <link>https://cogrob.github.io/authors/sanmi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/sanmi/</guid>
+      <guid>https://cogrob.github.io/authors/sanmi/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Sanmi!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Alexander Langley</title>
-      <link>/authors/ajlangley/</link>
+      <link>https://cogrob.github.io/authors/ajlangley/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/ajlangley/</guid>
+      <guid>https://cogrob.github.io/authors/ajlangley/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m AJ!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Andrea Frank</title>
-      <link>/authors/andi/</link>
+      <link>https://cogrob.github.io/authors/andi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/andi/</guid>
+      <guid>https://cogrob.github.io/authors/andi/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Andi!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Anwesan Pal</title>
-      <link>/authors/anwesan/</link>
+      <link>https://cogrob.github.io/authors/anwesan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/anwesan/</guid>
+      <guid>https://cogrob.github.io/authors/anwesan/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Anwesan!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Carlos Nieto-Granda</title>
-      <link>/authors/carlos/</link>
+      <link>https://cogrob.github.io/authors/carlos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/carlos/</guid>
+      <guid>https://cogrob.github.io/authors/carlos/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Carlos!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Christopher D&#39;Ambrosia</title>
-      <link>/authors/chris/</link>
+      <link>https://cogrob.github.io/authors/chris/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/chris/</guid>
+      <guid>https://cogrob.github.io/authors/chris/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Anwesan!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>David Paz</title>
-      <link>/authors/david/</link>
+      <link>https://cogrob.github.io/authors/david/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/david/</guid>
+      <guid>https://cogrob.github.io/authors/david/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m David!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hengyuan Zhang</title>
-      <link>/authors/henry/</link>
+      <link>https://cogrob.github.io/authors/henry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/henry/</guid>
+      <guid>https://cogrob.github.io/authors/henry/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Henry!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Henrik I Christensen</title>
-      <link>/authors/henrik/</link>
+      <link>https://cogrob.github.io/authors/henrik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/henrik/</guid>
+      <guid>https://cogrob.github.io/authors/henrik/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jaskaran Virdi</title>
-      <link>/authors/jaskaran_virdi/</link>
+      <link>https://cogrob.github.io/authors/jaskaran_virdi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/jaskaran_virdi/</guid>
+      <guid>https://cogrob.github.io/authors/jaskaran_virdi/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Jaskaran!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Jiaming Hu</title>
-      <link>/authors/jiaming/</link>
+      <link>https://cogrob.github.io/authors/jiaming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/jiaming/</guid>
+      <guid>https://cogrob.github.io/authors/jiaming/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Frank!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Luobin Wang</title>
-      <link>/authors/robin/</link>
+      <link>https://cogrob.github.io/authors/robin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/robin/</guid>
+      <guid>https://cogrob.github.io/authors/robin/</guid>
       <description>&lt;p&gt;Something&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Michelle Sit</title>
-      <link>/authors/michelle/</link>
+      <link>https://cogrob.github.io/authors/michelle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/michelle/</guid>
+      <guid>https://cogrob.github.io/authors/michelle/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Michelle!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Priyam Parashar</title>
-      <link>/authors/priyam/</link>
+      <link>https://cogrob.github.io/authors/priyam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/priyam/</guid>
+      <guid>https://cogrob.github.io/authors/priyam/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Priyam!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Quan Vuong</title>
-      <link>/authors/quan/</link>
+      <link>https://cogrob.github.io/authors/quan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/quan/</guid>
+      <guid>https://cogrob.github.io/authors/quan/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Quan!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Rohan Patil</title>
-      <link>/authors/rohan/</link>
+      <link>https://cogrob.github.io/authors/rohan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/rohan/</guid>
+      <guid>https://cogrob.github.io/authors/rohan/</guid>
       <description>&lt;p&gt;Something&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ruffin White</title>
-      <link>/authors/ruffin/</link>
+      <link>https://cogrob.github.io/authors/ruffin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/ruffin/</guid>
+      <guid>https://cogrob.github.io/authors/ruffin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Ruffin!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Seth Farell</title>
-      <link>/authors/seth/</link>
+      <link>https://cogrob.github.io/authors/seth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/seth/</guid>
+      <guid>https://cogrob.github.io/authors/seth/</guid>
       <description>&lt;p&gt;Seth is a graduate student in the Electrical and Computer Engineering department&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Shengye Wang</title>
-      <link>/authors/shengye/</link>
+      <link>https://cogrob.github.io/authors/shengye/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/shengye/</guid>
+      <guid>https://cogrob.github.io/authors/shengye/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Henry!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Shrutheesh R Iyer</title>
-      <link>/authors/shrutheesh/</link>
+      <link>https://cogrob.github.io/authors/shrutheesh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/shrutheesh/</guid>
+      <guid>https://cogrob.github.io/authors/shrutheesh/</guid>
       <description>&lt;p&gt;Something&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Srinidhi Bharadwaj</title>
-      <link>/authors/srinidhi/</link>
+      <link>https://cogrob.github.io/authors/srinidhi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/srinidhi/</guid>
+      <guid>https://cogrob.github.io/authors/srinidhi/</guid>
       <description>&lt;p&gt;Something&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Srirangan Madhavan</title>
-      <link>/authors/srirangan/</link>
+      <link>https://cogrob.github.io/authors/srirangan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/srirangan/</guid>
+      <guid>https://cogrob.github.io/authors/srirangan/</guid>
       <description>&lt;p&gt;Something&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sumit Binnani</title>
-      <link>/authors/sumit_binnani/</link>
+      <link>https://cogrob.github.io/authors/sumit_binnani/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/sumit_binnani/</guid>
+      <guid>https://cogrob.github.io/authors/sumit_binnani/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Ruffin!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Yiding Qiu</title>
-      <link>/authors/cassie/</link>
+      <link>https://cogrob.github.io/authors/cassie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/cassie/</guid>
+      <guid>https://cogrob.github.io/authors/cassie/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Cassie!&lt;/p&gt;
 </description>
     </item>
