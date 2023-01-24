@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lindsay Sanneman | Cognitive Robotics</title>
-    <link>https://cogrob.github.io/cogrob-website/authors/lindsay-sanneman/</link>
-      <atom:link href="https://cogrob.github.io/cogrob-website/authors/lindsay-sanneman/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/lindsay-sanneman/</link>
+      <atom:link href="/authors/lindsay-sanneman/index.xml" rel="self" type="application/rss+xml" />
     <description>Lindsay Sanneman</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <item>
       <title>A Taxonomy for Characterizing Modes of Interactions in Goal-driven, Human-robot Teams</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/parashar-19-taxonomy/</link>
+      <link>/publication/parashar-19-taxonomy/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/parashar-19-taxonomy/</guid>
+      <guid>/publication/parashar-19-taxonomy/</guid>
       <description></description>
     </item>
     

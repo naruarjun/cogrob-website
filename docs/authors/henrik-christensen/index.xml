@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Henrik Christensen | Cognitive Robotics</title>
-    <link>https://cogrob.github.io/cogrob-website/authors/henrik-christensen/</link>
-      <atom:link href="https://cogrob.github.io/cogrob-website/authors/henrik-christensen/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/henrik-christensen/</link>
+      <atom:link href="/authors/henrik-christensen/index.xml" rel="self" type="application/rss+xml" />
     <description>Henrik Christensen</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Autonomous Vehicles for Micro-Mobility</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/christensen-21-avl/</link>
+      <link>/publication/christensen-21-avl/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/christensen-21-avl/</guid>
+      <guid>/publication/christensen-21-avl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Roadmap for US Robotics - From Internet to Robotics 2020 Edition</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/rob-066/</link>
+      <link>/publication/rob-066/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/rob-066/</guid>
+      <guid>/publication/rob-066/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combating COVID-19 -- the role of robotics in managing public health and infectious diseases</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/yang-20-comba-covid/</link>
+      <link>/publication/yang-20-comba-covid/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/yang-20-comba-covid/</guid>
+      <guid>/publication/yang-20-comba-covid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Realizing the Potential of Data Science</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/berman-18-realizpotendatascien/</link>
+      <link>/publication/berman-18-realizpotendatascien/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/berman-18-realizpotendatascien/</guid>
+      <guid>/publication/berman-18-realizpotendatascien/</guid>
       <description></description>
     </item>
     

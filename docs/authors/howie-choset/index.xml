@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Howie Choset | Cognitive Robotics</title>
-    <link>https://cogrob.github.io/cogrob-website/authors/howie-choset/</link>
-      <atom:link href="https://cogrob.github.io/cogrob-website/authors/howie-choset/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/howie-choset/</link>
+      <atom:link href="/authors/howie-choset/index.xml" rel="self" type="application/rss+xml" />
     <description>Howie Choset</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>A Roadmap for US Robotics - From Internet to Robotics 2020 Edition</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/rob-066/</link>
+      <link>/publication/rob-066/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/rob-066/</guid>
+      <guid>/publication/rob-066/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ten Technologies of the year</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/yang-19-tentechn/</link>
+      <link>/publication/yang-19-tentechn/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/yang-19-tentechn/</guid>
+      <guid>/publication/yang-19-tentechn/</guid>
       <description></description>
     </item>
     

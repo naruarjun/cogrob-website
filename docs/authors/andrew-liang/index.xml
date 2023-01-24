@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrew Liang | Cognitive Robotics</title>
-    <link>https://cogrob.github.io/cogrob-website/authors/andrew-liang/</link>
-      <atom:link href="https://cogrob.github.io/cogrob-website/authors/andrew-liang/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/andrew-liang/</link>
+      <atom:link href="/authors/andrew-liang/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrew Liang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <item>
       <title>TridentNetV2: Lightweight Graphical Global Plan Representations for Dynamic Trajectory Generation</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/paz-22-tridentv-2/</link>
+      <link>/publication/paz-22-tridentv-2/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/paz-22-tridentv-2/</guid>
+      <guid>/publication/paz-22-tridentv-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Autonomous Vehicles for Micro-Mobility</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/christensen-21-avl/</link>
+      <link>/publication/christensen-21-avl/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/christensen-21-avl/</guid>
+      <guid>/publication/christensen-21-avl/</guid>
       <description></description>
     </item>
     

@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sumit Binnani | Cognitive Robotics</title>
-    <link>https://cogrob.github.io/cogrob-website/authors/sumit-binnani/</link>
-      <atom:link href="https://cogrob.github.io/cogrob-website/authors/sumit-binnani/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/sumit-binnani/</link>
+      <atom:link href="/authors/sumit-binnani/index.xml" rel="self" type="application/rss+xml" />
     <description>Sumit Binnani</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Lessons Learned From Deploying Autonomous Vehicles at UC San Diego</title>
-      <link>https://cogrob.github.io/cogrob-website/publication/fsr-19-avl/</link>
+      <link>/publication/fsr-19-avl/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/cogrob-website/publication/fsr-19-avl/</guid>
+      <guid>/publication/fsr-19-avl/</guid>
       <description></description>
     </item>
     
