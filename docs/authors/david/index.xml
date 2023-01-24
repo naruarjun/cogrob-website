@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>david | Cognitive Robotics</title>
-    <link>/authors/david/</link>
-      <atom:link href="/authors/david/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.github.io/cogrob-website/authors/david/</link>
+      <atom:link href="https://cogrob.github.io/cogrob-website/authors/david/index.xml" rel="self" type="application/rss+xml" />
     <description>david</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <item>
       <title>Dynamic Scene Modelling</title>
-      <link>/projects/dynamic_scene_modelling/</link>
+      <link>https://cogrob.github.io/cogrob-website/projects/dynamic_scene_modelling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/projects/dynamic_scene_modelling/</guid>
+      <guid>https://cogrob.github.io/cogrob-website/projects/dynamic_scene_modelling/</guid>
       <description>&lt;p&gt;Some content about dynamic scene modelling&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Semantic Perception</title>
-      <link>/projects/semantic_perception/</link>
+      <link>https://cogrob.github.io/cogrob-website/projects/semantic_perception/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/projects/semantic_perception/</guid>
+      <guid>https://cogrob.github.io/cogrob-website/projects/semantic_perception/</guid>
       <description></description>
     </item>
     
     <item>
       <title>David Paz</title>
-      <link>/authors/david/</link>
+      <link>https://cogrob.github.io/cogrob-website/authors/david/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/david/</guid>
+      <guid>https://cogrob.github.io/cogrob-website/authors/david/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m David!&lt;/p&gt;
 </description>
     </item>

@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>henrik | Cognitive Robotics</title>
-    <link>/authors/henrik/</link>
-      <atom:link href="/authors/henrik/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.github.io/cogrob-website/authors/henrik/</link>
+      <atom:link href="https://cogrob.github.io/cogrob-website/authors/henrik/index.xml" rel="self" type="application/rss+xml" />
     <description>henrik</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <item>
       <title>Henrik I Christensen</title>
-      <link>/authors/henrik/</link>
+      <link>https://cogrob.github.io/cogrob-website/authors/henrik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/henrik/</guid>
+      <guid>https://cogrob.github.io/cogrob-website/authors/henrik/</guid>
       <description></description>
     </item>
     

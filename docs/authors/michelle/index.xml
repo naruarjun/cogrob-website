@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>michelle | Cognitive Robotics</title>
-    <link>/authors/michelle/</link>
-      <atom:link href="/authors/michelle/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.github.io/cogrob-website/authors/michelle/</link>
+      <atom:link href="https://cogrob.github.io/cogrob-website/authors/michelle/index.xml" rel="self" type="application/rss+xml" />
     <description>michelle</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <item>
       <title>Michelle Sit</title>
-      <link>/authors/michelle/</link>
+      <link>https://cogrob.github.io/cogrob-website/authors/michelle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/michelle/</guid>
+      <guid>https://cogrob.github.io/cogrob-website/authors/michelle/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Michelle!&lt;/p&gt;
 </description>
     </item>

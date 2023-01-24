@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robin Murphy | Cognitive Robotics</title>
-    <link>/authors/robin-murphy/</link>
-      <atom:link href="/authors/robin-murphy/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.github.io/cogrob-website/authors/robin-murphy/</link>
+      <atom:link href="https://cogrob.github.io/cogrob-website/authors/robin-murphy/index.xml" rel="self" type="application/rss+xml" />
     <description>Robin Murphy</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Combating COVID-19 -- the role of robotics in managing public health and infectious diseases</title>
-      <link>/publication/yang-20-comba-covid/</link>
+      <link>https://cogrob.github.io/cogrob-website/publication/yang-20-comba-covid/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/yang-20-comba-covid/</guid>
+      <guid>https://cogrob.github.io/cogrob-website/publication/yang-20-comba-covid/</guid>
       <description></description>
     </item>
     

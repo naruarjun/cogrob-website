@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>shrutheesh | Cognitive Robotics</title>
-    <link>/authors/shrutheesh/</link>
-      <atom:link href="/authors/shrutheesh/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.github.io/cogrob-website/authors/shrutheesh/</link>
+      <atom:link href="https://cogrob.github.io/cogrob-website/authors/shrutheesh/index.xml" rel="self" type="application/rss+xml" />
     <description>shrutheesh</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <item>
       <title>Shrutheesh R Iyer</title>
-      <link>/authors/shrutheesh/</link>
+      <link>https://cogrob.github.io/cogrob-website/authors/shrutheesh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/shrutheesh/</guid>
+      <guid>https://cogrob.github.io/cogrob-website/authors/shrutheesh/</guid>
       <description>&lt;p&gt;Something&lt;/p&gt;
 </description>
     </item>

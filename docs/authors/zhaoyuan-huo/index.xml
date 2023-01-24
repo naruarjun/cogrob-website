@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhaoyuan Huo | Cognitive Robotics</title>
-    <link>/authors/zhaoyuan-huo/</link>
-      <atom:link href="/authors/zhaoyuan-huo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.github.io/cogrob-website/authors/zhaoyuan-huo/</link>
+      <atom:link href="https://cogrob.github.io/cogrob-website/authors/zhaoyuan-huo/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhaoyuan Huo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Custom soft robotic gripper sensor skins for haptic object visualization</title>
-      <link>/publication/shih-2017-custom/</link>
+      <link>https://cogrob.github.io/cogrob-website/publication/shih-2017-custom/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/shih-2017-custom/</guid>
+      <guid>https://cogrob.github.io/cogrob-website/publication/shih-2017-custom/</guid>
       <description></description>
     </item>
     
