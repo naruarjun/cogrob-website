@@ -30,6 +30,8 @@
     <div class="card-img-left example-card-img-responsive my-auto img-hover-zoom">
       <a href="{{ $link }}" {{$target | safeHTMLAttr}}>
   <img style="padding:10px" src="{{$resource.RelPermalink}}" />
+  {{ $resource }}
+  {{ $resource.RelPermalink }}
   </a>
   {{ else }}
     <div class="card-img-left example-card-img-responsive my-auto">

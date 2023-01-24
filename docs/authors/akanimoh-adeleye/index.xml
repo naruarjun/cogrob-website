@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Akanimoh Adeleye | Cognitive Robotics</title>
-    <link>https://cogrob.github.io/authors/akanimoh-adeleye/</link>
-      <atom:link href="https://cogrob.github.io/authors/akanimoh-adeleye/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/akanimoh-adeleye/</link>
+      <atom:link href="/authors/akanimoh-adeleye/index.xml" rel="self" type="application/rss+xml" />
     <description>Akanimoh Adeleye</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Place-And-Pick-Based Re-Grasping Using Unstable Placement</title>
-      <link>https://cogrob.github.io/publication/isrr-22-cogrob/</link>
+      <link>/publication/isrr-22-cogrob/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/publication/isrr-22-cogrob/</guid>
+      <guid>/publication/isrr-22-cogrob/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Putting away the Groceries with Precise Semantic Placements</title>
-      <link>https://cogrob.github.io/publication/adeleye-23-putaway/</link>
+      <link>/publication/adeleye-23-putaway/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/publication/adeleye-23-putaway/</guid>
+      <guid>/publication/adeleye-23-putaway/</guid>
       <description></description>
     </item>
     

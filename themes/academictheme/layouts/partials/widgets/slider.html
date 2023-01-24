@@ -24,6 +24,8 @@
 
     {{ if $item.background.media }}
       {{ $bg_img := resources.Get (printf "media/%s" $item.background.media) }}
+      {{ $bg_img}}
+      {{ $bg_img.RelPermalink }}
       {{ if $bg_img }}
         {{ $style_bg = printf "%sbackground-image: url('%s'); background-repeat: no-repeat; background-position: %s; background-size: %s; " $style_bg $bg_img.RelPermalink ($item.background.position | default "center") ($item.background.fit | default "cover") }}
       {{ else }}

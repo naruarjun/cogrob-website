@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dynamic_scene_modelling | Cognitive Robotics</title>
-    <link>https://cogrob.github.io/projects/dynamic_scene_modelling/</link>
-      <atom:link href="https://cogrob.github.io/projects/dynamic_scene_modelling/index.xml" rel="self" type="application/rss+xml" />
+    <link>/projects/dynamic_scene_modelling/</link>
+      <atom:link href="/projects/dynamic_scene_modelling/index.xml" rel="self" type="application/rss+xml" />
     <description>dynamic_scene_modelling</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <item>
       <title>David Paz</title>
-      <link>https://cogrob.github.io/authors/david/</link>
+      <link>/authors/david/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/david/</guid>
+      <guid>/authors/david/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m David!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hengyuan Zhang</title>
-      <link>https://cogrob.github.io/authors/henry/</link>
+      <link>/authors/henry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/henry/</guid>
+      <guid>/authors/henry/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Henry!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Luobin Wang</title>
-      <link>https://cogrob.github.io/authors/robin/</link>
+      <link>/authors/robin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/robin/</guid>
+      <guid>/authors/robin/</guid>
       <description>&lt;p&gt;Something&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Seth Farell</title>
-      <link>https://cogrob.github.io/authors/seth/</link>
+      <link>/authors/seth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/seth/</guid>
+      <guid>/authors/seth/</guid>
       <description>&lt;p&gt;Seth is a graduate student in the Electrical and Computer Engineering department&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Srinidhi Bharadwaj</title>
-      <link>https://cogrob.github.io/authors/srinidhi/</link>
+      <link>/authors/srinidhi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/srinidhi/</guid>
+      <guid>/authors/srinidhi/</guid>
       <description>&lt;p&gt;Something&lt;/p&gt;
 </description>
     </item>

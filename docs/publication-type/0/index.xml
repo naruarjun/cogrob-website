@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>0 | Cognitive Robotics</title>
-    <link>https://cogrob.github.io/publication-type/0/</link>
-      <atom:link href="https://cogrob.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication-type/0/</link>
+      <atom:link href="/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Single RGB-D Camera Teleoperation for General Robotic Manipulation</title>
-      <link>https://cogrob.github.io/publication/vuong-2021-single/</link>
+      <link>/publication/vuong-2021-single/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/publication/vuong-2021-single/</guid>
+      <guid>/publication/vuong-2021-single/</guid>
       <description></description>
     </item>
     

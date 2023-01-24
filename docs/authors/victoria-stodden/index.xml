@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Victoria Stodden | Cognitive Robotics</title>
-    <link>https://cogrob.github.io/authors/victoria-stodden/</link>
-      <atom:link href="https://cogrob.github.io/authors/victoria-stodden/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/victoria-stodden/</link>
+      <atom:link href="/authors/victoria-stodden/index.xml" rel="self" type="application/rss+xml" />
     <description>Victoria Stodden</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Realizing the Potential of Data Science</title>
-      <link>https://cogrob.github.io/publication/berman-18-realizpotendatascien/</link>
+      <link>/publication/berman-18-realizpotendatascien/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/publication/berman-18-realizpotendatascien/</guid>
+      <guid>/publication/berman-18-realizpotendatascien/</guid>
       <description></description>
     </item>
     

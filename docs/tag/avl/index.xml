@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AVL | Cognitive Robotics</title>
-    <link>https://cogrob.github.io/tag/avl/</link>
-      <atom:link href="https://cogrob.github.io/tag/avl/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/avl/</link>
+      <atom:link href="/tag/avl/index.xml" rel="self" type="application/rss+xml" />
     <description>AVL</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Self-Driving Mail Delivery Begins on Campus!</title>
-      <link>https://cogrob.github.io/post/self_driving_delivery/</link>
+      <link>/post/self_driving_delivery/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/post/self_driving_delivery/</guid>
+      <guid>/post/self_driving_delivery/</guid>
       <description>&lt;p&gt;As part of a campus wide collaboration with UCSD’s Fleet Services, Logistics, Mailing Center, and Police Department, AVL has deployed two self-driving vehicles that are being actively used for research with applications for mail delivery. During summer 2019, AVL’s vehicles completed missions to multiple campus mailing center locations including Warren and Sixth colleges. Unlike current self-driving car applications, many of the routes tested consist of pedestrian and vehicle interactions in unstructured environments that are under constant construction. Given the complexity of campus topology and interaction scenarios, the data collected is being evaluated to benchmark performance and long term autonomy.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://ucsdnews.ucsd.edu/feature/self-driving-mail-delivery-begins-on-campus?_ga=2.49049893.2095787280.1574181467-704518755.1543349897&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Full story&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://avl.ucsd.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AVL&lt;/a&gt;&lt;/p&gt;</description>

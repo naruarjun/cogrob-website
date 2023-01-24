@@ -1,222 +1,222 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Cognitive Robotics</title>
-    <link>https://cogrob.github.io/authors/</link>
-      <atom:link href="https://cogrob.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
+    <title>Cognitive Robotics</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cognitive Robotics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Akanimoh Adeleye</title>
-      <link>https://cogrob.github.io/authors/sanmi/</link>
+      <link>/authors/sanmi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/sanmi/</guid>
+      <guid>/authors/sanmi/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Sanmi!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Alexander Langley</title>
-      <link>https://cogrob.github.io/authors/ajlangley/</link>
+      <link>/authors/ajlangley/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/ajlangley/</guid>
+      <guid>/authors/ajlangley/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m AJ!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Andrea Frank</title>
-      <link>https://cogrob.github.io/authors/andi/</link>
+      <link>/authors/andi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/andi/</guid>
+      <guid>/authors/andi/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Andi!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Anwesan Pal</title>
-      <link>https://cogrob.github.io/authors/anwesan/</link>
+      <link>/authors/anwesan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/anwesan/</guid>
+      <guid>/authors/anwesan/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Anwesan!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Carlos Nieto-Granda</title>
-      <link>https://cogrob.github.io/authors/carlos/</link>
+      <link>/authors/carlos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/carlos/</guid>
+      <guid>/authors/carlos/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Carlos!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Christopher D&#39;Ambrosia</title>
-      <link>https://cogrob.github.io/authors/chris/</link>
+      <link>/authors/chris/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/chris/</guid>
+      <guid>/authors/chris/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Anwesan!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>David Paz</title>
-      <link>https://cogrob.github.io/authors/david/</link>
+      <link>/authors/david/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/david/</guid>
+      <guid>/authors/david/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m David!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hengyuan Zhang</title>
-      <link>https://cogrob.github.io/authors/henry/</link>
+      <link>/authors/henry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/henry/</guid>
+      <guid>/authors/henry/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Henry!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Henrik I Christensen</title>
-      <link>https://cogrob.github.io/authors/henrik/</link>
+      <link>/authors/henrik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/henrik/</guid>
+      <guid>/authors/henrik/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jaskaran Virdi</title>
-      <link>https://cogrob.github.io/authors/jaskaran_virdi/</link>
+      <link>/authors/jaskaran_virdi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/jaskaran_virdi/</guid>
+      <guid>/authors/jaskaran_virdi/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Jaskaran!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Jiaming Hu</title>
-      <link>https://cogrob.github.io/authors/jiaming/</link>
+      <link>/authors/jiaming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/jiaming/</guid>
+      <guid>/authors/jiaming/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Frank!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Luobin Wang</title>
-      <link>https://cogrob.github.io/authors/robin/</link>
+      <link>/authors/robin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/robin/</guid>
+      <guid>/authors/robin/</guid>
       <description>&lt;p&gt;Something&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Michelle Sit</title>
-      <link>https://cogrob.github.io/authors/michelle/</link>
+      <link>/authors/michelle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/michelle/</guid>
+      <guid>/authors/michelle/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Michelle!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Priyam Parashar</title>
-      <link>https://cogrob.github.io/authors/priyam/</link>
+      <link>/authors/priyam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/priyam/</guid>
+      <guid>/authors/priyam/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Priyam!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Quan Vuong</title>
-      <link>https://cogrob.github.io/authors/quan/</link>
+      <link>/authors/quan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/quan/</guid>
+      <guid>/authors/quan/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Quan!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Rohan Patil</title>
-      <link>https://cogrob.github.io/authors/rohan/</link>
+      <link>/authors/rohan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/rohan/</guid>
+      <guid>/authors/rohan/</guid>
       <description>&lt;p&gt;Something&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ruffin White</title>
-      <link>https://cogrob.github.io/authors/ruffin/</link>
+      <link>/authors/ruffin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/ruffin/</guid>
+      <guid>/authors/ruffin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Ruffin!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Seth Farell</title>
-      <link>https://cogrob.github.io/authors/seth/</link>
+      <link>/authors/seth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/seth/</guid>
+      <guid>/authors/seth/</guid>
       <description>&lt;p&gt;Seth is a graduate student in the Electrical and Computer Engineering department&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Shengye Wang</title>
-      <link>https://cogrob.github.io/authors/shengye/</link>
+      <link>/authors/shengye/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/shengye/</guid>
+      <guid>/authors/shengye/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Henry!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Shrutheesh R Iyer</title>
-      <link>https://cogrob.github.io/authors/shrutheesh/</link>
+      <link>/authors/shrutheesh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/shrutheesh/</guid>
+      <guid>/authors/shrutheesh/</guid>
       <description>&lt;p&gt;Something&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Srinidhi Bharadwaj</title>
-      <link>https://cogrob.github.io/authors/srinidhi/</link>
+      <link>/authors/srinidhi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/srinidhi/</guid>
+      <guid>/authors/srinidhi/</guid>
       <description>&lt;p&gt;Something&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Srirangan Madhavan</title>
-      <link>https://cogrob.github.io/authors/srirangan/</link>
+      <link>/authors/srirangan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/srirangan/</guid>
+      <guid>/authors/srirangan/</guid>
       <description>&lt;p&gt;Something&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sumit Binnani</title>
-      <link>https://cogrob.github.io/authors/sumit_binnani/</link>
+      <link>/authors/sumit_binnani/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/sumit_binnani/</guid>
+      <guid>/authors/sumit_binnani/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Ruffin!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Yiding Qiu</title>
-      <link>https://cogrob.github.io/authors/cassie/</link>
+      <link>/authors/cassie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/cassie/</guid>
+      <guid>/authors/cassie/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Cassie!&lt;/p&gt;
 </description>
     </item>

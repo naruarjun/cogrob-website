@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Cognitive Robotics # Website name
-baseURL: 'https://cogrob.github.io' # Website URL
+baseURL: '/' # Website URL
 theme: "academictheme"
 relativeURLs: True
 ############################

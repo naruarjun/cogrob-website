@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>yiding | Cognitive Robotics</title>
-    <link>https://cogrob.github.io/authors/yiding/</link>
-      <atom:link href="https://cogrob.github.io/authors/yiding/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/yiding/</link>
+      <atom:link href="/authors/yiding/index.xml" rel="self" type="application/rss+xml" />
     <description>yiding</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <item>
       <title>Yiding Qiu</title>
-      <link>https://cogrob.github.io/authors/cassie/</link>
+      <link>/authors/cassie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/cassie/</guid>
+      <guid>/authors/cassie/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Cassie!&lt;/p&gt;
 </description>
     </item>

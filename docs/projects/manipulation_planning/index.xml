@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>manipulation_planning | Cognitive Robotics</title>
-    <link>https://cogrob.github.io/projects/manipulation_planning/</link>
-      <atom:link href="https://cogrob.github.io/projects/manipulation_planning/index.xml" rel="self" type="application/rss+xml" />
+    <link>/projects/manipulation_planning/</link>
+      <atom:link href="/projects/manipulation_planning/index.xml" rel="self" type="application/rss+xml" />
     <description>manipulation_planning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <item>
       <title>Akanimoh Adeleye</title>
-      <link>https://cogrob.github.io/authors/sanmi/</link>
+      <link>/authors/sanmi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/sanmi/</guid>
+      <guid>/authors/sanmi/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Sanmi!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Andrea Frank</title>
-      <link>https://cogrob.github.io/authors/andi/</link>
+      <link>/authors/andi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/andi/</guid>
+      <guid>/authors/andi/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Andi!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Jiaming Hu</title>
-      <link>https://cogrob.github.io/authors/jiaming/</link>
+      <link>/authors/jiaming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/jiaming/</guid>
+      <guid>/authors/jiaming/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Frank!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Shrutheesh R Iyer</title>
-      <link>https://cogrob.github.io/authors/shrutheesh/</link>
+      <link>/authors/shrutheesh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cogrob.github.io/authors/shrutheesh/</guid>
+      <guid>/authors/shrutheesh/</guid>
       <description>&lt;p&gt;Something&lt;/p&gt;
 </description>
     </item>
