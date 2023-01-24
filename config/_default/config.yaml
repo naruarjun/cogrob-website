@@ -6,7 +6,6 @@
 title: Cognitive Robotics # Website name
 baseURL: '/' # Website URL
 theme: "academictheme"
-relativeURLs: True
 ############################
 ## LANGUAGE
 ############################
