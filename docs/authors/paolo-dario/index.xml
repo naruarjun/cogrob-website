@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paolo Dario | Cognitive Robotics</title>
-    <link>/authors/paolo-dario/</link>
-      <atom:link href="/authors/paolo-dario/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.org/authors/paolo-dario/</link>
+      <atom:link href="https://cogrob.org/authors/paolo-dario/index.xml" rel="self" type="application/rss+xml" />
     <description>Paolo Dario</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Combating COVID-19 -- the role of robotics in managing public health and infectious diseases</title>
-      <link>/publication/yang-20-comba-covid/</link>
+      <link>https://cogrob.org/publication/yang-20-comba-covid/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/yang-20-comba-covid/</guid>
+      <guid>https://cogrob.org/publication/yang-20-comba-covid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ten Technologies of the year</title>
-      <link>/publication/yang-19-tentechn/</link>
+      <link>https://cogrob.org/publication/yang-19-tentechn/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/yang-19-tentechn/</guid>
+      <guid>https://cogrob.org/publication/yang-19-tentechn/</guid>
       <description></description>
     </item>
     

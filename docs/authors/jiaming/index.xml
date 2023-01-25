@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>jiaming | Cognitive Robotics</title>
-    <link>/authors/jiaming/</link>
-      <atom:link href="/authors/jiaming/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.org/authors/jiaming/</link>
+      <atom:link href="https://cogrob.org/authors/jiaming/index.xml" rel="self" type="application/rss+xml" />
     <description>jiaming</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <item>
       <title>Environment-aware Manipulation and Planning</title>
-      <link>/projects/manipulation_planning/</link>
+      <link>https://cogrob.org/projects/manipulation_planning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/projects/manipulation_planning/</guid>
+      <guid>https://cogrob.org/projects/manipulation_planning/</guid>
       <description>&lt;p&gt;Some good content here. Followed by some other content&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Jiaming Hu</title>
-      <link>/authors/jiaming/</link>
+      <link>https://cogrob.org/authors/jiaming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/jiaming/</guid>
+      <guid>https://cogrob.org/authors/jiaming/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Frank!&lt;/p&gt;
 </description>
     </item>

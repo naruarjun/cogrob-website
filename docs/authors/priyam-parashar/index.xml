@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Priyam Parashar | Cognitive Robotics</title>
-    <link>/authors/priyam-parashar/</link>
-      <atom:link href="/authors/priyam-parashar/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.org/authors/priyam-parashar/</link>
+      <atom:link href="https://cogrob.org/authors/priyam-parashar/index.xml" rel="self" type="application/rss+xml" />
     <description>Priyam Parashar</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>A Hierarchical Model to Enable Plan Reuse and Repair in Assembly Domains</title>
-      <link>/publication/parashar-2021-case/</link>
+      <link>https://cogrob.org/publication/parashar-2021-case/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/parashar-2021-case/</guid>
+      <guid>https://cogrob.org/publication/parashar-2021-case/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Taxonomy for Characterizing Modes of Interactions in Goal-driven, Human-robot Teams</title>
-      <link>/publication/parashar-19-taxonomy/</link>
+      <link>https://cogrob.org/publication/parashar-19-taxonomy/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/parashar-19-taxonomy/</guid>
+      <guid>https://cogrob.org/publication/parashar-19-taxonomy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enabling Efficient Team Cooperation by Understanding Modes of Human-robot Interactions</title>
-      <link>/publication/parashar-19/</link>
+      <link>https://cogrob.org/publication/parashar-19/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/parashar-19/</guid>
+      <guid>https://cogrob.org/publication/parashar-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Lifelong Adaptive Agents: Using Meta- reasoning for Combining Task Planning and Situated Learning</title>
-      <link>/publication/parashar-18-ker/</link>
+      <link>https://cogrob.org/publication/parashar-18-ker/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/parashar-18-ker/</guid>
+      <guid>https://cogrob.org/publication/parashar-18-ker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using hierarchical expectations ground in percpetion for reasonign about failures during task execution</title>
-      <link>/publication/parashar-18/</link>
+      <link>https://cogrob.org/publication/parashar-18/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/parashar-18/</guid>
+      <guid>https://cogrob.org/publication/parashar-18/</guid>
       <description></description>
     </item>
     

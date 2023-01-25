@@ -38,7 +38,7 @@
   </div>
   <div class="card-body text-left">
   <div class="card-title h6 h6-sm article-title">
-    {{if $item.Params.external_link}}<a href="{{ $link }}" {{$target | safeHTMLAttr}}> {{end}}
+    {{if $item.Params.external_link}}<a href="{{ $link }}" {{$target | safeHTMLAttr}}>{{end}}
     <!-- {{ $item.Title }} -->
     {{ $item.Params.first_name }} {{ $item.Params.middle_name }} {{ $item.Params.last_name }}
     {{if $item.Params.external_link}}</a>{{end}}

@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chenxu Jiang | Cognitive Robotics</title>
-    <link>/authors/chenxu-jiang/</link>
-      <atom:link href="/authors/chenxu-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.org/authors/chenxu-jiang/</link>
+      <atom:link href="https://cogrob.org/authors/chenxu-jiang/index.xml" rel="self" type="application/rss+xml" />
     <description>Chenxu Jiang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Network Reconnaissance and Vulnerability Excavation of Secure DDS Systems</title>
-      <link>/publication/white-19/</link>
+      <link>https://cogrob.org/publication/white-19/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/white-19/</guid>
+      <guid>https://cogrob.org/publication/white-19/</guid>
       <description></description>
     </item>
     

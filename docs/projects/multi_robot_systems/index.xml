@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>multi_robot_systems | Cognitive Robotics</title>
-    <link>/projects/multi_robot_systems/</link>
-      <atom:link href="/projects/multi_robot_systems/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.org/projects/multi_robot_systems/</link>
+      <atom:link href="https://cogrob.org/projects/multi_robot_systems/index.xml" rel="self" type="application/rss+xml" />
     <description>multi_robot_systems</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <item>
       <title>Alexander Langley</title>
-      <link>/authors/ajlangley/</link>
+      <link>https://cogrob.org/authors/ajlangley/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/ajlangley/</guid>
+      <guid>https://cogrob.org/authors/ajlangley/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m AJ!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Rohan Patil</title>
-      <link>/authors/rohan/</link>
+      <link>https://cogrob.org/authors/rohan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/rohan/</guid>
+      <guid>https://cogrob.org/authors/rohan/</guid>
       <description>&lt;p&gt;Something&lt;/p&gt;
 </description>
     </item>

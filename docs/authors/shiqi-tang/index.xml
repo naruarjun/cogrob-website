@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shiqi Tang | Cognitive Robotics</title>
-    <link>/authors/shiqi-tang/</link>
-      <atom:link href="/authors/shiqi-tang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.org/authors/shiqi-tang/</link>
+      <atom:link href="https://cogrob.org/authors/shiqi-tang/index.xml" rel="self" type="application/rss+xml" />
     <description>Shiqi Tang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Autonomous Vehicles for Micro-Mobility</title>
-      <link>/publication/christensen-21-avl/</link>
+      <link>https://cogrob.org/publication/christensen-21-avl/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/christensen-21-avl/</guid>
+      <guid>https://cogrob.org/publication/christensen-21-avl/</guid>
       <description></description>
     </item>
     

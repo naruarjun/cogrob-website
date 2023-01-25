@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>anwesan | Cognitive Robotics</title>
-    <link>/authors/anwesan/</link>
-      <atom:link href="/authors/anwesan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.org/authors/anwesan/</link>
+      <atom:link href="https://cogrob.org/authors/anwesan/index.xml" rel="self" type="application/rss+xml" />
     <description>anwesan</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <item>
       <title>Semantic Perception</title>
-      <link>/projects/semantic_perception/</link>
+      <link>https://cogrob.org/projects/semantic_perception/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/projects/semantic_perception/</guid>
+      <guid>https://cogrob.org/projects/semantic_perception/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anwesan Pal</title>
-      <link>/authors/anwesan/</link>
+      <link>https://cogrob.org/authors/anwesan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/anwesan/</guid>
+      <guid>https://cogrob.org/authors/anwesan/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Anwesan!&lt;/p&gt;
 </description>
     </item>

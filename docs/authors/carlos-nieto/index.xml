@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carlos Nieto | Cognitive Robotics</title>
-    <link>/authors/carlos-nieto/</link>
-      <atom:link href="/authors/carlos-nieto/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.org/authors/carlos-nieto/</link>
+      <atom:link href="https://cogrob.org/authors/carlos-nieto/index.xml" rel="self" type="application/rss+xml" />
     <description>Carlos Nieto</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <item>
       <title>DEDUCE: Diverse scEne Detection methods in Unseen Challenging Environments</title>
-      <link>/publication/pal-19-deduc/</link>
+      <link>https://cogrob.org/publication/pal-19-deduc/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/pal-19-deduc/</guid>
+      <guid>https://cogrob.org/publication/pal-19-deduc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributed mapping with privacy and communication constraints: Lightweight algorithms and object-based models</title>
-      <link>/publication/doi-10-1177-0278364917732640/</link>
+      <link>https://cogrob.org/publication/doi-10-1177-0278364917732640/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/doi-10-1177-0278364917732640/</guid>
+      <guid>https://cogrob.org/publication/doi-10-1177-0278364917732640/</guid>
       <description></description>
     </item>
     

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jishen Zhao | Cognitive Robotics</title>
-    <link>/authors/jishen-zhao/</link>
-      <atom:link href="/authors/jishen-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.org/authors/jishen-zhao/</link>
+      <atom:link href="https://cogrob.org/authors/jishen-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Jishen Zhao</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Robotic Reliability Engineering: A Story of Long-term TritonBot Development</title>
-      <link>/publication/fsr-19-robustness/</link>
+      <link>https://cogrob.org/publication/fsr-19-robustness/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/fsr-19-robustness/</guid>
+      <guid>https://cogrob.org/publication/fsr-19-robustness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rorg: Service Robot Software Management with Linux Containers</title>
-      <link>/publication/wang-19-rorg/</link>
+      <link>https://cogrob.org/publication/wang-19-rorg/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/wang-19-rorg/</guid>
+      <guid>https://cogrob.org/publication/wang-19-rorg/</guid>
       <description></description>
     </item>
     

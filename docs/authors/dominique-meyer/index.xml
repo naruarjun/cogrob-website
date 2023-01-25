@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dominique Meyer | Cognitive Robotics</title>
-    <link>/authors/dominique-meyer/</link>
-      <atom:link href="/authors/dominique-meyer/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.org/authors/dominique-meyer/</link>
+      <atom:link href="https://cogrob.org/authors/dominique-meyer/index.xml" rel="self" type="application/rss+xml" />
     <description>Dominique Meyer</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Autonomous Vehicles for Micro-Mobility</title>
-      <link>/publication/christensen-21-avl/</link>
+      <link>https://cogrob.org/publication/christensen-21-avl/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/christensen-21-avl/</guid>
+      <guid>https://cogrob.org/publication/christensen-21-avl/</guid>
       <description></description>
     </item>
     

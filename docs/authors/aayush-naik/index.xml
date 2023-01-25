@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aayush Naik | Cognitive Robotics</title>
-    <link>/authors/aayush-naik/</link>
-      <atom:link href="/authors/aayush-naik/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.org/authors/aayush-naik/</link>
+      <atom:link href="https://cogrob.org/authors/aayush-naik/index.xml" rel="self" type="application/rss+xml" />
     <description>Aayush Naik</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>A Hierarchical Model to Enable Plan Reuse and Repair in Assembly Domains</title>
-      <link>/publication/parashar-2021-case/</link>
+      <link>https://cogrob.org/publication/parashar-2021-case/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/parashar-2021-case/</guid>
+      <guid>https://cogrob.org/publication/parashar-2021-case/</guid>
       <description></description>
     </item>
     

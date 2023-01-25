@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yiding Qiu | Cognitive Robotics</title>
-    <link>/authors/yiding-qiu/</link>
-      <atom:link href="/authors/yiding-qiu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.org/authors/yiding-qiu/</link>
+      <atom:link href="https://cogrob.org/authors/yiding-qiu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yiding Qiu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Learning hierarchical relationships for object-goal navigation</title>
-      <link>/publication/qiu-20-corl/</link>
+      <link>https://cogrob.org/publication/qiu-20-corl/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/qiu-20-corl/</guid>
+      <guid>https://cogrob.org/publication/qiu-20-corl/</guid>
       <description></description>
     </item>
     

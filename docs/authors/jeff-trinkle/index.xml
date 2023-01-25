@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeff Trinkle | Cognitive Robotics</title>
-    <link>/authors/jeff-trinkle/</link>
-      <atom:link href="/authors/jeff-trinkle/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.org/authors/jeff-trinkle/</link>
+      <atom:link href="https://cogrob.org/authors/jeff-trinkle/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeff Trinkle</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>A Roadmap for US Robotics - From Internet to Robotics 2020 Edition</title>
-      <link>/publication/rob-066/</link>
+      <link>https://cogrob.org/publication/rob-066/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/rob-066/</guid>
+      <guid>https://cogrob.org/publication/rob-066/</guid>
       <description></description>
     </item>
     

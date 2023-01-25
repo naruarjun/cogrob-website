@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peer Fischer | Cognitive Robotics</title>
-    <link>/authors/peer-fischer/</link>
-      <atom:link href="/authors/peer-fischer/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cogrob.org/authors/peer-fischer/</link>
+      <atom:link href="https://cogrob.org/authors/peer-fischer/index.xml" rel="self" type="application/rss+xml" />
     <description>Peer Fischer</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Ten Technologies of the year</title>
-      <link>/publication/yang-19-tentechn/</link>
+      <link>https://cogrob.org/publication/yang-19-tentechn/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/yang-19-tentechn/</guid>
+      <guid>https://cogrob.org/publication/yang-19-tentechn/</guid>
       <description></description>
     </item>
     
