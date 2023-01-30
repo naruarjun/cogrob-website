@@ -5,7 +5,7 @@ first_name: Luobin
 middle_name:
 last_name: Wang
 subtitle: MS in CSE.
-
+alias_name: Robin
 # Username (this should match the folder name)
 authors:
   - robin

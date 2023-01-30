@@ -21,7 +21,7 @@ organizations:
   - name: CSE, UC San Diego
     url: 'https://www.cse.ucsd.edu'
 
-external_link: 'https://people.csail.mit.edu/dpaz/'
+external_link: 'http://avl.ucsd.edu/dfpazr/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Some bio about me.
