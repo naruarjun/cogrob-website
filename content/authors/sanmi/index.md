@@ -28,9 +28,9 @@ external_link: ''
 bio: Some bio about me.
 
 interests:
-  - Robotics Exploration
-  - Reinforcement Learning
-  - Human Robot Interaction
+  - Computer Vision 
+  - Machine Learning
+  - Robotic Manipulation
 
 show_education: true
 show_project: true
