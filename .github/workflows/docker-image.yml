@@ -7,13 +7,11 @@ on:
     branches: [ "main" ]
 
 jobs:
-
   build:
 
     runs-on: ubuntu-latest
-
     steps:
-    - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag hugo_img:v1
-    -name: Run the container
-      run: docker run -t -i --net=host --name cogrob_local_temp -v $(pwd):/src hugo_img:v1
+      - name: Build
+        run: docker build . --file Dockerfile --tag hugo_img:v1
+      - name: Deploy
+        run: docker run -t -i --net=host -v $(pwd):/src hugo_img:v1
