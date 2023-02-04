@@ -6,7 +6,7 @@ RUN apt-get update && apt-get install -y \
 
 RUN pip3 install academic==0.5.1
 
-RUN apt-get install -y ssh-askpass sshpass
+RUN apt-get install -y ssh-askpass sshpass rsync
 # Copies your code file from your action repository to the filesystem path `/` of the container
 COPY entrypoint.sh /entrypoint.sh
 
