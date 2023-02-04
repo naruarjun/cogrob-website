@@ -13,6 +13,6 @@ jobs:
 
     steps:
     - name: Build docker images
-      run: docker build -t local .
+      run: docker build . --file Dockerfile --tag hugo_img:v1
     - name: Run tests
-      run: docker run --net=host -v ${{ github.workspace }}:/src local
+      run: docker run --net=host -v ${{ github.workspace }}:/src hugo_img:v1
