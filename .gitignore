@@ -1,0 +1,3 @@
+docs/
+content/publication/*
+!content/publication/_index.md
