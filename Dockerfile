@@ -2,7 +2,6 @@ FROM klakegg/hugo:ext-ubuntu
 
 # Install dependencies
 RUN apt-get update && apt-get install -y \
-    php5-mcrypt \
     python-pip
 
 RUN pip install academic
