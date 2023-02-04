@@ -9,9 +9,7 @@ on:
 jobs:
 
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v3
     - name: Build the Docker image
@@ -19,11 +17,12 @@ jobs:
   
   compile:
     name: Compile site assets
+    needs: build
     runs-on: ubuntu-latest
     steps:
       - name: Run the build process with Docker
         uses: addnab/docker-run-action@v3
         with:
           image: hugo_img:v1
-          options: -v ${{ github.workspace }}:/src -t -i --net=host
+          options: -v ${{ github.workspace }}:/src --net=host
           run: echo "Done"
