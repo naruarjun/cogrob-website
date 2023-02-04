@@ -16,5 +16,14 @@ jobs:
     - uses: actions/checkout@v3
     - name: Build the Docker image
       run: docker build . --file Dockerfile --tag hugo_img:v1
-    -name: Run the container
-      run: docker run -t -i --net=host --name cogrob_local_temp -v $(pwd):/src hugo_img:v1
+  
+  compile:
+    name: Compile site assets
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run the build process with Docker
+        uses: addnab/docker-run-action@v3
+        with:
+          image: hugo_img:v1
+          options: -v ${{ github.workspace }}:/src -t -i --net=host
+          run: echo "Done"
