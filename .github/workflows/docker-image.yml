@@ -9,10 +9,11 @@ on:
 jobs:
 
   build:
+
     runs-on: ubuntu-latest
 
     steps:
-    - name: Build docker images
+    - name: Build the Docker image
       run: docker build . --file Dockerfile --tag hugo_img:v1
-    - name: Run tests
-      run: docker run --net=host -v ${{ github.workspace }}:/src hugo_img:v1
+    -name: Run the container
+      run: docker run -t -i --net=host --name cogrob_local_temp -v $(pwd):/src hugo_img:v1
