@@ -1,8 +1,6 @@
-#!/bin/sh -l
+#!/usr/bin/env sh
 
-echo "Hello $1"
-time=$(date)
-echo "time=$time" >> $GITHUB_OUTPUT
+chmod +x /src/scripts/process.sh
 
-cd scripts/ && ./process.sh
-hugo
+cd /src/ && ./scripts/process.sh
+cd /src/ && hugo

@@ -2,13 +2,14 @@ FROM klakegg/hugo:ext-ubuntu
 
 # Install dependencies
 RUN apt-get update && apt-get install -y \
-    python-pip
+    python3-pip
 
-RUN pip install academic
+RUN pip3 install academic==0.5.1
 
 # Copies your code file from your action repository to the filesystem path `/` of the container
 COPY entrypoint.sh /entrypoint.sh
 
+RUN ["chmod", "+x", "/entrypoint.sh"]
+
 # Code file to execute when the docker container starts up (`entrypoint.sh`)
 ENTRYPOINT ["/entrypoint.sh"]
-
