@@ -15,4 +15,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Run
-        run: chmod +x script/build_and_deploy.sh && script/build_and_deploy.sh
+        run: chmod +x scripts/build_and_deploy.sh && scripts/build_and_deploy.sh
