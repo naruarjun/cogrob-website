@@ -1,7 +1,7 @@
-name: PR CI
+name: Push CI
 
 on:
-  pull_request:
+  push:
     branches: [ "main" ]
 
 jobs:
@@ -15,4 +15,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Run
-        run: chmod +x scripts/build_process.sh && scripts/build_process.sh
+        run: chmod +x script/build_and_deploy.sh && script/build_and_deploy.sh
