@@ -1,7 +1,7 @@
-name: PR CI
+name: Push CI
 
 on:
-  pull_request:
+  push:
     branches: [ "main" ]
 
 jobs:
@@ -13,4 +13,4 @@ jobs:
       - name: Build
         run: docker build . --file Dockerfile --tag hugo_img:v1
       - name: Deploy
-        run: docker run --net=host --name cogrob_local -v $(pwd):/src hugo_img:v1 && docker start cogrob_local && docker exec cogrob_local /bin/bash /src/scripts/build_process.sh
+        run: docker run --net=host --name cogrob_local -v $(pwd):/src hugo_img:v1 && docker start cogrob_local && docker exec cogrob_local /bin/bash /src/scripts/build_and_deploy.sh
