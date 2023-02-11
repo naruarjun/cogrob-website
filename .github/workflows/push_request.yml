@@ -10,9 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: shrutheeshir/hugo-academic-ssh:v1
+      volumes:
+        - my_docker_volume:/src
+      options: --net=host      
     steps:
       - uses: actions/checkout@v3
-      - name: Deploy
-        run: docker run --net=host --name cogrob_local -v $(pwd):/src hugo-academic-ssh:v1
       - name: Run
-        run: docker start cogrob_local && docker exec cogrob_local /bin/bash /src/scripts/build_and_deploy.sh
+        run: build_and_deploy.sh
