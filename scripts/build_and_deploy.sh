@@ -1,4 +1,5 @@
-cd /src/ && ./scripts/process.sh
-cd /src/ && hugo
-
-cd /src/ && ./scripts/deploy.sh
+chmod +x scripts/process.sh
+chmod +x scripts/deploy.sh
+scripts/process.sh
+hugo
+scripts/deploy.sh
