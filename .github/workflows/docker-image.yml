@@ -15,4 +15,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Run
-        run: echo $(pwd) && ls $(pwd)
+        run: scripts/build_process.sh

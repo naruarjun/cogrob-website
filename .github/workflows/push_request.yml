@@ -15,4 +15,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Run
-        run: ./src/script/build_and_deploy.sh
+        run: script/build_and_deploy.sh
