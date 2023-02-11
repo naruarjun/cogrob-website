@@ -13,4 +13,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Deploy
-        run: docker run --net=host --name cogrob_local -v $(pwd):/src hugo-academic-ssh:v1 && docker start cogrob_local && docker exec cogrob_local /bin/bash /src/scripts/build_process.sh
+        run: docker run --net=host --name cogrob_local -v $(pwd):/src hugo-academic-ssh:v1
+      - name: Run
+        run: docker start cogrob_local && docker exec cogrob_local /bin/bash /src/scripts/build_process.sh
