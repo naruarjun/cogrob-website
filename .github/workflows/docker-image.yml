@@ -7,7 +7,9 @@ on:
 jobs:
   build:
 
-    runs-on: shrutheeshir/hugo-academic-ssh:v1
+    runs-on: ubuntu-latest
+    container:
+      image: shrutheeshir/hugo-academic-ssh:v1
     steps:
       - uses: actions/checkout@v3
       - name: Deploy
