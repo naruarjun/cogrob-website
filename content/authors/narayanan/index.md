@@ -5,7 +5,7 @@ first_name: Narayanan
 middle_name: Elavathur
 last_name: Ranganatha
 subtitle: MS in CSE.
-
+alias_name: Naru
 # Username (this should match the folder name)
 authors:
   - narayanan
