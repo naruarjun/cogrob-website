@@ -29,7 +29,6 @@ bio: Some bio about me.
 interests:
   - Perception
   - Autonomous driving
-  - Artificial Intelligence with Robotics
 
 
 show_education: true
